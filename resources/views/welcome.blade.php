@@ -28,9 +28,7 @@
         />
     </head>
     <body
-        style="
-            background-image: url('{{asset('assets')}}/img/coffee shop with warm atmosphere [ wallpaper 4k ].png');
-        "
+        style="background-image: url('{{ asset('assets/img/coffee_shop.png') }}');">
     >
     <div class="container" id="container">
         <!-- Biểu mẫu đăng ký -->
