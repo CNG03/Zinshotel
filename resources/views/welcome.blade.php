@@ -27,16 +27,15 @@
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
         />
     </head>
-    <body
-       
-    >
+    <body>
     <img style="position: fixed; /* Đặt ảnh ở vị trí cố định */
     top: 0;
     left: 0;
     width: 100%; /* Ảnh sẽ chiếm toàn bộ chiều rộng của trang */
     height: 100%; /* Ảnh sẽ chiếm toàn bộ chiều cao của trang */
     object-fit: cover; /* Đảm bảo ảnh không bị biến dạng */
-    z-index: -1;" src="{{asset('assets')}}/img/coffee shop with warm atmosphere [ wallpaper 4k ].png" alt="Background Image">
+    z-index: -1;" src="{{asset('assets')}}/img/coffee shop with warm atmosphere [ wallpaper 4k ].png" alt="Background Image"
+    >
     <div class="container" id="container">
         <!-- Biểu mẫu đăng ký -->
         <form action="Register.php" method="post" class="form-container register-container">
