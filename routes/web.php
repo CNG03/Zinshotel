@@ -14,6 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('login_sign-up');
 });
 
+Route::get('sao', function () {
+    return view('home');
+});
