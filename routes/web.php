@@ -17,6 +17,4 @@ Route::get('/', function () {
     return view('login_sign-up');
 });
 
-Route::get('sao', function () {
-    return view('home');
-});
+
