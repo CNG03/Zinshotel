@@ -14,7 +14,12 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('login_sign-up');
+});
+
+
+Route::get('/booking-confirmation', function () {
+    return view('booking-confirmation');
 });
 
 Route::get('home', function () {
