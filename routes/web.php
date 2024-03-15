@@ -22,3 +22,6 @@ Route::get('/booking-confirmation', function () {
     return view('booking-confirmation');
 });
 
+Route::get('home', function () {
+    return view('home');
+});
