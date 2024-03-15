@@ -17,7 +17,6 @@ Route::get('/', function () {
     return view('login_sign-up');
 });
 
-
 Route::get('/booking-confirmation', function () {
     return view('booking-confirmation');
 });

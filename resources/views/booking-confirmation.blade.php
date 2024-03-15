@@ -240,8 +240,7 @@
 
                     {{-- THanh NavBar  --}}
 			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu7" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Restaurant</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Spa</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Service</a></li>
 </ul></div></div>		</div>
 				</div>
 					</div>
@@ -354,8 +353,7 @@
 				<div class="elementor-widget-container">
                     {{-- Duong link cua thanh nav khi cuon duoc giu duoc o dau trang  --}}
 			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu22" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Restaurant</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Spa</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Service</a></li>
 </ul></div></div>		</div>
 				</div>
 					</div>
@@ -364,7 +362,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-064f101 elementor-widget elementor-widget-image" data-id="064f101" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://hotellerv6-5.themegoods.com/ski">
+																<a href="">
 							<img width="298" height="182" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
 															</div>
 				</div>
