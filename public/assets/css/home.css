@@ -2,7 +2,7 @@
     /* display: flex; */
 }
 .background{
-    background-image: url("header-img.png");
+    background-image: url('assets/img/header-img.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -278,6 +278,7 @@ dfhsdgsdfhdss */
     background-color: white;
     display: none;
     margin-left: 15%;
+    z-index: 9999;
 }
 .header-floatingDiv ul li{
     margin-top: 25px;
