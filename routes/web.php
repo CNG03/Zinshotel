@@ -18,3 +18,7 @@ Route::get('/', function () {
 });
 
 
+Route::get('/booking-confirmation', function () {
+    return view('booking-confirmation');
+});
+
