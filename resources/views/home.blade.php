@@ -12,7 +12,7 @@
 </head>
 
 <body style="font-family: 'Times New Roman', Times, serif;">
-    <div class="background">
+    <div class="background" style="background-image: url('{{asset('assets')}}/img/header-img.png');">
         <section class="header-background">
             <section class="header">
                 <div id="floatingDiv">
@@ -69,7 +69,7 @@
     <section class="content" style="width: 100%;background-color: #F1F0EB;">
         <section class="winter-special-offer">
             <div style="margin-top: 200px;" class="winter-img col-md-6">
-                <img src="winter-img.png" alt="">
+                <img src="{{asset('assets')}}/img/winter-img.png" alt="">
             </div>
             <div class="col-md-6 spa-ads winter-special-offer-text">
                 <h1>Winter Special</h1>
@@ -213,7 +213,7 @@
             <div style=" display: flex;
             justify-content: center;
             align-items: center;">
-                <img style="width: 90%; align-content: center;" src="big-img.png" alt="">
+                <img style="width: 90%; align-content: center;" src="{{asset('assets')}}/img/home-big-img.png" alt="">
             </div>
         </section>
         <section style="margin-top: 100px;" class="offers">
