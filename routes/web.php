@@ -24,6 +24,9 @@ Route::get('/service', function () {
 Route::get('/booking-confirmation', function () {
     return view('booking-confirmation');
 });
+Route::get('Search', function () {
+    return view('Search');
+});
 
 Route::get('home', function () {
     return view('home');
