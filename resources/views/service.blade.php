@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Service</title>
+     @include('layout.link-css')
     <link rel="stylesheet" href="./abc/fontawesome-free-5.15.4-web/fontawesome-free-5.15.4-web/css/all.min.css">
+    <!-- <link rel="stylesheet" href="{{asset('assets')}}/css/home.css"> -->
     <link rel="stylesheet" href="{{asset('assets')}}/css/service.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -77,73 +79,76 @@
 
             <section style="margin-top: 50px;" class="bonus-service">
                 <div class="row" style="width: 100%;">
-                    <div class="service-item col-md-2";>
+                    <div class="service-item col-md-2">
                         <a class="service-style" href="">
                             <div class="service-img">
-                                <img src="https://media.istockphoto.com/id/1351326672/vi/anh/nh%C3%ACn-v%E1%BB%81-ph%C3%ADa-nam-d%E1%BB%8Dc-theo-s%C3%B4ng-thames-t%E1%BB%AB-c%C3%A1p-treo-tr%C3%AAn-cao-emirates-air-line-london-anh-v%C6%B0%C6%A1ng.jpg?s=612x612&w=0&k=20&c=REmaMQey14BSDIPnDeLfDflzah1IiZpG6siPdFb8CKc=" alt="">
+                                <img src="{{asset('assets')}}/img/service/cable car.png" alt="">
                             </div>
                             <div class="learn-more">
                                 <button type="button" class="btn">More</button>
                             </div>
-                            <div class="service-info-text">
+                            <div>
                                 <h3>Cable Car</h3>
-                                <p>đ/Person</p>
+                                <p>110$/Person</p>
                             </div>
                         </a>
                     </div>
-                    <div class="service-item col-md-3";>
+
+                    <div class="service-item col-md-2">
                         <a class="service-style" href="">
                             <div class="service-img">
-                                <img src="https://nhahangso.com/wp-content/uploads/2023/02/khach-hang-cua-quan-nuong-ngoai-troi.webp" alt="">
+                                <img src="{{asset('assets')}}/img/service/BBQ.png" alt="">
                             </div>
                             <div class="learn-more">
                                 <button type="button" class="btn">More</button>
                             </div>
-                            <div class="service-info-text">
+                            <div>
                                 <h3>BBQ</h3>
-                                <p>đ/Family</p>
+                                <p>450$/Family</p>
                             </div>
                         </a>
                     </div>
-                    <div class="service-item col-md-3";>
+
+                    <div class="service-item col-md-2">
                         <a class="service-style" href="">
                             <div class="service-img">
-                                <img src="https://media.istockphoto.com/id/200119694-002/vi/anh/female-kiteboarder-in-mid-air-looking-over-shoulder-low-angle-view.jpg?s=612x612&w=0&k=20&c=qG1pvmc2h1F45uB9u2voWC9w8aL38ACybncpB_Q-sYA=" alt="">
+                                <img src="{{asset('assets')}}/img/service/_Kiteboarding.png" alt="">
                             </div>
                             <div class="learn-more">
                                 <button type="button" class="btn">More</button>
                             </div>
-                            <div class="service-info-text">
+                            <div>
                                 <h3>Kitesurfing</h3>
-                                <p>đ/Person</p>
+                                <p>225$/Person</p>
                             </div>
                         </a>
                     </div>
-                    <div class="service-item col-md-2";>
+
+                    <div class="service-item col-md-2">
                         <a class="service-style" href="">
                             <div class="service-img">
-                                <img src="https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/03_2023/kinh-nghiem-di-thuy-phi-co-ha-long-quang-ninh-_.jpg" alt="">
+                                <img src="{{asset('assets')}}/img/service/seaplane.png" alt="">
                             </div>
                             <div class="learn-more">
                                 <button type="button" class="btn">More</button>
                             </div>
-                            <div class="service-info-text">
+                            <div>
                                 <h3>Seaplane</h3>
-                                <p>đ/hour</p>
+                                <p>160$/hour</p>
                             </div>
                         </a>
                     </div>
-                    <div class="service-item col-md-2";>
+                    <div class="service-item col-md-2">
                         <a class="service-style" href="">
                             <div class="service-img">
-                                <img src="https://www.kkday.com/vi/blog/wp-content/uploads/nui-chua-chan-2-min.jpg" alt="">
+                                <img src="{{asset('assets')}}/img/service/Classic Golf Skort.png" alt="">
                             </div>
                             <div class="learn-more">
                                 <button type="button" class="btn">More</button>
                             </div>
-                            <div class="service-info-text">
-                                <h3>Seaplane</h3>
-                                <p>đ/hour</p>
+                            <div>
+                                <h3>Gofl</h3>
+                                <p>315$/hour</p>
                             </div>
                         </a>
                     </div>
