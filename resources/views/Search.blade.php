@@ -8,12 +8,12 @@
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
         />
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
         <link rel="stylesheet" href="{{asset('assets')}}/fonts/stylesheet.css" />
         <link rel="stylesheet" href="{{asset('assets')}}/css/Search.css" /> 
+        @include('layout.link-css')
 </head>
 <body>
+    @include('layout.header')
     <div class="main">
         <div class="page_content-wapper">
             <div class="wapper">
@@ -118,76 +118,406 @@
                         </div>
                     </div>
                     <div class="sidebar_content-left">
-                        <div class="search_results-wapper">
-                            <p class="search_results-info">6 accommodations found from April 15, 2024 - till April 16, 2024</p>
-                        </div>
-                        <div class="wapper-image-info">
-                            <div class="image-wapper">
-                                <img src="{{asset('assets')}}/img/Search/hotel-room-1.jpg" alt="">
+                        <div class="sidebar_content-left-1">
+                            <div class="search_results-wapper">
+                                <p class="search_results-info">6 accommodations found from April 15, 2024 - till April 16, 2024</p>
                             </div>
-                            <div class="info-wapper">
-                                <div class="info-wapper-room-1">
-                                    <a href="">Prestige Room</a>
+                            <div class="wapper-image-info">
+                                <div class="image-wapper">
+                                    <img src="{{asset('assets')}}/img/Search/hotel-room-1.jpg" alt="">
                                 </div>
-                                <p>
-                                    Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
-                                </p>
-                                <ul class="room-type-attributes">
-                                    <li class="room-type-adults">
-                                        <span class="attributes-title-adults">Adults:</span>
-                                        <span class="attributes-value">2</span>
-                                    </li>
-                                    <li class="room-type-children">
-                                        <span class="attributes-title-children">Children:</span>
-                                        <span class="attributes-value">1</span>
-                                    </li>
-                                    <li class="room-type-view">
-                                        <span class="attributes-title-view">View:</span>
-                                        <span class="attributes-value">
-                                            Courtyard View
-                                        </span>
-                                    </li>
-                                    <li class="room-type-size">
-                                        <span class="attributes-title-size">Size:</span>
-                                        <span class="attributes-value">32m²</span>
-                                    </li>
-                                    <li class="room-type-bed-type">
-                                        <span class="attributes-title-bed-type">Bed Type:</span>
-                                        <span class="attributes-value">Queen Size</span>
-                                    </li>
-                                </ul>
-                                <p class="regular-price">
-                                    <strong>Prices start at:</strong>
-                                    <span class="price">
-                                        <span class="currrency">$</span>79
-                                    </span>
-                                    <span class="price-period">per night</span>
-                                </p>
-                                <hr/>
-                                <div class="reserve-room-section">
-                                    <p class="room-quantity-wapper">
-                                        <select id="" class="room-quantity">
-                                            <option value="1">1</option>
-                                            <option value="2">2</option>
-                                            <option value="3">3</option>
-                                            <option value="4">4</option>
-                                            <option value="5">5</option>
-                                            <option value="6">6</option>
-                                            <option value="7">7</option>
-                                            <option value="8">8</option>
-                                            <option value="9">9</option>
-                                            <option value="10">10</option>
-                                        </select>
-                                        <span class="room-count">of 10 accommodations available.</span>
+                                <div class="info-wapper">
+                                    <div class="info-wapper-room-1">
+                                        <a href="">Prestige Room</a>
+                                    </div>
+                                    <p>
+                                        Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
                                     </p>
-                                    <button class="book-button">Book</button>
+                                    <ul class="room-type-attributes">
+                                        <li class="room-type-adults">
+                                            <span class="attributes-title-adults">Adults:</span>
+                                            <span class="attributes-value">2</span>
+                                        </li>
+                                        <li class="room-type-children">
+                                            <span class="attributes-title-children">Children:</span>
+                                            <span class="attributes-value">1</span>
+                                        </li>
+                                        <li class="room-type-view">
+                                            <span class="attributes-title-view">View:</span>
+                                            <span class="attributes-value">
+                                                Courtyard View
+                                            </span>
+                                        </li>
+                                        <li class="room-type-size">
+                                            <span class="attributes-title-size">Size:</span>
+                                            <span class="attributes-value">32m²</span>
+                                        </li>
+                                        <li class="room-type-bed-type">
+                                            <span class="attributes-title-bed-type">Bed Type:</span>
+                                            <span class="attributes-value">Queen Size</span>
+                                        </li>
+                                    </ul>
+                                    <p class="regular-price">
+                                        <strong>Prices start at:</strong>
+                                        <span class="price">
+                                            <span class="currrency">$</span>79
+                                        </span>
+                                        <span class="price-period">per night</span>
+                                    </p>
+                                    <hr/>
+                                    <div class="reserve-room-section">
+                                        <p class="room-quantity-wapper">
+                                            <select id="" class="room-quantity">
+                                                <option value="1">1</option>
+                                                <option value="2">2</option>
+                                                <option value="3">3</option>
+                                                <option value="4">4</option>
+                                                <option value="5">5</option>
+                                                <option value="6">6</option>
+                                                <option value="7">7</option>
+                                                <option value="8">8</option>
+                                                <option value="9">9</option>
+                                                <option value="10">10</option>
+                                            </select>
+                                            <span class="room-count">of 10 accommodations available.</span>
+                                        </p>
+                                        <button class="book-button">Book</button>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>  
+                        <div class="sidebar_content-left-1">
+                            <div class="wapper-image-info">
+                                <div class="image-wapper">
+                                    <img src="{{asset('assets')}}/img/Search/hotel-room-1.jpg" alt="">
+                                </div>
+                                <div class="info-wapper">
+                                    <div class="info-wapper-room-1">
+                                        <a href="">Prestige Room</a>
+                                    </div>
+                                    <p>
+                                        Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
+                                    </p>
+                                    <ul class="room-type-attributes">
+                                        <li class="room-type-adults">
+                                            <span class="attributes-title-adults">Adults:</span>
+                                            <span class="attributes-value">2</span>
+                                        </li>
+                                        <li class="room-type-children">
+                                            <span class="attributes-title-children">Children:</span>
+                                            <span class="attributes-value">1</span>
+                                        </li>
+                                        <li class="room-type-view">
+                                            <span class="attributes-title-view">View:</span>
+                                            <span class="attributes-value">
+                                                Courtyard View
+                                            </span>
+                                        </li>
+                                        <li class="room-type-size">
+                                            <span class="attributes-title-size">Size:</span>
+                                            <span class="attributes-value">32m²</span>
+                                        </li>
+                                        <li class="room-type-bed-type">
+                                            <span class="attributes-title-bed-type">Bed Type:</span>
+                                            <span class="attributes-value">Queen Size</span>
+                                        </li>
+                                    </ul>
+                                    <p class="regular-price">
+                                        <strong>Prices start at:</strong>
+                                        <span class="price">
+                                            <span class="currrency">$</span>79
+                                        </span>
+                                        <span class="price-period">per night</span>
+                                    </p>
+                                    <hr/>
+                                    <div class="reserve-room-section">
+                                        <p class="room-quantity-wapper">
+                                            <select id="" class="room-quantity">
+                                                <option value="1">1</option>
+                                                <option value="2">2</option>
+                                                <option value="3">3</option>
+                                                <option value="4">4</option>
+                                                <option value="5">5</option>
+                                                <option value="6">6</option>
+                                                <option value="7">7</option>
+                                                <option value="8">8</option>
+                                                <option value="9">9</option>
+                                                <option value="10">10</option>
+                                            </select>
+                                            <span class="room-count">of 10 accommodations available.</span>
+                                        </p>
+                                        <button class="book-button">Book</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>  
+                        <div class="sidebar_content-left-1">
+                            <div class="wapper-image-info">
+                                <div class="image-wapper">
+                                    <img src="{{asset('assets')}}/img/Search/hotel-room-1.jpg" alt="">
+                                </div>
+                                <div class="info-wapper">
+                                    <div class="info-wapper-room-1">
+                                        <a href="">Prestige Room</a>
+                                    </div>
+                                    <p>
+                                        Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
+                                    </p>
+                                    <ul class="room-type-attributes">
+                                        <li class="room-type-adults">
+                                            <span class="attributes-title-adults">Adults:</span>
+                                            <span class="attributes-value">2</span>
+                                        </li>
+                                        <li class="room-type-children">
+                                            <span class="attributes-title-children">Children:</span>
+                                            <span class="attributes-value">1</span>
+                                        </li>
+                                        <li class="room-type-view">
+                                            <span class="attributes-title-view">View:</span>
+                                            <span class="attributes-value">
+                                                Courtyard View
+                                            </span>
+                                        </li>
+                                        <li class="room-type-size">
+                                            <span class="attributes-title-size">Size:</span>
+                                            <span class="attributes-value">32m²</span>
+                                        </li>
+                                        <li class="room-type-bed-type">
+                                            <span class="attributes-title-bed-type">Bed Type:</span>
+                                            <span class="attributes-value">Queen Size</span>
+                                        </li>
+                                    </ul>
+                                    <p class="regular-price">
+                                        <strong>Prices start at:</strong>
+                                        <span class="price">
+                                            <span class="currrency">$</span>79
+                                        </span>
+                                        <span class="price-period">per night</span>
+                                    </p>
+                                    <hr/>
+                                    <div class="reserve-room-section">
+                                        <p class="room-quantity-wapper">
+                                            <select id="" class="room-quantity">
+                                                <option value="1">1</option>
+                                                <option value="2">2</option>
+                                                <option value="3">3</option>
+                                                <option value="4">4</option>
+                                                <option value="5">5</option>
+                                                <option value="6">6</option>
+                                                <option value="7">7</option>
+                                                <option value="8">8</option>
+                                                <option value="9">9</option>
+                                                <option value="10">10</option>
+                                            </select>
+                                            <span class="room-count">of 10 accommodations available.</span>
+                                        </p>
+                                        <button class="book-button">Book</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>  
+                        <div class="sidebar_content-left-1">
+                            <div class="wapper-image-info">
+                                <div class="image-wapper">
+                                    <img src="{{asset('assets')}}/img/Search/hotel-room-1.jpg" alt="">
+                                </div>
+                                <div class="info-wapper">
+                                    <div class="info-wapper-room-1">
+                                        <a href="">Prestige Room</a>
+                                    </div>
+                                    <p>
+                                        Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
+                                    </p>
+                                    <ul class="room-type-attributes">
+                                        <li class="room-type-adults">
+                                            <span class="attributes-title-adults">Adults:</span>
+                                            <span class="attributes-value">2</span>
+                                        </li>
+                                        <li class="room-type-children">
+                                            <span class="attributes-title-children">Children:</span>
+                                            <span class="attributes-value">1</span>
+                                        </li>
+                                        <li class="room-type-view">
+                                            <span class="attributes-title-view">View:</span>
+                                            <span class="attributes-value">
+                                                Courtyard View
+                                            </span>
+                                        </li>
+                                        <li class="room-type-size">
+                                            <span class="attributes-title-size">Size:</span>
+                                            <span class="attributes-value">32m²</span>
+                                        </li>
+                                        <li class="room-type-bed-type">
+                                            <span class="attributes-title-bed-type">Bed Type:</span>
+                                            <span class="attributes-value">Queen Size</span>
+                                        </li>
+                                    </ul>
+                                    <p class="regular-price">
+                                        <strong>Prices start at:</strong>
+                                        <span class="price">
+                                            <span class="currrency">$</span>79
+                                        </span>
+                                        <span class="price-period">per night</span>
+                                    </p>
+                                    <hr/>
+                                    <div class="reserve-room-section">
+                                        <p class="room-quantity-wapper">
+                                            <select id="" class="room-quantity">
+                                                <option value="1">1</option>
+                                                <option value="2">2</option>
+                                                <option value="3">3</option>
+                                                <option value="4">4</option>
+                                                <option value="5">5</option>
+                                                <option value="6">6</option>
+                                                <option value="7">7</option>
+                                                <option value="8">8</option>
+                                                <option value="9">9</option>
+                                                <option value="10">10</option>
+                                            </select>
+                                            <span class="room-count">of 10 accommodations available.</span>
+                                        </p>
+                                        <button class="book-button">Book</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>  
+                        <div class="sidebar_content-left-1">
+                            <div class="wapper-image-info">
+                                <div class="image-wapper">
+                                    <img src="{{asset('assets')}}/img/Search/hotel-room-1.jpg" alt="">
+                                </div>
+                                <div class="info-wapper">
+                                    <div class="info-wapper-room-1">
+                                        <a href="">Prestige Room</a>
+                                    </div>
+                                    <p>
+                                        Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
+                                    </p>
+                                    <ul class="room-type-attributes">
+                                        <li class="room-type-adults">
+                                            <span class="attributes-title-adults">Adults:</span>
+                                            <span class="attributes-value">2</span>
+                                        </li>
+                                        <li class="room-type-children">
+                                            <span class="attributes-title-children">Children:</span>
+                                            <span class="attributes-value">1</span>
+                                        </li>
+                                        <li class="room-type-view">
+                                            <span class="attributes-title-view">View:</span>
+                                            <span class="attributes-value">
+                                                Courtyard View
+                                            </span>
+                                        </li>
+                                        <li class="room-type-size">
+                                            <span class="attributes-title-size">Size:</span>
+                                            <span class="attributes-value">32m²</span>
+                                        </li>
+                                        <li class="room-type-bed-type">
+                                            <span class="attributes-title-bed-type">Bed Type:</span>
+                                            <span class="attributes-value">Queen Size</span>
+                                        </li>
+                                    </ul>
+                                    <p class="regular-price">
+                                        <strong>Prices start at:</strong>
+                                        <span class="price">
+                                            <span class="currrency">$</span>79
+                                        </span>
+                                        <span class="price-period">per night</span>
+                                    </p>
+                                    <hr/>
+                                    <div class="reserve-room-section">
+                                        <p class="room-quantity-wapper">
+                                            <select id="" class="room-quantity">
+                                                <option value="1">1</option>
+                                                <option value="2">2</option>
+                                                <option value="3">3</option>
+                                                <option value="4">4</option>
+                                                <option value="5">5</option>
+                                                <option value="6">6</option>
+                                                <option value="7">7</option>
+                                                <option value="8">8</option>
+                                                <option value="9">9</option>
+                                                <option value="10">10</option>
+                                            </select>
+                                            <span class="room-count">of 10 accommodations available.</span>
+                                        </p>
+                                        <button class="book-button">Book</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>  
+                        <div class="sidebar_content-left-1">
+                            <div class="wapper-image-info">
+                                <div class="image-wapper">
+                                    <img src="{{asset('assets')}}/img/Search/hotel-room-1.jpg" alt="">
+                                </div>
+                                <div class="info-wapper">
+                                    <div class="info-wapper-room-1">
+                                        <a href="">Prestige Room</a>
+                                    </div>
+                                    <p>
+                                        Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
+                                    </p>
+                                    <ul class="room-type-attributes">
+                                        <li class="room-type-adults">
+                                            <span class="attributes-title-adults">Adults:</span>
+                                            <span class="attributes-value">2</span>
+                                        </li>
+                                        <li class="room-type-children">
+                                            <span class="attributes-title-children">Children:</span>
+                                            <span class="attributes-value">1</span>
+                                        </li>
+                                        <li class="room-type-view">
+                                            <span class="attributes-title-view">View:</span>
+                                            <span class="attributes-value">
+                                                Courtyard View
+                                            </span>
+                                        </li>
+                                        <li class="room-type-size">
+                                            <span class="attributes-title-size">Size:</span>
+                                            <span class="attributes-value">32m²</span>
+                                        </li>
+                                        <li class="room-type-bed-type">
+                                            <span class="attributes-title-bed-type">Bed Type:</span>
+                                            <span class="attributes-value">Queen Size</span>
+                                        </li>
+                                    </ul>
+                                    <p class="regular-price">
+                                        <strong>Prices start at:</strong>
+                                        <span class="price">
+                                            <span class="currrency">$</span>79
+                                        </span>
+                                        <span class="price-period">per night</span>
+                                    </p>
+                                    <hr/>
+                                    <div class="reserve-room-section">
+                                        <p class="room-quantity-wapper">
+                                            <select id="" class="room-quantity">
+                                                <option value="1">1</option>
+                                                <option value="2">2</option>
+                                                <option value="3">3</option>
+                                                <option value="4">4</option>
+                                                <option value="5">5</option>
+                                                <option value="6">6</option>
+                                                <option value="7">7</option>
+                                                <option value="8">8</option>
+                                                <option value="9">9</option>
+                                                <option value="10">10</option>
+                                            </select>
+                                            <span class="room-count">of 10 accommodations available.</span>
+                                        </p>
+                                        <button class="book-button">Book</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>  
                     </div> 
+                    
                 </div>
             </div>
         </div>
     </div>
+    @include('layout.footer')
+    @include('layout.js')
 </body>
 </html>
