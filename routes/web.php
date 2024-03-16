@@ -24,3 +24,16 @@ Route::get('/booking-confirmation', function () {
 Route::get('home', function () {
     return view('home');
 });
+
+Route::get('example', function () {
+    return view('web-example');
+});
+
+Route::get('our-rooms', function () {
+    return view('our-rooms');
+});
+
+
+Route::get('about', function () {
+    return view('about-hotel');
+});
