@@ -130,8 +130,7 @@
                         <button type="submit">Search</button>
                     </div>
                     
-                </div>
-                
+                </div>   
             </form>
         </section>
     </div>
