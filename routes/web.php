@@ -17,7 +17,7 @@ Route::get('/', function () {
     return view('login_sign-up');
 });
 
-Route::get('/servie', function () {
+Route::get('/service', function () {
     return view('service');
 
 });
