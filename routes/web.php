@@ -44,3 +44,7 @@ Route::get('our-rooms', function () {
 Route::get('about', function () {
     return view('about-hotel');
 });
+
+Route::get('penhouse', function () {
+    return view('penhouse');
+});

@@ -24,7 +24,7 @@
             <div class="elementor-widget-container">
                 {{-- Link anh logo o cuoi trang --}}
                                                             <a href="">
-                        <img width="298" height="182" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" loading="lazy" />								</a>
+                        <img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" loading="lazy" />								</a>
                                                         </div>
             </div>
                 </div>
@@ -302,7 +302,7 @@ window.mc4wp = window.mc4wp || {
             <div class="elementor-widget-container">
                 {{-- link the a khi nhan vao nav bar  --}}
                                                             <a href="">
-                        <img width="298" height="182" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/logo-white2.png" class="attachment-full size-full wp-image-61" alt="" loading="lazy" />								</a>
+                        <img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-61" alt="" loading="lazy" />								</a>
                                                         </div>
             </div>
                 </div>
