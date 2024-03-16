@@ -23,7 +23,7 @@
                 <div class="sidebar_widget">
                     <div class="sidebar_widget-2 ">
                         <div class="widget-currency">
-                            <select name="switcher" id="switcher1">
+                            <select name="" class="switcher">
                                 <option value="USD" selected="selected">United States (US) dollar ($)</option>
                                 <option value="EUR">Euro (€)</option>
                                 <option value="HKD">Hong Kong dollar ($)</option>
@@ -47,7 +47,7 @@
                                         <abbr title="">*</abbr>
                                     </label>
                                     <br>
-                                    <input id="mphb_check_in_date" data-datepick-group="65f414f1cf076" value="" placeholder="Check-in Date" required="required" type="text" inputmode="none" name="mphb_check_in_date" class="mphb-datepick mphb_datepicker is-datepick" autocomplete="">
+                                    <input id="mphb_check_in_date" data-datepick-group="65f414f1cf076" value="" placeholder="Check-in Date" required="required" type="date" inputmode="none" name="mphb_check_in_date" class="mphb-datepick mphb_datepicker is-datepick" autocomplete="">
                                 </p>
                                 <p class="widget_search_check-out-date">
                                     <label for="">
@@ -55,13 +55,13 @@
                                         <abbr title="">*</abbr>
                                     </label>
                                     <br>
-                                    <input id="mphb_check_out_date" data-datepick-group="65f414f1cf076" value="" placeholder="Check-out Date" required="required" type="text" inputmode="none" name="mphb_check_in_date" class="mphb-datepick mphb_datepicker is-datepick" autocomplete="">
+                                    <input id="mphb_check_out_date" data-datepick-group="65f414f1cf076" value="" placeholder="Check-out Date" required="required" type="date" inputmode="none" name="mphb_check_in_date" class="mphb-datepick mphb_datepicker is-datepick" autocomplete="">
                                 </p>
                                 <div class="widget_search-adults-children">
                                     <p class="widget_search-adults">
                                         <label for="">Adults:</label>
                                         <br>
-                                        <select name="" id="adults">
+                                        <select name="" class="adults">
                                             <option value="1" selected="selected">1</option>
                                             <option value="2">2</option>
                                             <option value="3">3</option>
@@ -97,8 +97,8 @@
                                     <p class="widget_search-children">
                                         <label for="">Children:</label>
                                         <br>
-                                        <select name="" id="children">
-                                        <option value="1" selected="selected">1</option>
+                                        <select name="" class="children">
+                                            <option value="1" selected="selected">1</option>
                                             <option value="2">2</option>
                                             <option value="3">3</option>
                                             <option value="4">4</option>
@@ -117,9 +117,72 @@
                             </div>
                         </div>
                     </div>
-                    <div class="sidebar_content left">
+                    <div class="sidebar_content-left">
                         <div class="search_results-wapper">
                             <p class="search_results-info">6 accommodations found from April 15, 2024 - till April 16, 2024</p>
+                        </div>
+                        <div class="wapper-image-info">
+                            <div class="image-wapper">
+                                <img src="{{asset('assets')}}/img/Search/hotel-room-1.jpg" alt="">
+                            </div>
+                            <div class="info-wapper">
+                                <div class="info-wapper-room-1">
+                                    <a href="">Prestige Room</a>
+                                </div>
+                                <p>
+                                    Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
+                                </p>
+                                <ul class="room-type-attributes">
+                                    <li class="room-type-adults">
+                                        <span class="attributes-title-adults">Adults:</span>
+                                        <span class="attributes-value">2</span>
+                                    </li>
+                                    <li class="room-type-children">
+                                        <span class="attributes-title-children">Children:</span>
+                                        <span class="attributes-value">1</span>
+                                    </li>
+                                    <li class="room-type-view">
+                                        <span class="attributes-title-view">View:</span>
+                                        <span class="attributes-value">
+                                            Courtyard View
+                                        </span>
+                                    </li>
+                                    <li class="room-type-size">
+                                        <span class="attributes-title-size">Size:</span>
+                                        <span class="attributes-value">32m²</span>
+                                    </li>
+                                    <li class="room-type-bed-type">
+                                        <span class="attributes-title-bed-type">Bed Type:</span>
+                                        <span class="attributes-value">Queen Size</span>
+                                    </li>
+                                </ul>
+                                <p class="regular-price">
+                                    <strong>Prices start at:</strong>
+                                    <span class="price">
+                                        <span class="currrency">$</span>79
+                                    </span>
+                                    <span class="price-period">per night</span>
+                                </p>
+                                <hr/>
+                                <div class="reserve-room-section">
+                                    <p class="room-quantity-wapper">
+                                        <select id="" class="room-quantity">
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5</option>
+                                            <option value="6">6</option>
+                                            <option value="7">7</option>
+                                            <option value="8">8</option>
+                                            <option value="9">9</option>
+                                            <option value="10">10</option>
+                                        </select>
+                                        <span class="room-count">of 10 accommodations available.</span>
+                                    </p>
+                                    <button class="book-button">Book</button>
+                                </div>
+                            </div>
                         </div>
                     </div> 
                 </div>
