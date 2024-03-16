@@ -1,58 +1,92 @@
-.header {
-    height: 110px;
-    background-color: transparent;
+.background{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(163, 163, 163, 0.5);
+}
+.du-thuyen{
+    display: flex;
+}
+.duthuyen-img img{
+    width: 100%;
+}
+.du-thuyen-text{
+    margin-top: 20%;
+}
+.du-thuyen-text p{
+    font-size: 20px!important;
+}
+.view-more button{
+    margin-top: 50px !important;
+    padding: 10px 40px!important;
+
+}
+.bus{
+    display: flex;
+}
+.bus-img img{
+    width: 100%;
+}
+.bus-text{
+    margin-top: 20%;
+}
+.bus-text p{
+    font-size: 20px!important;
 }
 
-.grid {
-    width: 1200px;
-    max-width: 100%;
-    margin: 0 auto;
+.spa-ads h1{
+    font-size: 100px;
 }
-.header__navbar {
-    display: grid;
-    grid-template-columns: 400px 400px 400px;
-    border: 1px solid black;
+.spa-ads p{
+    font-size: 26px;
 }
-.header__nav-list {
-    list-style: none;
-    padding-left: 0;
-}
-
-.header__nav-listLeft {
-    margin-right: auto;
-}
-
-.header__nav-listRight {
-    margin-left: auto;
-}
-.header__nav-item {
-    display: inline-block;
-    font-weight: 200;
-    margin: 10px;
-}
-
-.grid-container-item3 {
-    display: grid;
-    grid-template-columns: 600px 600px;
-    gap: 5px;
+.spa-ads h1,
+.spa-ads p{
     text-align: center;
+}
+.book-spa-session{
+    display: flex;
+    justify-content: center;
+}
+.book-spa-session button{
+    border: 1px solid #000000;
+    border-radius: 0%;
+    padding: 10px 20px;
+}
+.book-spa-session button:hover{
+    background-color: white;
+    color: black;
+}
+
+.service-item{
+    margin-left: 50px;
+}
+.service-style{
+    text-decoration: none;
+    color: black;
+}
+.service-img{
     overflow: hidden;
-    max-height: 600px;
-    max-height: 950px;
+}
+.sevice-img img{
+    width: 262px;
+    transition: transform 0.3s ease;
 }
 
-.container__content2 {
-
-    text-align: center;
+.sevice-img img:hover{
+    transform: scale(1.1);
 }
-
-.container-img-content2 {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
+.learn-more button{
+    background-color: white;
+    color: black;
+    border-radius: 0%;
+    padding: 10px 20px;
+    margin-top: -30px;
+    margin-left: 120px;
+    position: relative;
 }
-.container-img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
+.learn-more button:hover{
+    background-color: #4C7294;
+    color: white;
 }
