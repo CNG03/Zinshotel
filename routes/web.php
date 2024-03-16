@@ -17,12 +17,15 @@ Route::get('/', function () {
     return view('login_sign-up');
 });
 
-Route::get('/servie', function () {
+Route::get('/service', function () {
     return view('service');
 
 });
 Route::get('/booking-confirmation', function () {
     return view('booking-confirmation');
+});
+Route::get('Search', function () {
+    return view('Search');
 });
 
 Route::get('home', function () {
