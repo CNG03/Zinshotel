@@ -56,7 +56,7 @@
 
                     {{-- THanh NavBar  --}}
 			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu7" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Service</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a style=" left: -4px; position: relative; top: 10px; " href="" >Service</a></li>
 </ul></div></div>		</div>
 				</div>
 					</div>
@@ -169,7 +169,7 @@
 				<div class="elementor-widget-container">
                     {{-- Duong link cua thanh nav khi cuon duoc giu duoc o dau trang  --}}
 			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu22" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Service</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a style=" left: -4px; position: relative; top: 10px; " href="" >Service</a></li>
 </ul></div></div>		</div>
 				</div>
 					</div>
@@ -180,7 +180,7 @@
 				<div class="elementor-widget-container">
 					{{-- Link file anhr cua thanh nav khi cuon  --}}
 																<a href="">
-							<img width="298" height="182" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
+							<img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
 															</div>
 				</div>
 					</div>

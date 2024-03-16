@@ -186,3 +186,14 @@ hr{
 .regular-price{
     padding-top: 30px;
 }
+.book-button{
+    width: 40%;
+    height: 50px;
+    margin-top: 20px;
+    background-color: #4c7294;
+    border: none;
+    color: #ffffff;
+}
+.book-button:hover{
+    background-color: #295377;
+}
