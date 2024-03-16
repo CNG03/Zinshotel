@@ -17,7 +17,10 @@ Route::get('/', function () {
     return view('login_sign-up');
 });
 
+Route::get('/servie', function () {
+    return view('service');
 
+});
 Route::get('/booking-confirmation', function () {
     return view('booking-confirmation');
 });
