@@ -362,6 +362,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-064f101 elementor-widget elementor-widget-image" data-id="064f101" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
+					{{-- Link file anhr cua thanh nav khi cuon  --}}
 																<a href="">
 							<img width="298" height="182" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
 															</div>
@@ -380,7 +381,7 @@
 
 <div id="tg_search_64d54a3" class="hoteller-search-wrapper">
 	<div class="hoteller-search-inner">
-		<form id="tg_search_form_64d54a3" class="tg_search_form autocomplete_form" method="get" action="https://hotellerv6-5.themegoods.com/ski" data-result="autocomplete_64d54a3" data-open="tg_search_64d54a3">
+		<form id="tg_search_form_64d54a3" class="tg_search_form autocomplete_form" method="get" action="" data-result="autocomplete_64d54a3" data-open="tg_search_64d54a3">
 			<div class="input-group">
 				<input id="s" name="s" placeholder="Search for anything" autocomplete="off" value=""/>
 								<span class="input-group-button">
@@ -400,10 +401,10 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
 							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">en</span>
+										<span class="elementor-icon-list-text">EN</span>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">de</span>
+										<span class="elementor-icon-list-text">JP</span>
 									</li>
 						</ul>
 				</div>
@@ -411,7 +412,8 @@
 				<div class="elementor-element elementor-element-0c1a66e elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="0c1a66e" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hotellerv6-5.themegoods.com/ski/our-rooms/">
+						{{-- Link book now thanh nav khi cuon  --}}
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Book Now</span>
 		</span>
@@ -425,6 +427,10 @@
 		</section>
 							</div>
 			</div>
+
+
+{{-- Tu day len la thanh nav --}}
+
 
 <div id="page_caption" class="   "  >
 
@@ -1456,7 +1462,11 @@
 		</div>
     		</div>
     	</div>
+
+
     	<!-- End main content -->
+
+
     </div>
     <br class="clear"/>
 </div>
@@ -1485,7 +1495,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-65488d6 elementor-widget elementor-widget-image" data-id="65488d6" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://hotellerv6-5.themegoods.com/ski">
+					{{-- Link anh logo o cuoi trang --}}
+																<a href="">
 							<img width="298" height="182" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" loading="lazy" />								</a>
 															</div>
 				</div>
@@ -1596,29 +1607,26 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="https://hotellerv6-5.themegoods.com/about">
+
+								{{-- About Hotel Footer  --}}
+
+											<a href="#">
 
 											<span class="elementor-icon-list-text">About Hotel</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="https://hotellerv6-5.themegoods.com/ski/our-rooms/">
+											<a href="#">
 
 											<span class="elementor-icon-list-text">Our Rooms</span>
 											</a>
 									</li>
-								<li class="elementor-icon-list-item">
-											<a href="#">
+									<li class="elementor-icon-list-item">
+										<a href="#">
 
-											<span class="elementor-icon-list-text">Restaurant & Bar</span>
-											</a>
-									</li>
-								<li class="elementor-icon-list-item">
-											<a href="#">
-
-											<span class="elementor-icon-list-text">Spa & Wellness</span>
-											</a>
-									</li>
+										<span class="elementor-icon-list-text">Service</span>
+										</a>
+								</li>
 								<li class="elementor-icon-list-item">
 											<a href="#">
 
@@ -1636,37 +1644,37 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="https://hotellerv6-5.themegoods.com/ski/accommodation/deluxe-room/">
+											<a href="">
 
 											<span class="elementor-icon-list-text">Deluxe Room</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="https://hotellerv6-5.themegoods.com/ski/accommodation/prestige-room/">
+											<a href="">
 
 											<span class="elementor-icon-list-text">Prestige Room</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="https://hotellerv6-5.themegoods.com/ski/accommodation/alpine-suite/">
+											<a href="">
 
 											<span class="elementor-icon-list-text">Alpine Suite</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="https://hotellerv6-5.themegoods.com/ski/accommodation/serenity-suite/">
+											<a href="">
 
 											<span class="elementor-icon-list-text">Serinity Suite</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="https://hotellerv6-5.themegoods.com/ski/accommodation/residence-suite/">
+											<a href="">
 
 											<span class="elementor-icon-list-text">Residence Suite</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="https://hotellerv6-5.themegoods.com/ski/accommodation/penthouse/">
+											<a href="">
 
 											<span class="elementor-icon-list-text">Penthouse</span>
 											</a>
@@ -1712,6 +1720,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f56ff5d elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="f56ff5d" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
+					{{-- anh cuoi footer   --}}
 															<img width="179" height="166" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/tripadvisor_travellers_choice.png" class="attachment-full size-full wp-image-121" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-2463dc9 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="2463dc9" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
@@ -1743,315 +1752,8 @@
 
  	<a id="toTop" href="javascript:;"><span class="ti-angle-up"></span></a>
 
-    <div id="option_wrapper">
-    <div class="inner">
-    	<div style="text-align:center">
-	    	
-	    	<div class="purchase_theme_button">
-		    	<a class="button" href="https://1.envato.market/rQGV95" target="_blank">Purchase Theme</a>
-	    	</div>
-	    	
-	    	<h4>Ready Sites</h2>
-	    	<p>
-	    		Here are example ready to use sites that can be imported within one click.
-	    	</p>
-	    		    	<ul class="demo_list">
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo20/20.jpg" alt="Airport Hotels"/>
-	        		
-	        				        		<div class="demo_label">New</div>
-		        		        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Airport Hotels</h6>
-	    	    	    		<a href="https://hotellerv6-5.themegoods.com/airport" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo19/19.jpg" alt="Winter &amp; Ski Resorts"/>
-	        		
-	        				        		<div class="demo_label">New</div>
-		        		        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Winter &amp; Ski Resorts</h6>
-	    	    	    		<a href="https://hotellerv6-5.themegoods.com/ski" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo18/18.jpg" alt="Lifestyle Hotels"/>
-	        		
-	        				        		<div class="demo_label">New</div>
-		        		        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Lifestyle Hotels</h6>
-	    	    	    		<a href="https://hotellerv6-5.themegoods.com/lifestyle" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo17/17.jpg" alt="Island &amp; Beach Hotels"/>
-	        		
-	        				        		<div class="demo_label">New</div>
-		        		        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Island &amp; Beach Hotels</h6>
-	    	    	    		<a href="https://hotellerv6-5.themegoods.com/island" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo16/16.jpg" alt="Design Hotels"/>
-	        		
-	        				        		<div class="demo_label">New</div>
-		        		        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Design Hotels</h6>
-	    	    	    		<a href="https://hotellerv6-5.themegoods.com/" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo15/15.jpg" alt="Multi Locations Hotels"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Multi Locations Hotels</h6>
-	    	    	    		<a href="https://hotellerv6.themegoods.com/multi-locations" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo14/14.jpg" alt="Hostel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Hostel</h6>
-	    	    	    		<a href="https://hotellerv6.themegoods.com/" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo13/13.jpg" alt="Classic Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Classic Hotel</h6>
-	    	    	    		<a href="https://hotellerv5.themegoods.com/classic" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo12/12.jpg" alt="Modern 2 Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Modern 2 Hotel</h6>
-	    	    	    		<a href="https://hotellerv5.themegoods.com/resort" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo11/11.jpg" alt="Modern Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Modern Hotel</h6>
-	    	    	    		<a href="https://hotellerv5.themegoods.com/modern" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo9/9.jpg" alt="Minimalist Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Minimalist Hotel</h6>
-	    	    	    		<a href="https://hotellerv5.themegoods.com/minimal" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo10/10.jpg" alt="Lodge Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Lodge Hotel</h6>
-	    	    	    		<a href="https://hotellerv5.themegoods.com/lodge" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo7/7.jpg" alt="Boutique Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Boutique Hotel</h6>
-	    	    	    		<a href="https://hotellerv5.themegoods.com/boutique" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo8/8.jpg" alt="Bed &amp; Breakfast Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Bed &amp; Breakfast Hotel</h6>
-	    	    	    		<a href="https://hotellerv5.themegoods.com/" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo1/1.jpg" alt="Luxury Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Luxury Hotel</h6>
-	    	    	    		<a href="https://hotellerv1.themegoods.com/" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo2/2.jpg" alt="City Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>City Hotel</h6>
-	    	    	    		<a href="https://hotellerv1.themegoods.com/city" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo3/3.jpg" alt="Mountain Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Mountain Hotel</h6>
-	    	    	    		<a href="https://hotellerv1.themegoods.com/mountain" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo4/4.jpg" alt="Beach Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Beach Hotel</h6>
-	    	    	    		<a href="https://hotellerv1.themegoods.com/beach" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo5/5.jpg" alt="Apartment Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Apartment Hotel</h6>
-	    	    	    		<a href="https://hotellerv1.themegoods.com/apartment" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    		<li>
-	        		<img src="https://hotellerv6-5.themegoods.com/ski/wp-content/themes/hoteller/cache/demos/xml/demo6/6.jpg" alt="Cultural Hotel"/>
-	        		
-	        			        		
-	        		<div class="demo_thumb_hover_wrapper">
-	        		    <div class="demo_thumb_hover_inner">
-	        		    	<div class="demo_thumb_desc">
-	    	    	    		<h6>Cultural Hotel</h6>
-	    	    	    		<a href="https://hotellerv1.themegoods.com/cultural" target="_blank" class="button white">Launch</a>
-	        		    	</div> 
-	        		    </div>	   
-	        		</div>		   
-	    		</li>
-	    			    	</ul>
-	    	<br class="clear"/><br/>
-	    	<h4>Multilingual Demos</h2>
-		    	<p>
-	    		Create multilingual website for your hotel easily using Free Polylang plugin. See example below.
-	    	</p>
-	    	<ul class="demo_list">
-		    	<li>
-		    		<a class="demo_lang" href="https://hoteller.themegoods.com/inter" target="_blank">English</a>
-		    	</li>
-		    	<li>
-		    		<a class="demo_lang" href="https://hoteller.themegoods.com/inter/fr" target="_blank">French</a>
-		    	</li>
-	    	</ul>
-    	</div>
-    </div>
-    </div>
-    <div id="option_btn">
-    	<a href="javascript:;" class="demotip" title="Choose Theme Demos"><span class="ti-settings"></span></a>
-    	
-    	<a href="https://themegoods.com/contact/" class="demotip" title="Presale Question" target="_blank"><span class="ti-comment"></span></a>
-    	
-    	<a href="https://hoteller.themegoods.com/landing/showcase" class="demotip" title="Showcase" target="_blank"><span class="ti-heart"></span></a>
-    	
-    	<a href="https://docs.themegoods.com/docs/hoteller" class="demotip" title="Theme Documentation" target="_blank"><span class="ti-book"></span></a>
-    	
-    	<a href="https://1.envato.market/rQGV95" title="Purchase Theme" class="demotip" target="_blank"><span class="ti-shopping-cart"></span></a>
-    </div>
-
-
 </div>
+
 	<div id="fullmenu-wrapper-131" class="fullmenu-wrapper">
 		<div data-elementor-type="wp-post" data-elementor-id="131" class="elementor elementor-131">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-9f71686 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="9f71686" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
@@ -2060,6 +1762,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-6b38e6e elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="6b38e6e" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;true&quot;,&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
+					{{-- link the a khi nhan vao nav bar  --}}
 																<a href="#">
 							<img width="52" height="53" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/close-icon-white.png" class="attachment-full size-full wp-image-157" alt="" loading="lazy" />								</a>
 															</div>
@@ -2070,7 +1773,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-af58a05 elementor-widget elementor-widget-image" data-id="af58a05" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://hotellerv6-5.themegoods.com/ski">
+					{{-- link the a khi nhan vao nav bar  --}}
+																<a href="">
 							<img width="298" height="182" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/logo-white2.png" class="attachment-full size-full wp-image-61" alt="" loading="lazy" />								</a>
 															</div>
 				</div>
@@ -2088,7 +1792,7 @@
 
 <div id="tg_search_cd1889c" class="hoteller-search-wrapper">
 	<div class="hoteller-search-inner">
-		<form id="tg_search_form_cd1889c" class="tg_search_form autocomplete_form" method="get" action="https://hotellerv6-5.themegoods.com/ski" data-result="autocomplete_cd1889c" data-open="tg_search_cd1889c">
+		<form id="tg_search_form_cd1889c" class="tg_search_form autocomplete_form" method="get" action="" data-result="autocomplete_cd1889c" data-open="tg_search_cd1889c">
 			<div class="input-group">
 				<input id="s" name="s" placeholder="Search for anything" autocomplete="off" value=""/>
 								<span class="input-group-button">
@@ -2108,10 +1812,10 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
 							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">en</span>
+										<span class="elementor-icon-list-text">EN</span>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">de</span>
+										<span class="elementor-icon-list-text">JP</span>
 									</li>
 						</ul>
 				</div>
@@ -2119,7 +1823,7 @@
 				<div class="elementor-element elementor-element-551b104 elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="551b104" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hotellerv6-5.themegoods.com/ski/book-now/" target="_blank">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="" target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Book Now</span>
 		</span>
@@ -2157,36 +1861,37 @@
 	<div class="themegoods-background-menu-default"></div>
 	<ul class="themegoods-background-menu display-fullwidth">
 		
+		{{-- Phan gan link khi nhan vao nav bar  --}}
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="https://hotellerv6-5.themegoods.com/ski" >Home</a>
+			<a class="themegoods-background-menu__item-link" href="" >Home</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/mountain-ski-resort-2021-08-30-09-28-42-utc.jpg" alt=""/>
 			<span>
 		</li>
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="https://hotellerv6-5.themegoods.com/ski/about-the-hotel/" >About The Hotel</a>
+			<a class="themegoods-background-menu__item-link" href="" >About The Hotel</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/chalet-hills-2021-08-26-16-38-04-utc.jpg" alt=""/>
 			<span>
 		</li>
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="https://hotellerv6-5.themegoods.com/ski/our-rooms/" >Our Rooms</a>
+			<a class="themegoods-background-menu__item-link" href="" >Our Rooms</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/alpine-winter-mountain-landscape-french-alps-with-2021-08-26-16-19-11-utc.jpg" alt=""/>
 			<span>
-		</li>
+		{{-- </li>
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="https://hotellerv6-5.themegoods.com/ski/restaurant/" >Restaurant</a>
+			<a class="themegoods-background-menu__item-link" href="" >Restaurant</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/alasdair-elmes-ULHxWq8reao-unsplash.jpg" alt=""/>
 			<span>
-		</li>
+		</li> --}}
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="https://hotellerv6-5.themegoods.com/ski/spa-wellness/" >Spa &amp; Wellness</a>
+			<a class="themegoods-background-menu__item-link" href="" >Service</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/getty-images-68IEJYojEyo-unsplash.jpg" alt=""/>
