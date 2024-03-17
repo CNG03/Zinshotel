@@ -69,15 +69,15 @@ window.mc4wp = window.mc4wp || {
         <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-796e77c elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="796e77c" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-        <div class="elementor-heading-title elementor-size-default">The Hoteller Resort Via Serlas 27, 7500 St. Moritz, Switzerland</div>		</div>
+        <div class="elementor-heading-title elementor-size-default">1 Doc Lap, Chien Thang Street, Ha Noi Capital, Viet Nam.</div>		</div>
             </div>
             <div class="elementor-element elementor-element-4b9aaf5 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="4b9aaf5" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-        <div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+45 35634 3444</a></div>		</div>
+        <div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+84 2222 6789</a></div>		</div>
             </div>
             <div class="elementor-element elementor-element-f02c69f elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="f02c69f" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-        <div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@thehotel.com</a></div>		</div>
+        <div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@zinshomecompany.com</a></div>		</div>
             </div>
             <div class="elementor-element elementor-element-5c0251c elementor-widget__width-auto elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="5c0251c" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="social-icons.default">
             <div class="elementor-widget-container">
@@ -219,7 +219,7 @@ window.mc4wp = window.mc4wp || {
             </div>
             <div class="elementor-element elementor-element-75515d5 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="75515d5" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-        <div class="elementor-heading-title elementor-size-default">The Hoteller Ski Resort</div>		</div>
+        <div class="elementor-heading-title elementor-size-default">Zin's Hotel & Resort</div>		</div>
             </div>
                 </div>
     </div>
@@ -328,7 +328,7 @@ window.mc4wp = window.mc4wp || {
                                         </button>
             </span>
         </div>
-        
+
                         <br class="clear"/>
             <div id="autocomplete_cd1889c" class="autocomplete" data-mousedown="false"></div>
                 </form>
@@ -387,44 +387,44 @@ window.mc4wp = window.mc4wp || {
         <div class="themegoods-background-menu-wrapper">
 <div class="themegoods-background-menu-default"></div>
 <ul class="themegoods-background-menu display-fullwidth">
-    
+
     {{-- Phan gan link khi nhan vao nav bar  --}}
             <li class="themegoods-background-menu__item">
         <a class="themegoods-background-menu__item-link" href="" >Home</a>
-        
+
         <span class="themegoods-background-menu__item-image">
             <img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/mountain-ski-resort-2021-08-30-09-28-42-utc.jpg" alt=""/>
         <span>
     </li>
             <li class="themegoods-background-menu__item">
         <a class="themegoods-background-menu__item-link" href="" >About The Hotel</a>
-        
+
         <span class="themegoods-background-menu__item-image">
             <img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/chalet-hills-2021-08-26-16-38-04-utc.jpg" alt=""/>
         <span>
     </li>
             <li class="themegoods-background-menu__item">
         <a class="themegoods-background-menu__item-link" href="" >Our Rooms</a>
-        
+
         <span class="themegoods-background-menu__item-image">
             <img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/alpine-winter-mountain-landscape-french-alps-with-2021-08-26-16-19-11-utc.jpg" alt=""/>
         <span>
     </li>
             {{-- <li class="themegoods-background-menu__item">
         <a class="themegoods-background-menu__item-link" href="" >Restaurant</a>
-        
+
         <span class="themegoods-background-menu__item-image">
             <img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/alasdair-elmes-ULHxWq8reao-unsplash.jpg" alt=""/>
         <span>
     </li> --}}
             <li class="themegoods-background-menu__item">
         <a class="themegoods-background-menu__item-link" href="" >Service</a>
-        
+
         <span class="themegoods-background-menu__item-image">
             <img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/getty-images-68IEJYojEyo-unsplash.jpg" alt=""/>
         <span>
     </li>
-            
+
 </ul>
 </div>
     </div>
@@ -439,7 +439,7 @@ window.mc4wp = window.mc4wp || {
             </div>
             <div class="elementor-element elementor-element-15c8798 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="15c8798" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-        <div class="elementor-heading-title elementor-size-default">The Hoteller Resort Via Serlas 27, 7500 St. Moritz, Switzerland</div>		</div>
+        <div class="elementor-heading-title elementor-size-default">1 Doc Lap, Chien Thang Street, Ha Noi Capital, Viet Nam.</div>		</div>
             </div>
             <div class="elementor-element elementor-element-978d460 elementor-widget elementor-widget-spacer" data-id="978d460" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="spacer.default">
             <div class="elementor-widget-container">
@@ -451,7 +451,7 @@ window.mc4wp = window.mc4wp || {
             </div>
             <div class="elementor-element elementor-element-cdcd5dc elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="cdcd5dc" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-        <div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+45 35634 3444</a></div>		</div>
+        <div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+84 2222 6789</a></div>		</div>
             </div>
             <div class="elementor-element elementor-element-a741066 elementor-widget elementor-widget-spacer" data-id="a741066" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="spacer.default">
             <div class="elementor-widget-container">
@@ -462,7 +462,7 @@ window.mc4wp = window.mc4wp || {
             </div>
             <div class="elementor-element elementor-element-50b3cfd elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="50b3cfd" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-        <div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@thehotel.com</a></div>		</div>
+        <div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@zinshomecompany.com</a></div>		</div>
             </div>
             <div class="elementor-element elementor-element-ed67ef7 elementor-widget elementor-widget-spacer" data-id="ed67ef7" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="spacer.default">
             <div class="elementor-widget-container">
