@@ -69,7 +69,7 @@
 			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu40" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-569 current_page_item'><a href="#" >Our Rooms</a></li>
 
 				{{-- Link service thanh nav  --}}
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Service</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('service')}}" >Service</a></li>
 </ul></div></div>		</div>
 				</div>
 					</div>
