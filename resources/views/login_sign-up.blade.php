@@ -26,6 +26,35 @@
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
         />
+        <style>
+            .alert {
+            padding: 20px;
+            background-color: #f44336;
+            color: white;
+            }
+
+            .closebtn {
+            margin-left: 15px;
+            color: white;
+            font-weight: bold;
+            float: right;
+            font-size: 22px;
+            line-height: 20px;
+            cursor: pointer;
+            transition: 0.3s;
+            }
+
+            .closebtn:hover {
+            color: black;
+            }
+            .fixed-bottom-right {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            margin: 20px;
+            padding: 10px;
+            }
+        </style>
     </head>
     <body>
     <img style="position: fixed; /* Đặt ảnh ở vị trí cố định */
@@ -38,22 +67,24 @@
     >
     <div class="container" id="container">
         <!-- Biểu mẫu đăng ký -->
-        <form action="Register.php" method="post" class="form-container register-container">
+        <form action="{{route('register')}}" method="POST" class="form-container register-container">
+            @csrf
             <h1>Register here</h1>
             <div class="form-control">
-                <input type="text" id="username" name="username" placeholder="Name" />
+                <input type="text" id="name" value="{{ old('name') }}" name="name" placeholder="Name" />
                 <small id="username-error"></small>
                 <span></span>
             </div>
             <div class="form-control">
-                <input type="email" id="email" name="email" placeholder="Email" />
+                <input type="email" id="email" value="{{ old('email') }}" name="email" placeholder="Email" />
                 <small id="email-error"></small>
                 <span></span>
             </div>
             <div id="duplicate-error" style="color: red;"></div>
             <div class="form-control">
-                <input type="password" id="password" name="password" placeholder="Password" />
+                <input type="password" id="password" value="{{ old('password') }}" name="password" placeholder="Password" />
                 <small id="password-error"></small>
+                <small id="password-error"></small><br>
                 <span></span>
             </div>
             <button type="submit" value="submit">Register</button>
@@ -67,15 +98,20 @@
         </form>
 
         <!-- Biểu mẫu đăng nhập -->
-        <form action="Login.php" method="post" class="form-container login-container">
+        <form action="{{route('login')}}" method="POST" class="form-container login-container">
+            @csrf
             <h1>Login here.</h1>
             <div class="form-control2">
-                <input type="email" name="email" class="email-2" placeholder="Email" />
+                <input type="email" name="email"  class="email-2" placeholder="Email" />
                 <small class="email-error-2"></small>
                 <span></span>
             </div>
             <div class="form-control2">
-                <input type="password" name="password" class="password-2" placeholder="Password" />
+                <input type="password" name="password"  class="password-2" placeholder="Password" />
+                @if ($message = Session::get('error'))
+                        {{-- <strong>{{ $message }}</strong> --}}
+                        <small id="error-messs" class="password-error-2">{{ $message }}</small>
+                @endif
                 <small class="password-error-2"></small>
                 <span></span>
             </div>
@@ -106,7 +142,7 @@
                             <img
                                 src="{{asset('assets')}}/img/booking-confirm/logo-white.png"
                                 alt=""
-                                style="width: 150px; height: 150px"
+                                style=""
                             />
                         </h1>
 
@@ -122,7 +158,7 @@
                             <img
                                 src="{{asset('assets')}}/img/booking-confirm/logo-white.png"
                                 alt=""
-                                style="width: 150px; height: 150px"
+                                style=""
                             />
                         </h1>
                         <p>
@@ -137,6 +173,12 @@
                 </div>
             </div>
         </div>
+        @if($errors->any())
+            <div class="alert fixed-bottom-right">
+                <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+                <strong>Error!</strong> .{{ $errors->first() }}
+            </div>
+        @endif
     </body>
     <script src="{{asset('assets')}}/js/main.js"></script>
 </html>

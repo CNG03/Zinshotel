@@ -5,6 +5,16 @@ const container = document.getElementById("container");
 
 registerButton.addEventListener("click", () => {
     container.classList.add("right-panel-active");
+    const errorMessage = document.getElementById("error-message");
+
+    // Nếu tồn tại thẻ <small> có id là "error-message"
+    if (errorMessage) {
+        // Đợi 5 giây sau khi trang tải xong
+        setTimeout(() => {
+            // Xóa thẻ <small> có id là "error-message"
+            errorMessage.remove();
+        }, 5000); // 5000 milliseconds = 5 giây
+    }
 });
 
 loginButton.addEventListener("click", () => {

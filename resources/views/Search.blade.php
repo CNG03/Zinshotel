@@ -13,7 +13,7 @@
         @include('layout.link-css')
 </head>
 <body>
-    @include('layout.header')
+    @include('layout.header1')
     <div class="main">
         <div class="page_content-wapper">
             <div class="wapper">
