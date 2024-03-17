@@ -1,19 +1,3 @@
-let items = document.querySelectorAll('.carousel .carousel-item')
-
-		items.forEach((el) => {
-			const minPerSlide = 4;
-			let next = el.nextElementSibling;
-			for (var i=1; i<minPerSlide; i++) {
-				if (!next) {
-            // wrap carousel by using first child
-            next = items[0]
-        }
-        let cloneChild = next.cloneNode(true)
-        el.appendChild(cloneChild.children[0])
-        next = next.nextElementSibling
-    }
-})
-
 document.addEventListener('DOMContentLoaded', function () {
     var floatingDiv = document.getElementById('floatingDiv');
   
@@ -27,4 +11,54 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     });
   });
+  
+
+
+
+document.getElementById("toggleMenu").addEventListener("click", function() {
+    document.getElementById("menu").style.display = "block";
+    document.getElementById("menuOverlay").style.display = "block";
+});
+  
+document.getElementById("closeMenu").addEventListener("click", function() {
+    document.getElementById("menu").style.display = "none";
+    document.getElementById("menuOverlay").style.display = "none";
+});
+
+
+
+
+var accommodationCategory = document.querySelector('.accommodation-category');
+var slider = accommodationCategory.querySelector('.block_wrapper');
+var slideIndex = 0;
+function slideLeft() {
+  var slideMargin = parseInt(getComputedStyle(accommodationCategory.querySelector('.sub-form')).marginRight);
+  var slideWidth = accommodationCategory.querySelector('.sub-form').offsetWidth + slideMargin;
+  var maxSlideIndex = slider.children.length;
+  if (slideIndex === 0) {
+    slideIndex = maxSlideIndex - 4;
+    slider.style.transform = 'translateX(' + (-slideWidth * slideIndex) + 'px)';
+  }else if (slideIndex === maxSlideIndex - 4) {
+    slideIndex = 0;
+    slider.style.transform = 'translateX(' + (-slideWidth * slideIndex) + 'px)';
+  } else {
+    slideIndex++;
+    slider.style.transform = 'translateX(' + (-slideWidth * slideIndex) + 'px)';
+  }
+  slider.style.transform = 'translateX(' + (-slideWidth * slideIndex) + 'px)';
+}
+function slideRight() {
+  var slideMargin = parseInt(getComputedStyle(accommodationCategory.querySelector('.sub-form')).marginRight);
+  var slideWidth = accommodationCategory.querySelector('.sub-form').offsetWidth + slideMargin;
+  var maxSlideIndex = slider.children.length - 4;
+  if (slideIndex === maxSlideIndex) {
+    slideIndex = 0;
+    slider.style.transform = 'translateX(' + (-slideWidth * slideIndex) + 'px)';
+  } else {
+    slideIndex++;
+    slider.style.transform = 'translateX(' + (-slideWidth * slideIndex) + 'px)';
+  }
+}
+
+
   
