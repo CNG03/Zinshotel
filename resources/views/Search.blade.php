@@ -122,7 +122,7 @@
                             <div class="search_results-wapper">
                                 <p class="search_results-info">6 accommodations found from April 15, 2024 - till April 16, 2024</p>
                             </div>
-                            <div class="wapper-image-info">
+                            <div class="wapper-image-info-1">
                                 <div class="image-wapper">
                                     <img src="{{asset('assets')}}/img/Search/hotel-room-1.jpg" alt="">
                                 </div>
@@ -225,9 +225,9 @@
                                     <p class="regular-price">
                                         <strong>Prices start at:</strong>
                                         <span class="price">
-                                            <span class="currrency">$</span>79
+                                            <span class="currrency">$</span>654
                                         </span>
-                                        <span class="price-period">per night</span>
+                                        <span class="price-period">for 6 nights</span>
                                     </p>
                                     <hr/>
                                     <div class="reserve-room-section">
@@ -258,15 +258,15 @@
                                 </div>
                                 <div class="info-wapper">
                                     <div class="info-wapper-room-1">
-                                        <a href="">Prestige Room</a>
+                                        <a href="">Serenity Suite</a>
                                     </div>
                                     <p>
-                                        Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
+                                        Serenity Suite Planning a romantic escape? Our Romantic Suites are designed to set the mood. Enjoy a four-poster king-sized bed, a private balcony with sunset views, and a relaxing Jacuzzi tub for two. Champagne and chocolates await your arrival. Floor […]
                                     </p>
                                     <ul class="room-type-attributes">
                                         <li class="room-type-adults">
                                             <span class="attributes-title-adults">Adults:</span>
-                                            <span class="attributes-value">2</span>
+                                            <span class="attributes-value">3</span>
                                         </li>
                                         <li class="room-type-children">
                                             <span class="attributes-title-children">Children:</span>
@@ -275,24 +275,24 @@
                                         <li class="room-type-view">
                                             <span class="attributes-title-view">View:</span>
                                             <span class="attributes-value">
-                                                Courtyard View
+                                                Mountain view
                                             </span>
                                         </li>
                                         <li class="room-type-size">
                                             <span class="attributes-title-size">Size:</span>
-                                            <span class="attributes-value">32m²</span>
+                                            <span class="attributes-value">55m²</span>
                                         </li>
                                         <li class="room-type-bed-type">
                                             <span class="attributes-title-bed-type">Bed Type:</span>
-                                            <span class="attributes-value">Queen Size</span>
+                                            <span class="attributes-value">King Size</span>
                                         </li>
                                     </ul>
                                     <p class="regular-price">
                                         <strong>Prices start at:</strong>
                                         <span class="price">
-                                            <span class="currrency">$</span>79
+                                            <span class="currrency">$</span>714
                                         </span>
-                                        <span class="price-period">per night</span>
+                                        <span class="price-period">for 6 nights</span>
                                     </p>
                                     <hr/>
                                     <div class="reserve-room-section">
@@ -323,7 +323,7 @@
                                 </div>
                                 <div class="info-wapper">
                                     <div class="info-wapper-room-1">
-                                        <a href="">Prestige Room</a>
+                                        <a href="">Deluxe Room</a>
                                     </div>
                                     <p>
                                         Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
@@ -345,19 +345,19 @@
                                         </li>
                                         <li class="room-type-size">
                                             <span class="attributes-title-size">Size:</span>
-                                            <span class="attributes-value">32m²</span>
+                                            <span class="attributes-value">27m²</span>
                                         </li>
                                         <li class="room-type-bed-type">
                                             <span class="attributes-title-bed-type">Bed Type:</span>
-                                            <span class="attributes-value">Queen Size</span>
+                                            <span class="attributes-value">Twin</span>
                                         </li>
                                     </ul>
                                     <p class="regular-price">
                                         <strong>Prices start at:</strong>
                                         <span class="price">
-                                            <span class="currrency">$</span>79
+                                            <span class="currrency">$</span>354
                                         </span>
-                                        <span class="price-period">per night</span>
+                                        <span class="price-period">for 6 nights</span>
                                     </p>
                                     <hr/>
                                     <div class="reserve-room-section">
@@ -388,41 +388,41 @@
                                 </div>
                                 <div class="info-wapper">
                                     <div class="info-wapper-room-1">
-                                        <a href="">Prestige Room</a>
+                                        <a href="">Residence Suite</a>
                                     </div>
                                     <p>
-                                        Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
+                                        Residence Suite Traveling with family? Our Family-Friendly Rooms offer comfort and convenience for everyone. These spacious rooms feature two queen-sized beds, a mini-fridge, and a flat-screen TV with kid-friendly channels. We’ve got your family covered. Floor Plan Book This Room […]
                                     </p>
                                     <ul class="room-type-attributes">
                                         <li class="room-type-adults">
                                             <span class="attributes-title-adults">Adults:</span>
-                                            <span class="attributes-value">2</span>
+                                            <span class="attributes-value">3</span>
                                         </li>
                                         <li class="room-type-children">
                                             <span class="attributes-title-children">Children:</span>
-                                            <span class="attributes-value">1</span>
+                                            <span class="attributes-value">2</span>
                                         </li>
                                         <li class="room-type-view">
                                             <span class="attributes-title-view">View:</span>
                                             <span class="attributes-value">
-                                                Courtyard View
+                                                Panoramic View
                                             </span>
                                         </li>
                                         <li class="room-type-size">
                                             <span class="attributes-title-size">Size:</span>
-                                            <span class="attributes-value">32m²</span>
+                                            <span class="attributes-value">77m²</span>
                                         </li>
                                         <li class="room-type-bed-type">
                                             <span class="attributes-title-bed-type">Bed Type:</span>
-                                            <span class="attributes-value">Queen Size</span>
+                                            <span class="attributes-value">King Size</span>
                                         </li>
                                     </ul>
                                     <p class="regular-price">
                                         <strong>Prices start at:</strong>
                                         <span class="price">
-                                            <span class="currrency">$</span>79
+                                            <span class="currrency">$</span>1,014
                                         </span>
-                                        <span class="price-period">per night</span>
+                                        <span class="price-period">for 6 night</span>
                                     </p>
                                     <hr/>
                                     <div class="reserve-room-section">
@@ -453,15 +453,15 @@
                                 </div>
                                 <div class="info-wapper">
                                     <div class="info-wapper-room-1">
-                                        <a href="">Prestige Room</a>
+                                        <a href="">Penthouse</a>
                                     </div>
                                     <p>
-                                        Prestige Room Sink into a cloud of comfort on our sumptuous king-sized bed, complete with premium linens and an array of pillows to ensure a restful night’s sleep. Floor Plan Book This Room Amenities 32SQM344SQF King Bed Private Terrace Courtyard […]
+                                        Penthouse As you step into your spacious room, you’ll be greeted by tasteful decor and a soothing color palette. Our attention to detail ensures that every inch of your space exudes warmth and sophistication. Floor Plan Book This Room Amenities […]
                                     </p>
                                     <ul class="room-type-attributes">
                                         <li class="room-type-adults">
                                             <span class="attributes-title-adults">Adults:</span>
-                                            <span class="attributes-value">2</span>
+                                            <span class="attributes-value">3</span>
                                         </li>
                                         <li class="room-type-children">
                                             <span class="attributes-title-children">Children:</span>
@@ -470,24 +470,24 @@
                                         <li class="room-type-view">
                                             <span class="attributes-title-view">View:</span>
                                             <span class="attributes-value">
-                                                Courtyard View
+                                                Panoramic View
                                             </span>
                                         </li>
                                         <li class="room-type-size">
                                             <span class="attributes-title-size">Size:</span>
-                                            <span class="attributes-value">32m²</span>
+                                            <span class="attributes-value">100m²</span>
                                         </li>
                                         <li class="room-type-bed-type">
                                             <span class="attributes-title-bed-type">Bed Type:</span>
-                                            <span class="attributes-value">Queen Size</span>
+                                            <span class="attributes-value">King Size</span>
                                         </li>
                                     </ul>
                                     <p class="regular-price">
                                         <strong>Prices start at:</strong>
                                         <span class="price">
-                                            <span class="currrency">$</span>79
+                                            <span class="currrency">$</span>1,134
                                         </span>
-                                        <span class="price-period">per night</span>
+                                        <span class="price-period">for 6 night</span>
                                     </p>
                                     <hr/>
                                     <div class="reserve-room-section">
@@ -504,7 +504,7 @@
                                                 <option value="9">9</option>
                                                 <option value="10">10</option>
                                             </select>
-                                            <span class="room-count">of 10 accommodations available.</span>
+                                            <span class="room-count">of 5 accommodations available.</span>
                                         </p>
                                         <button class="book-button">Book</button>
                                     </div>
