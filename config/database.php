@@ -51,7 +51,7 @@ return [
             ],
             'write' => [
                 'host' => [
-                    'localhost:3306',
+                    'localhost',
                 ],
             ],
             'sticky' => true,

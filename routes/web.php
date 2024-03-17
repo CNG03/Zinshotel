@@ -1,6 +1,10 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers;
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\UserController;
+use Illuminate\Routing\Route as RoutingRoute;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,9 +17,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('login_sign-up');
-});
+Route::get('/home', [HomeController::class, 'index'])->name('home');
+Route::get('/', [UserController::class, 'loginSignUp'])->name('login_sign-up');
+Route::post('/register', [UserController::class, 'register'])->name('register');
+Route::post('/login', [UserController::class, 'login'])->name('login');
+
 
 Route::get('/service', function () {
     return view('service');
@@ -25,13 +31,9 @@ Route::get('/service', function () {
 Route::get('/booking-confirmation', function () {
     return view('booking-confirmation');
 });
-Route::get('Search', function () {
-    return view('Search');
-});
-
-Route::get('home', function () {
-    return view('home');
-})->name('home');
+Route::get('search', function () {
+    return view('search');
+})->name('search');
 
 Route::get('example', function () {
     return view('web-example');
