@@ -58,7 +58,7 @@
                             <li><a href="#">Book Now</a></li>
                         </ul>
                     </div>
-                </div> 
+                </div>
             </section>
         </section>
         <section class="welcome">
@@ -129,14 +129,14 @@
                     <div class="form-style">
                         <button type="submit">Search</button>
                     </div>
-                    
-                </div>   
+
+                </div>
             </form>
         </section>
     </div>
-    
-    
-    
+
+
+
 
     <section class="content" style="width: 100%;background-color: #F1F0EB;">
         <section class="winter-special-offer">
@@ -149,7 +149,7 @@
             <p>Discover a world of luxury and relaxation with our carefully curated hotel offers, <br>
                 designed to enhance your stay and create lasting memories. Whether you’re planning a <br>
                 romantic getaway, a family vacation, or a business trip, we have the perfect offer to suit <br>
-                your needs and elevate your experience. 
+                your needs and elevate your experience.
             </p>
             <div class="book-spa-session view-winter-more">
                 <a href="">
@@ -162,7 +162,7 @@
             <h1>Our Rooms</h1>
             <p>
                 Get ready to carve through pristine powder and conquer the <br>
-                slopes of varying difficulty levels. Our resort boasts a diverse <br> 
+                slopes of varying difficulty levels. Our resort boasts a diverse <br>
                 range of ski and snowboard trails, ensuring there’s something <br>
                 for everyone, from beginners to seasoned experts.
             </p>
@@ -245,7 +245,7 @@
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         </a>
                     </div>
-                </div>		
+                </div>
             </div>
         </section>
         <section style="margin-top: 100px;" class="offers restaurant">
@@ -253,7 +253,7 @@
                 <div class="row">
                     <div class="offers-text col-md-7">
                         <h2>Restaurant</h2>
-                        <p>Executive Chef, showcases their expertise and passion for fine dining by using the finest, locally sourced ingredients</p> 
+                        <p>Executive Chef, showcases their expertise and passion for fine dining by using the finest, locally sourced ingredients</p>
                     </div>
                     <div class="discover-our-offers col-md-5">
                         <a href="">
@@ -266,14 +266,14 @@
         <section style="margin-top: 100px;" class="restaurant-img">
             <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/happy-man-toasting-with-wine-and-smiling-to-girlfr-2023-04-11-19-25-22-utc-683x1024.jpg" alt="">
             <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/restaurant-food-2021-09-02-00-17-28-utc-683x1024.jpg" alt="">
-            <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/fine-dining-design-in-restaurant-2022-09-29-22-34-40-utc-683x1024.jpg" alt="">        
+            <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/fine-dining-design-in-restaurant-2022-09-29-22-34-40-utc-683x1024.jpg" alt="">
             <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/restaurant-2022-11-15-11-05-42-utc-768x1024.jpg" alt="">
         </section>
         <section style="margin-top: 100px;" class="spa-ads ">
             <h1>A World of Spa</h1>
             <p>Nestled within the heart of our hotel,
-                our spa is a sanctuary of <br>relaxation and rejuvenation, 
-                dedicated to enhancing your well- <br> being and restoring 
+                our spa is a sanctuary of <br>relaxation and rejuvenation,
+                dedicated to enhancing your well- <br> being and restoring
                 your inner balance.</p>
             <div class="book-spa-session">
                 <a href="">
@@ -293,7 +293,7 @@
                 <div class="row">
                     <div class="offers-text col-md-7">
                         <h2>Offers</h2>
-                        <p>Discover our attractive offers on all Rooms & Suites at the Hoteller Resort. Start your journey with us.</p> 
+                        <p>Discover our attractive offers on all Rooms & Suites at the Hoteller Resort. Start your journey with us.</p>
                     </div>
                     <div class="discover-our-offers col-md-5">
                         <a href="">
@@ -376,7 +376,7 @@
                     </a>
                 </div>
             </div>
-            
+
         </section>
         <section style="margin-top: 100px;" class="footer">
             <hr>
@@ -398,16 +398,16 @@
                     </div>
                     <div class="footer-contact-address col-md-4">
                         <p>
-                            The Hoteller Resort Via Serlas 27,       
+                            The Hoteller Resort Via Serlas 27,
                         </p>
                         <p>
-                            7500 St. Moritz, Switzerland 
+                            7500 St. Moritz, Switzerland
                         </p>
                         <p>
                             +45 35634 3444
                         </p>
                         <p>
-                            contact@thehotel.com  
+                            contact@thehotel.com
                         </p>
                         <div class="social-media-link">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -453,11 +453,11 @@
                         <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/world_boutique_hotel_awards.png" alt="">
                         <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/booking_com.png" alt="">
                     </div>
-                </div>    
-            </div>  
+                </div>
+            </div>
         </section>
     </section>
-    
+
     <script src="{{asset('assets')}}/js/home.js"></script>
 </body>
 </html>

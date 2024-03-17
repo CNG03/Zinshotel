@@ -60,7 +60,7 @@
 }
 
 .service-item{
-    margin-left: 50px;
+    margin-left: 40px;
 }
 .service-style{
     text-decoration: none;
@@ -69,12 +69,12 @@
 .service-img{
     overflow: hidden;
 }
-.sevice-img img{
+.service-img img{
     width: 262px;
     transition: transform 0.3s ease;
 }
 
-.sevice-img img:hover{
+.service-img img:hover{
     transform: scale(1.1);
 }
 .learn-more button{
