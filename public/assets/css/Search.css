@@ -4,7 +4,6 @@ body{
 hr{
     color: #0e0d0d;
     margin-top: 30px;
-    
 }
 .page-title-content h1{
     font-family: Lora;
@@ -13,12 +12,14 @@ hr{
     font-style: normal;
     color: #000000;
     text-align: center;
+    margin-top: 60px;
 }
 .sidebar_widget{
     display: flex;
 }
 .sidebar_widget-2{
     margin-left: 10px;
+    margin-top: 20px;
 }
 .widget-currency {
     margin-left: 70px; 
@@ -57,35 +58,33 @@ hr{
     background-color: #ffffff;
     margin-left: 70px;
     width: 330px;
-    height: 510px;
+    height: 550px;
     margin-top: 40px;
 }
 .widget_search_form{
     margin-left: 30px;
-    padding-top: 50px;
+    padding-top: 35px;
     box-sizing: border-box;
 }
 .widget_search_check-in-date{
     font-weight: bold;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 .widget_search_check-in-date input{
     width: 90%;
-    height: 40px;
-    border: 1px solid #aaa;
+    height: 45px;
 }
 .widget_search_check-out-date{
     font-weight: bold;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 .widget_search_check-out-date input{
     width: 90%;
-    height: 40px;
-    border: 1px solid #aaa;
+    height: 45px;
 }
 .widget_search-adults-children{
     display: flex;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 .widget_search-adults{
     font-weight: bold;  
@@ -95,7 +94,7 @@ hr{
 	font-family: sans-serif;
 	color: #444;
 	line-height: 1.3;
-	padding: .6em 3.4em .5em .8em;
+	padding: .8em 4.2em .5em .8em;
 	width: 100%;
 	max-width: 100%; 
 	box-sizing: border-box;
@@ -112,7 +111,7 @@ hr{
 	font-family: sans-serif;
 	color: #444;
 	line-height: 1.3;
-	padding: .6em 3.4em .5em .8em;
+	padding: .8em 4.2em .5em .8em;
     margin-left: px;
 	width: 100%;
 	max-width: 100%; 
@@ -141,7 +140,8 @@ hr{
 .sidebar_content-left{
     margin-left: 50px;
     box-sizing: border-box;
-    margin-right: 150px;
+    margin-right: 120px;
+    margin-bottom: 80px;
 }
 .image-wapper img{
     width: 340px;
@@ -149,7 +149,11 @@ hr{
 }
 .wapper-image-info{
     display: flex;
-    margin-top: 37px;
+    margin-top: 80px;
+}
+.wapper-image-info-1{
+    display: flex;
+    margin-top: 17px;
 }
 .info-wapper{
     box-sizing: border-box;
@@ -164,11 +168,9 @@ hr{
     font-family: inherit;
     vertical-align: baseline;
 }
-.info-wapper p{
-    margin-top: 15px;
-}
 .room-type-attributes{
-    margin-top: 35px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 .room-type-attributes li{
     list-style: none;
@@ -189,7 +191,7 @@ hr{
 .book-button{
     width: 40%;
     height: 50px;
-    margin-top: 20px;
+    margin-top: 10px;
     background-color: #4c7294;
     border: none;
     color: #ffffff;
@@ -197,3 +199,4 @@ hr{
 .book-button:hover{
     background-color: #295377;
 }
+
