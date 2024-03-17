@@ -11,7 +11,7 @@
             rel="icon"
             type="image/png"
             sizes="16x16"
-            href="{{asset('assets')}}/img/booking-confirm/logo-black2.png"
+            href="{{asset('assets')}}/img/Coffe Mart.png"
         />
         <link rel="manifest" href="{{asset('assets')}}/favicon/site.webmanifest" />
         <meta name="application-TileColor" content="#da532c" />
