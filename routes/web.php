@@ -31,7 +31,7 @@ Route::get('Search', function () {
 
 Route::get('home', function () {
     return view('home');
-});
+})->name('home');
 
 Route::get('example', function () {
     return view('web-example');
