@@ -3,12 +3,10 @@
 <html lang="en-US"  data-menu="leftalign">
 <head>
 
-<link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="pingback" href="https://hotellerv6-5.themegoods.com/ski/xmlrpc.php" />
 
  
 
-<title>Penthouse &#8211; Zin's Home Hotel | Room Details</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /></noscript>
+<title>Prestige Room &#8211; Zin's Home Hotel | Detail Room</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /></noscript>
 					<style type="text/css" id="cst_font_data">
 						@font-face {
 	font-family: 'silverline_script_demoregular';
@@ -19,7 +17,7 @@
 <link rel='dns-prefetch' href='//hotellerv6-5.b-cdn.net' />
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
 <link href='https://hotellerv6-5.b-cdn.net' rel='preconnect' />
-<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta name="format-detection" content="telephone=no"><meta property="og:type" content="article" /><meta property="og:type" content="article" /><meta property="og:image" content="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/jsb-co-VrQQMx3Jftc-unsplash-200x300.jpg"/><meta property="og:title" content="Penthouse"/><meta property="og:url" content="https://hotellerv6-5.themegoods.com/ski/accommodation/penthouse/"/><style type="text/css">
+<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta name="format-detection" content="telephone=no"><meta property="og:type" content="article" /><meta property="og:type" content="article" /><meta property="og:image" content="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/hans-isaacson-F9cDk61pBbM-unsplash-200x300.jpg"/><meta property="og:title" content="Prestige Room"/><meta property="og:url" content="https://hotellerv6-5.themegoods.com/ski/accommodation/prestige-room/"/><style type="text/css">
 img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -86,7 +84,7 @@ img.emoji {
 <link rel='stylesheet' id='owl-carousel-theme-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/plugins/hoteller-elementor/assets/css/owl.theme.default.min.css?ver=6.3.3' type='text/css' media='all' />
 <link data-minify="1" rel='stylesheet' id='hoteller-elementor-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/hoteller-elementor.css?ver=1696939201' type='text/css' media='all' />
 <link data-minify="1" rel='stylesheet' id='hoteller-elementor-responsive-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/hoteller-elementor-responsive.css?ver=1696939201' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-477-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/elementor/css/post-477.css?ver=1695375605' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-335-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/elementor/css/post-335.css?ver=1695371933' type='text/css' media='all' />
 <link data-minify="1" rel='stylesheet' id='hoteller-script-responsive-css-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/core/responsive.css?ver=1696939201' type='text/css' media='all' />
 <style id='hoteller-script-responsive-css-inline-css' type='text/css'>
 
@@ -151,19 +149,13 @@ img.emoji {
 
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-<link rel="https://api.w.org/" href="https://hotellerv6-5.themegoods.com/ski/wp-json/" /><link rel="alternate" type="application/json" href="https://hotellerv6-5.themegoods.com/ski/wp-json/wp/v2/mphb_room_type/477" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hotellerv6-5.themegoods.com/ski/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.3.3" />
-<meta name="generator" content="WooCommerce 8.1.1" />
-<link rel="canonical" href="https://hotellerv6-5.themegoods.com/ski/accommodation/penthouse/" />
-<link rel='shortlink' href='https://hotellerv6-5.themegoods.com/ski/?p=477' />
-<link rel="alternate" type="application/json+oembed" href="https://hotellerv6-5.themegoods.com/ski/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhotellerv6-5.themegoods.com%2Fski%2Faccommodation%2Fpenthouse%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://hotellerv6-5.themegoods.com/ski/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhotellerv6-5.themegoods.com%2Fski%2Faccommodation%2Fpenthouse%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://hotellerv6-5.themegoods.com/ski/wp-json/" /><link rel="alternate" type="application/json" href="https://hotellerv6-5.themegoods.com/ski/wp-json/wp/v2/mphb_room_type/335" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hotellerv6-5.themegoods.com/ski/xmlrpc.php?rsd" />
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<meta name="generator" content="Elementor 3.16.4; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
 <link rel="icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" sizes="32x32" />
 <link rel="icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" />
-<meta name="msapplication-TileImage" content="{{asset('assets')}}/img/booking-confirm/logo-black2.png" />
+<meta name="msapplication-TileImage" content="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" />
 		<style type="text/css" id="wp-custom-css">
 			#footer_wrapper .mc4wp-form input[type=email] {
 	min-width: 85%;
@@ -312,7 +304,7 @@ img.emoji {
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }</style><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
 
-<body class="mphb_room_type-template mphb_room_type-template-elementor_header_footer single single-mphb_room_type postid-477 theme-hoteller woocommerce-no-js lightbox-white tg_sidemenu_desktop leftalign search-layout-list hoteller-input-classic elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-477">
+<body class="mphb_room_type-template mphb_room_type-template-elementor_header_footer single single-mphb_room_type postid-335 theme-hoteller woocommerce-no-js lightbox-white tg_sidemenu_desktop leftalign search-layout-list hoteller-input-classic elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-335">
 		<div id="perspective" >
 		<input type="hidden" id="pp_menu_layout" name="pp_menu_layout" value="leftalign"/>
 	<input type="hidden" id="pp_enable_right_click" name="pp_enable_right_click" value=""/>
@@ -329,7 +321,7 @@ img.emoji {
 	<input type="hidden" id="tg_lightbox_timer" name="tg_lightbox_timer" value="7000"/>
 	<input type="hidden" id="tg_header_content" name="tg_header_content" value="content"/>
 	
-		<input type="hidden" id="tg_cart_url" name="tg_cart_url" value="https://hotellerv6-5.themegoods.com/ski/cart/"/>
+		<input type="hidden" id="tg_cart_url" name="tg_cart_url" value=""/>
 		
 		<input type="hidden" id="tg_live_builder" name="tg_live_builder" value="0"/>
 	
@@ -365,8 +357,8 @@ img.emoji {
 				</div>
 				<div class="elementor-element elementor-element-6a9557e elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-hoteller-navigation-menu" data-id="6a9557e" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="hoteller-navigation-menu.default">
 				<div class="elementor-widget-container">
-			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu20" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('our-rooms')}}" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('service')}}" >Service</a></li>
+			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu33" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('our-rooms')}}" >Our Rooms</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('service')}}" >Service </a></li>
 </ul></div></div>		</div>
 				</div>
 					</div>
@@ -469,8 +461,8 @@ img.emoji {
 				</div>
 				<div class="elementor-element elementor-element-109f871 elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-hoteller-navigation-menu" data-id="109f871" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="hoteller-navigation-menu.default">
 				<div class="elementor-widget-container">
-			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu2" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('our-rooms')}}" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('service')}}" >Service</a></li>
+			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu39" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('our-rooms')}}" >Our Rooms</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('service')}}" >Service </a></li>
 </ul></div></div>		</div>
 				</div>
 					</div>
@@ -542,30 +534,30 @@ img.emoji {
 		</section>
 							</div>
 			</div>
-		<div data-elementor-type="wp-post" data-elementor-id="477" class="elementor elementor-477">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-bc28517 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="bc28517" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;hoteller_ext_is_background_parallax&quot;:&quot;true&quot;,&quot;hoteller_ext_is_background_parallax_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.1000000000000000055511151231257827021181583404541015625,&quot;sizes&quot;:[]},&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+		<div data-elementor-type="wp-post" data-elementor-id="335" class="elementor elementor-335">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-701eea0b elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="701eea0b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;hoteller_ext_is_background_parallax&quot;:&quot;true&quot;,&quot;hoteller_ext_is_background_parallax_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.1000000000000000055511151231257827021181583404541015625,&quot;sizes&quot;:[]},&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7b634806" data-id="7b634806" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4b1d8102" data-id="4b1d8102" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-34e1f9c elementor-widget elementor-widget-heading" data-id="34e1f9c" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-7d7a9168 elementor-widget elementor-widget-heading" data-id="7d7a9168" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.16.0 - 20-09-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Penthouse</h1>		</div>
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Prestige Room</h1>		</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-3f5c7a43 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3f5c7a43" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1dd5e59b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1dd5e59b" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f5a11fb" data-id="f5a11fb" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-15f7eaa7" data-id="15f7eaa7" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-34b2881 elementor-widget elementor-widget-heading" data-id="34b2881" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-1c220fc9 elementor-widget elementor-widget-heading" data-id="1c220fc9" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">As you step into your spacious room, you'll be embraced by an ambiance of refined elegance and tranquility. Our meticulous attention to detail is evident in every aspect of the tasteful decor and soothing color palette that adorns the space. From the carefully chosen furnishings to the thoughtful placement of accent pieces, every element has been curated to create a harmonious atmosphere that invites relaxation and rejuvenation. Whether you're unwinding after a busy day of exploring the city or preparing for a productive day ahead, you'll find that every inch of your room exudes warmth and sophistication, promising a truly memorable stay.</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">Experience the ultimate comfort as you sink into our luxurious king-sized bed, enveloped in a cocoon of plushness. Adorned with premium linens and a selection of pillows tailored to your preference, it promises a tranquil and rejuvenating night's sleep. Let the worries of the day drift away as you surrender to the serenity of our lavish bedding, ensuring you awaken refreshed and invigorated to embrace the day ahead.</div>		</div>
 				</div>
-				<div class="elementor-element elementor-element-4db010d4 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="4db010d4" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-21ca7df2 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="21ca7df2" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
 			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/vecteezy_house-plan-with-furniture-three-bedroom-isolated-on-white_19500011.jpg">
@@ -576,7 +568,7 @@ img.emoji {
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-600a7f04 elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="600a7f04" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-55a94860 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="55a94860" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
 			<a class="elementor-button elementor-button-link elementor-size-sm" href="">
@@ -589,20 +581,20 @@ img.emoji {
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-36e86470" data-id="36e86470" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-28404e62" data-id="28404e62" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4d859f17 elementor-widget elementor-widget-heading" data-id="4d859f17" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-b939c9b elementor-widget elementor-widget-heading" data-id="b939c9b" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default">Amenities</div>		</div>
 				</div>
-				<div class="elementor-element elementor-element-1edfb687 elementor-mobile-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1edfb687" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-5b03d0f8 elementor-mobile-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5b03d0f8" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">100SQM1076SQF</span>
+										<span class="elementor-icon-list-text">32SQM344SQF</span>
 									</li>
 								<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">2 King Bed</span>
+										<span class="elementor-icon-list-text">King Bed</span>
 									</li>
 								<li class="elementor-icon-list-item">
 										<span class="elementor-icon-list-text">Private Terrace</span>
@@ -632,11 +624,11 @@ img.emoji {
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-122f58b6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="122f58b6" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-171b4a72 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="171b4a72" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2cfd7732" data-id="2cfd7732" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-73dd357b" data-id="73dd357b" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-2432ec6b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="2432ec6b" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="divider.default">
+								<div class="elementor-element elementor-element-462b3c4f elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="462b3c4f" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider">
 			<span class="elementor-divider-separator">
@@ -648,11 +640,11 @@ img.emoji {
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-6b1463ac elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6b1463ac" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b57b3bc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b57b3bc" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3cc1d7f7" data-id="3cc1d7f7" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-48d9577e" data-id="48d9577e" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1a7c8e09 elementor-widget elementor-widget-hoteller-slider-parallax" data-id="1a7c8e09" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="hoteller-slider-parallax.default">
+								<div class="elementor-element elementor-element-ab1bb8f elementor-widget elementor-widget-hoteller-slider-parallax" data-id="ab1bb8f" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="hoteller-slider-parallax.default">
 				<div class="elementor-widget-container">
 			<div class="slider_parallax_wrapper" data-autoplay="0" data-pagination="1" data-navigation="1">
 	<div class="slider_parallax_inner">
@@ -666,31 +658,31 @@ img.emoji {
 			                		            	</div>
 		          	</div>
 				  	<div class="image-container"> 
-		            	<img width="1440" height="960" decoding="async" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/interior-of-a-wooden-chalet-2022-11-01-02-02-45-utc.jpg" alt="" class="image" />
-		          	</div>
-		        </div>
-						<div class="slide  ">
-		          	<div class="slide-content">
-		            	<div class="caption">
-							<div class="title"><h2></h2></div>
-							<div class="text">
-		                				              		</div> 
-			                		            	</div>
-		          	</div>
-				  	<div class="image-container"> 
-		            	<img width="1440" height="960" decoding="async" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/francesca-tosolini-hJMe1TDOBfw-unsplash.jpg" alt="" class="image" />
-		          	</div>
-		        </div>
-						<div class="slide  ">
-		          	<div class="slide-content">
-		            	<div class="caption">
-							<div class="title"><h2></h2></div>
-							<div class="text">
-		                				              		</div> 
-			                		            	</div>
-		          	</div>
-				  	<div class="image-container"> 
 		            	<img width="1440" height="960" decoding="async" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/hans-isaacson-9OZNsXYmEa4-unsplash.jpg" alt="" class="image" />
+		          	</div>
+		        </div>
+						<div class="slide  ">
+		          	<div class="slide-content">
+		            	<div class="caption">
+							<div class="title"><h2></h2></div>
+							<div class="text">
+		                				              		</div> 
+			                		            	</div>
+		          	</div>
+				  	<div class="image-container"> 
+		            	<img width="1440" height="960" decoding="async" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/emily-wang-Wv65tpVIdDg-unsplash.jpg" alt="" class="image" />
+		          	</div>
+		        </div>
+						<div class="slide  ">
+		          	<div class="slide-content">
+		            	<div class="caption">
+							<div class="title"><h2></h2></div>
+							<div class="text">
+		                				              		</div> 
+			                		            	</div>
+		          	</div>
+				  	<div class="image-container"> 
+		            	<img width="1440" height="960" decoding="async" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/hans-isaacson-i6DvrmPmvnM-unsplash.jpg" alt="" class="image" />
 		          	</div>
 		        </div>
 				</div>
@@ -727,11 +719,11 @@ img.emoji {
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-1b1ce9f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1b1ce9f" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9af6d60 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9af6d60" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1e93fc3b" data-id="1e93fc3b" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3acf2d54" data-id="3acf2d54" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-17a8ab71 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="17a8ab71" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="divider.default">
+								<div class="elementor-element elementor-element-1bff39b0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1bff39b0" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider">
 			<span class="elementor-divider-separator">
@@ -743,23 +735,23 @@ img.emoji {
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5e05bc78 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e05bc78" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2180f8e7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2180f8e7" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-367727e4" data-id="367727e4" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
+					<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-566742f7" data-id="566742f7" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4e5e049c elementor-widget elementor-widget-heading" data-id="4e5e049c" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-5a9a3cc7 elementor-widget elementor-widget-heading" data-id="5a9a3cc7" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">Offers</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-620fac55 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="620fac55" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-7833d70e elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="7833d70e" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default">Discover our attractive offers on all Rooms & Suites at the Hoteller Resort. Start your journey with us.</div>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-576b765f" data-id="576b765f" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-715703a8" data-id="715703a8" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-21aef4df elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="21aef4df" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
+								<div class="elementor-element elementor-element-65c3b4fc elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="65c3b4fc" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
 			<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
@@ -774,11 +766,11 @@ img.emoji {
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-63c0b899 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="63c0b899" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1bfbff88 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1bfbff88" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4bd5bf2b" data-id="4bd5bf2b" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-291d7b3d" data-id="291d7b3d" data-element_type="column" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-79cfe5dd elementor-widget elementor-widget-hoteller-service-carousel" data-id="79cfe5dd" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="hoteller-service-carousel.default">
+								<div class="elementor-element elementor-element-4f936074 elementor-widget elementor-widget-hoteller-service-carousel" data-id="4f936074" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="hoteller-service-carousel.default">
 				<div class="elementor-widget-container">
 			<div class="service-carousel-wrapper">
 	<div class="owl-carousel" data-pagination="0" data-autoplay="0" data-timer="8000" data-items="4" data-stage-padding="70" data-margin="40">
@@ -937,7 +929,7 @@ img.emoji {
 					<div class="elementor-shortcode"><!-- Mailchimp for WordPress v4.9.7 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-89" method="post" data-id="89" data-name="Newsletter" ><div class="mc4wp-form-fields"><input type="email" name="EMAIL" placeholder="Your email address" required />
 <p>
 <input type="submit" value="Sign up" />
-</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1710608198" /><input type="hidden" name="_mc4wp_form_id" value="89" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
+</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1710669101" /><input type="hidden" name="_mc4wp_form_id" value="89" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
 				</div>
 				</div>
 					</div>
@@ -1022,18 +1014,18 @@ img.emoji {
 											<span class="elementor-icon-list-text">Our Rooms</span>
 											</a>
 									</li>
+								{{-- <li class="elementor-icon-list-item">
+											<a href="#">
+
+											<span class="elementor-icon-list-text">Service  & Bar</span>
+											</a>
+									</li> --}}
 								<li class="elementor-icon-list-item">
 											<a href="{{route('service')}}">
 
 											<span class="elementor-icon-list-text">Service</span>
 											</a>
 									</li>
-								{{-- <li class="elementor-icon-list-item">
-											<a href="#">
-
-											<span class="elementor-icon-list-text"></span>
-											</a>
-									</li> --}}
 								<li class="elementor-icon-list-item">
 											<a href="#">
 
@@ -1057,7 +1049,7 @@ img.emoji {
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="{{route('pm')}}">
+											<a href="#">
 
 											<span class="elementor-icon-list-text">Prestige Room</span>
 											</a>
@@ -1081,7 +1073,7 @@ img.emoji {
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="#">
+											<a href="{{route('pe')}}">
 
 											<span class="elementor-icon-list-text">Penthouse</span>
 											</a>
@@ -1157,7 +1149,7 @@ img.emoji {
 		</div>
 
  	<a id="toTop" href="javascript:;"><span class="ti-angle-up"></span></a>
-
+</div>
 	<div id="fullmenu-wrapper-131" class="fullmenu-wrapper">
 		<div data-elementor-type="wp-post" data-elementor-id="131" class="elementor elementor-131">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-9f71686 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="9f71686" data-element_type="section" data-settings="{&quot;hoteller_ext_is_background_parallax&quot;:&quot;false&quot;,&quot;hoteller_ext_is_background_on_scroll&quot;:&quot;false&quot;}">
@@ -1285,7 +1277,7 @@ img.emoji {
 			<span>
 		</li>
 				{{-- <li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="https://hotellerv6-5.themegoods.com/ski/restaurant/" >Restaurant</a>
+			<a class="themegoods-background-menu__item-link" href="{{route('service')}}" >Service </a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img width="1440" height="960" class="themegoods-background-menu__item-img" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/alasdair-elmes-ULHxWq8reao-unsplash.jpg" alt=""/>
@@ -1388,30 +1380,18 @@ img.emoji {
 
 
 
-
-
-
-
-
-
-
-
-
 <script type='text/javascript' id='hoteller-elementor-js-extra'>
 /* <![CDATA[ */
-var tgAjax = {"ajaxurl":"https:\/\/hotellerv6-5.themegoods.com\/ski\/wp-admin\/admin-ajax.php","ajax_nonce":"52f82b444d"};
+var tgAjax = {"ajaxurl":"https:\/\/hotellerv6-5.themegoods.com\/ski\/wp-admin\/admin-ajax.php","ajax_nonce":"2eccb2f56c"};
 /* ]]> */
 </script>
 
 
 
 
-
-
-
 <script type='text/javascript' id='mphb-js-extra'>
 /* <![CDATA[ */
-var MPHB = {"_data":{"settings":{"currency":{"code":"USD","price_format":"<span class=\"mphb-currency\">&#36;<\/span>%s","decimals":2,"decimal_separator":".","thousand_separator":","},"siteName":"Hoteller | Winter &amp; Ski Resort WordPress Theme","currentLanguage":"en","firstDay":1,"numberOfMonthCalendar":2,"numberOfMonthDatepicker":2,"dateFormat":"dd\/mm\/yyyy","dateTransferFormat":"yyyy-mm-dd","useBilling":true,"useCoupons":true,"datepickerClass":"mphb-datepicker-peru","countryRequired":true,"fullAddressRequired":false,"isDirectBooking":false},"today":"2024-03-16","ajaxUrl":"https:\/\/hotellerv6-5.themegoods.com\/ski\/wp-admin\/admin-ajax.php","nonces":{"mphb_create_stripe_payment_intent":"71af71c1ff","mphb_update_checkout_info":"c5928ad778","mphb_update_rate_prices":"6d17c5260e","mphb_get_billing_fields":"0956954a51","mphb_apply_coupon":"db14c19b37","mphb_get_room_type_calendar_data":"78a1392806","mphb_get_room_type_availability_data":"f6021a4b06"},"translations":{"errorHasOccured":"An error has occurred, please try again later.","booked":"Booked","buffer":"Buffer time.","pending":"Pending","available":"Available","notAvailable":"Not available","earlierMinAdvance":"This is earlier than allowed by our advance reservation rules.","laterMaxAdvance":"This is later than allowed by our advance reservation rules.","notStayIn":"Not stay-in","notCheckIn":"Not check-in","notCheckOut":"Not check-out","past":"Day in the past","checkInDate":"Check-in date","lessThanMinDaysStay":"Less than min days stay","moreThanMaxDaysStay":"More than max days stay","laterThanMaxDate":"Later than max date for current check-in date","rules":"Rules:","tokenizationFailure":"Tokenisation failed: %s","roomsAddedToReservation_singular":"%1$d &times; &ldquo;%2$s&rdquo; has been added to your reservation.","roomsAddedToReservation_plural":"%1$d &times; &ldquo;%2$s&rdquo; have been added to your reservation.","countRoomsSelected_singular":"%s accommodation selected.","countRoomsSelected_plural":"%s accommodations selected.","emptyCouponCode":"Coupon code is empty.","checkInNotValid":"Check-in date is not valid.","checkOutNotValid":"Check-out date is not valid.","selectDates":"Select dates"},"page":{"isCheckoutPage":false,"isSingleRoomTypePage":true,"isSearchResultsPage":false,"isCreateBookingPage":false},"gateways":[],"roomTypeId":477}};
+var MPHB = {"_data":{"settings":{"currency":{"code":"USD","price_format":"<span class=\"mphb-currency\">&#36;<\/span>%s","decimals":2,"decimal_separator":".","thousand_separator":","},"siteName":"Hoteller | Winter &amp; Ski Resort WordPress Theme","currentLanguage":"en","firstDay":1,"numberOfMonthCalendar":2,"numberOfMonthDatepicker":2,"dateFormat":"dd\/mm\/yyyy","dateTransferFormat":"yyyy-mm-dd","useBilling":true,"useCoupons":true,"datepickerClass":"mphb-datepicker-peru","countryRequired":true,"fullAddressRequired":false,"isDirectBooking":false},"today":"2024-03-17","ajaxUrl":"https:\/\/hotellerv6-5.themegoods.com\/ski\/wp-admin\/admin-ajax.php","nonces":{"mphb_create_stripe_payment_intent":"92b892bb62","mphb_update_checkout_info":"8b5754762a","mphb_update_rate_prices":"9df975b191","mphb_get_billing_fields":"b57a4b483c","mphb_apply_coupon":"660db12441","mphb_get_room_type_calendar_data":"3d415b29ca","mphb_get_room_type_availability_data":"7581286040"},"translations":{"errorHasOccured":"An error has occurred, please try again later.","booked":"Booked","buffer":"Buffer time.","pending":"Pending","available":"Available","notAvailable":"Not available","earlierMinAdvance":"This is earlier than allowed by our advance reservation rules.","laterMaxAdvance":"This is later than allowed by our advance reservation rules.","notStayIn":"Not stay-in","notCheckIn":"Not check-in","notCheckOut":"Not check-out","past":"Day in the past","checkInDate":"Check-in date","lessThanMinDaysStay":"Less than min days stay","moreThanMaxDaysStay":"More than max days stay","laterThanMaxDate":"Later than max date for current check-in date","rules":"Rules:","tokenizationFailure":"Tokenisation failed: %s","roomsAddedToReservation_singular":"%1$d &times; &ldquo;%2$s&rdquo; has been added to your reservation.","roomsAddedToReservation_plural":"%1$d &times; &ldquo;%2$s&rdquo; have been added to your reservation.","countRoomsSelected_singular":"%s accommodation selected.","countRoomsSelected_plural":"%s accommodations selected.","emptyCouponCode":"Coupon code is empty.","checkInNotValid":"Check-in date is not valid.","checkOutNotValid":"Check-out date is not valid.","selectDates":"Select dates"},"page":{"isCheckoutPage":false,"isSingleRoomTypePage":true,"isSearchResultsPage":false,"isCreateBookingPage":false},"gateways":[],"roomTypeId":335}};
 /* ]]> */
 </script>
 
@@ -1433,20 +1413,8 @@ var woocommerce_params = {"ajax_url":"\/ski\/wp-admin\/admin-ajax.php","wc_ajax_
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <script id="elementor-frontend-js-before" type="text/javascript">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.16.4","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"landing-pages":true,"e_global_styleguide":true},"urls":{"assets":"https:\/\/hotellerv6-5.themegoods.com\/ski\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes"},"post":{"id":477,"title":"Penthouse%20%E2%80%93%20Hoteller%20%7C%20Winter%20%26%20Ski%20Resort%20WordPress%20Theme","excerpt":"","featuredImage":"https:\/\/hotellerv6-5.themegoods.com\/ski\/wp-content\/uploads\/sites\/4\/2023\/09\/jsb-co-VrQQMx3Jftc-unsplash-683x1024.jpg"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.16.4","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"landing-pages":true,"e_global_styleguide":true},"urls":{"assets":"https:\/\/hotellerv6-5.themegoods.com\/ski\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes"},"post":{"id":335,"title":"Prestige%20Room%20%E2%80%93%20Hoteller%20%7C%20Winter%20%26%20Ski%20Resort%20WordPress%20Theme","excerpt":"","featuredImage":"https:\/\/hotellerv6-5.themegoods.com\/ski\/wp-content\/uploads\/sites\/4\/2023\/09\/hans-isaacson-F9cDk61pBbM-unsplash-683x1024.jpg"}};
 </script>
 
 <script>window.lazyLoadOptions={elements_selector:"iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
@@ -1454,3 +1422,5 @@ if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
 if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://hotellerv6-5.b-cdn.net/ski/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script src="https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/48affcedf40b51fc79038f04b410e950.js" data-minify="1"></script></body>
 </html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1710669101 -->

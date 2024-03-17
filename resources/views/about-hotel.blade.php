@@ -1,14 +1,7 @@
-
 <!DOCTYPE html>
 <html lang="en-US"  data-menu="leftalign">
 <head>
-
-<link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="pingback" href="https://hotellerv6-5.themegoods.com/ski/xmlrpc.php" />
-
- 
-
-<title>About The Hotel &#8211; Hoteller | Winter &amp; Ski Resort WordPress Theme</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /></noscript>
+<title>About The Hotel &#8211; Zin's Home Hotel </title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /></noscript>
 					<style type="text/css" id="cst_font_data">
 						@font-face {
 	font-family: 'silverline_script_demoregular';
@@ -19,8 +12,6 @@
 <link rel='dns-prefetch' href='//hotellerv6-5.b-cdn.net' />
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
 <link href='https://hotellerv6-5.b-cdn.net' rel='preconnect' />
-<link rel="alternate" type="application/rss+xml" title="Hoteller | Winter &amp; Ski Resort WordPress Theme &raquo; Feed" href="https://hotellerv6-5.themegoods.com/ski/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Hoteller | Winter &amp; Ski Resort WordPress Theme &raquo; Comments Feed" href="https://hotellerv6-5.themegoods.com/ski/comments/feed/" />
 <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta name="format-detection" content="telephone=no"><style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -154,17 +145,11 @@ img.emoji {
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
 <link rel="https://api.w.org/" href="https://hotellerv6-5.themegoods.com/ski/wp-json/" /><link rel="alternate" type="application/json" href="https://hotellerv6-5.themegoods.com/ski/wp-json/wp/v2/pages/645" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hotellerv6-5.themegoods.com/ski/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.3.3" />
-<meta name="generator" content="WooCommerce 8.1.1" />
-<link rel="canonical" href="https://hotellerv6-5.themegoods.com/ski/about-the-hotel/" />
-<link rel='shortlink' href='https://hotellerv6-5.themegoods.com/ski/?p=645' />
-<link rel="alternate" type="application/json+oembed" href="https://hotellerv6-5.themegoods.com/ski/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhotellerv6-5.themegoods.com%2Fski%2Fabout-the-hotel%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://hotellerv6-5.themegoods.com/ski/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhotellerv6-5.themegoods.com%2Fski%2Fabout-the-hotel%2F&#038;format=xml" />
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<meta name="generator" content="Elementor 3.16.4; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
-<link rel="icon" href="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1-100x100.png" sizes="32x32" />
-<link rel="icon" href="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" />
+<link rel="icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" sizes="32x32" />
+<link rel="icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" />
 <meta name="msapplication-TileImage" content="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" />
 		<style type="text/css" id="wp-custom-css">
 			#footer_wrapper .mc4wp-form input[type=email] {
@@ -332,7 +317,7 @@ img.emoji {
 	<input type="hidden" id="tg_lightbox_timer" name="tg_lightbox_timer" value="7000"/>
 	<input type="hidden" id="tg_header_content" name="tg_header_content" value="content"/>
 	
-		<input type="hidden" id="tg_cart_url" name="tg_cart_url" value="https://hotellerv6-5.themegoods.com/ski/cart/"/>
+		<input type="hidden" id="tg_cart_url" name="tg_cart_url" value=""/>
 		
 		<input type="hidden" id="tg_live_builder" name="tg_live_builder" value="0"/>
 	
@@ -368,8 +353,8 @@ img.emoji {
 				</div>
 				<div class="elementor-element elementor-element-6a9557e elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-hoteller-navigation-menu" data-id="6a9557e" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="hoteller-navigation-menu.default">
 				<div class="elementor-widget-container">
-			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu7" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Service</a></li>
+			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu7" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('our-rooms')}}" >Our Rooms</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('service')}}" >Service</a></li>
 </ul></div></div>		</div>
 				</div>
 					</div>
@@ -379,8 +364,8 @@ img.emoji {
 								<div class="elementor-element elementor-element-df69169 elementor-widget elementor-widget-image" data-id="df69169" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
                     {{-- Link ve trang chu cua thanh nav  --}}
-																<a href="">
-							<img width="298" height="182" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/logo-white2.png" class="attachment-full size-full wp-image-61" alt="" />								</a>
+																<a href="{{route('home')}}">
+							<img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-white.png" class="attachment-full size-full wp-image-61" alt="" />								</a>
 															</div>
 				</div>
 					</div>
@@ -428,7 +413,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-d142939 elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="d142939" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Book Now</span>
 		</span>
@@ -473,8 +458,8 @@ img.emoji {
 				</div>
 				<div class="elementor-element elementor-element-109f871 elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-hoteller-navigation-menu" data-id="109f871" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="hoteller-navigation-menu.default">
 				<div class="elementor-widget-container">
-			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu4" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Service</a></li>
+			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu4" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('our-rooms')}}" >Our Rooms</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('service')}}" >Service</a></li>
 </ul></div></div>		</div>
 				</div>
 					</div>
@@ -484,8 +469,8 @@ img.emoji {
 								<div class="elementor-element elementor-element-064f101 elementor-widget elementor-widget-image" data-id="064f101" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
                     {{-- Link anh ve trang chu  --}}
-																<a href="">
-							<img width="298" height="182" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
+																<a href="{{route('home')}}">
+							<img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
 															</div>
 				</div>
 					</div>
@@ -533,7 +518,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-0c1a66e elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="0c1a66e" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Book Now</span>
 		</span>
@@ -578,7 +563,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-20d6b5d elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="20d6b5d" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">View Rooms</span>
 		</span>
@@ -589,7 +574,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-5c176dd elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="5c176dd" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://www.google.com/maps" target="_blank">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://maps.app.goo.gl/dF73mN1ZcEqRnQPV8" target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Get Directions</span>
 		</span>
@@ -643,7 +628,7 @@ img.emoji {
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-a25f796 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="a25f796" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">Our resort is a haven for outdoor enthusiasts year-round. In addition to skiing and snowboarding, enjoy snowshoeing, snowmobiling, ice skating, or simply take a scenic hike</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">At our seaside retreat, we offer a myriad of services tailored to elevate your beachside getaway. From cozy beachfront cottages to luxurious villas, our accommodations provide a serene haven for relaxation. Indulge in delectable cuisine at our onsite restaurants, unwind with a soothing spa treatment, or partake in exhilarating water sports. Our dedicated concierge team is always at your service to ensure every aspect of your stay exceeds expectations. Whether you're seeking adventure or simply seeking solace by the sea, we are committed to providing an unforgettable experience filled with warmth, comfort, and unparalleled hospitality.</div>		</div>
 				</div>
 					</div>
 		</div>
@@ -667,7 +652,7 @@ img.emoji {
 			                		            	</div>
 		          	</div>
 				  	<div class="image-container"> 
-		            	<img width="1440" height="960" decoding="async" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/chalets-at-seiser-alm-with-langkofel-mountain-in-b-2022-02-02-03-56-10-utc.jpg" alt="" class="image" />
+		            	<img width="1440" height="960" decoding="async" src="{{asset('assets')}}/img/booking-confirm/ks1.jpg" alt="" class="image" />
 		          	</div>
 		        </div>
 						<div class="slide  ">
@@ -679,7 +664,7 @@ img.emoji {
 			                		            	</div>
 		          	</div>
 				  	<div class="image-container"> 
-		            	<img width="1440" height="958" decoding="async" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/alpine-winter-mountain-landscape-french-alps-with-2021-08-26-16-19-11-utc.jpg" alt="" class="image" />
+		            	<img width="1440" height="958" decoding="async" src="{{asset('assets')}}/img/booking-confirm/ks.jpg" alt="" class="image" />
 		          	</div>
 		        </div>
 						<div class="slide  ">
@@ -691,7 +676,7 @@ img.emoji {
 			                		            	</div>
 		          	</div>
 				  	<div class="image-container"> 
-		            	<img width="1440" height="1080" decoding="async" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/aerial-view-of-chalet-cottages-in-mountain-resort-2023-06-12-21-11-15-utc.jpg" alt="" class="image" />
+		            	<img width="1440" height="1080" decoding="async" src="{{asset('assets')}}/img/booking-confirm/ks2.jpg" alt="" class="image" />
 		          	</div>
 		        </div>
 				</div>
@@ -872,8 +857,8 @@ img.emoji {
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-65488d6 elementor-widget elementor-widget-image" data-id="65488d6" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="">
-							<img width="298" height="182" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" loading="lazy" />								</a>
+																<a href="{{route('home')}}">
+							<img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
 															</div>
 				</div>
 					</div>
@@ -902,15 +887,15 @@ img.emoji {
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-796e77c elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="796e77c" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">The Hoteller Resort Via Serlas 27, 7500 St. Moritz, Switzerland</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">1 Doc Lap, Chien Thang Street, Ha Noi Capital, Viet Nam.</div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-4b9aaf5 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="4b9aaf5" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+45 35634 3444</a></div>		</div>
+			<div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+84 2222 6789</a></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-f02c69f elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="f02c69f" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@thehotel.com</a></div>		</div>
+			<div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@zinshomecompany.com</a></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5c0251c elementor-widget__width-auto elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="5c0251c" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
@@ -967,19 +952,19 @@ img.emoji {
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="https://hotellerv6-5.themegoods.com/about">
+											<a href="#">
 
 											<span class="elementor-icon-list-text">About Hotel</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="https://hotellerv6-5.themegoods.com/ski/our-rooms/">
+											<a href="{{route('our-rooms')}}">
 
 											<span class="elementor-icon-list-text">Our Rooms</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="#">
+											<a href="{{route('service')}}">
 
 											<span class="elementor-icon-list-text">Service</span>
 											</a>
@@ -1007,37 +992,37 @@ img.emoji {
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('dm')}}">
 
 											<span class="elementor-icon-list-text">Deluxe Room</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('pm')}}">
 
 											<span class="elementor-icon-list-text">Prestige Room</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('as')}}">
 
 											<span class="elementor-icon-list-text">Alpine Suite</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('ss')}}">
 
 											<span class="elementor-icon-list-text">Serinity Suite</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('rs')}}">
 
 											<span class="elementor-icon-list-text">Residence Suite</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('pe')}}">
 
 											<span class="elementor-icon-list-text">Penthouse</span>
 											</a>
@@ -1055,7 +1040,7 @@ img.emoji {
 				</div>
 				<div class="elementor-element elementor-element-75515d5 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="75515d5" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">The Hoteller Ski Resort</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">ZIN'S HOTEL & RESORT</div>		</div>
 				</div>
 					</div>
 		</div>
@@ -1133,8 +1118,8 @@ img.emoji {
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-af58a05 elementor-widget elementor-widget-image" data-id="af58a05" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="">
-							<img width="298" height="182" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/logo-white2.png" class="attachment-full size-full wp-image-61" alt="" loading="lazy" />								</a>
+																<a href="{{route('home')}}">
+							<img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-white.png" class="attachment-full size-full wp-image-61" alt="" loading="lazy" />								</a>
 															</div>
 				</div>
 					</div>
@@ -1182,7 +1167,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-551b104 elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="551b104" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="" target="_blank">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Book Now</span>
 		</span>
@@ -1221,7 +1206,7 @@ img.emoji {
 	<ul class="themegoods-background-menu display-fullwidth">
 		
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="" >Home</a>
+			<a class="themegoods-background-menu__item-link" href="{{route('home')}}" >Home</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img width="1440" height="1118" class="themegoods-background-menu__item-img" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/mountain-ski-resort-2021-08-30-09-28-42-utc.jpg" alt=""/>
@@ -1235,7 +1220,7 @@ img.emoji {
 			<span>
 		</li>
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="" >Our Rooms</a>
+			<a class="themegoods-background-menu__item-link" href="{{route('our-rooms')}}" >Our Rooms</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img width="1440" height="958" class="themegoods-background-menu__item-img" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/alpine-winter-mountain-landscape-french-alps-with-2021-08-26-16-19-11-utc.jpg" alt=""/>
@@ -1249,7 +1234,7 @@ img.emoji {
 			<span>
 		</li> --}}
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="" >Service</a>
+			<a class="themegoods-background-menu__item-link" href="{{route('service')}}" >Service</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img width="1440" height="960" class="themegoods-background-menu__item-img" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/getty-images-68IEJYojEyo-unsplash.jpg" alt=""/>
@@ -1270,7 +1255,7 @@ img.emoji {
 				</div>
 				<div class="elementor-element elementor-element-15c8798 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="15c8798" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">The Hoteller Resort Via Serlas 27, 7500 St. Moritz, Switzerland</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">1 Doc Lap, Chien Thang Street, Ha Noi Capital, Viet Nam.</div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-978d460 elementor-widget elementor-widget-spacer" data-id="978d460" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -1281,7 +1266,7 @@ img.emoji {
 				</div>
 				<div class="elementor-element elementor-element-cdcd5dc elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="cdcd5dc" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+45 35634 3444</a></div>		</div>
+			<div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+84 2222 6789</a></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-a741066 elementor-widget elementor-widget-spacer" data-id="a741066" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -1292,7 +1277,7 @@ img.emoji {
 				</div>
 				<div class="elementor-element elementor-element-50b3cfd elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="50b3cfd" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@thehotel.com</a></div>		</div>
+			<div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@zinshomecompany.com</a></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ed67ef7 elementor-widget elementor-widget-spacer" data-id="ed67ef7" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
