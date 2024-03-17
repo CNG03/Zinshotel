@@ -11,7 +11,7 @@
 }
 .welcome{
     width: 100%;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 .welcome h1{
     margin: 0;
@@ -61,7 +61,7 @@
     border-bottom: 1px solid #F1F0EB;;
 }
 .header-logo{
-    margin-right: 150px;
+    margin-right: 90px;
     margin-top: 10px;
 }
 .header-menu ul{
@@ -322,16 +322,17 @@ dfhsdgsdfhdss */
     display: none;
     margin-left: 15%;
     z-index: 9999;
+    padding-left: 50px;
 }
 .header-floatingDiv ul li{
     margin-top: 25px;
 }
 .header-floatingDiv-logo {
-    margin-top: 12px;
-    margin-right: 100px;
+    margin-top: 6px;
+    margin-left: 100px;
 }
 .header-floatingDiv-logo img{
-    width: 100px;
+    width: 120px;
 }
 .header-floatingDiv ul li a{
     font-size: 20px;
@@ -355,3 +356,118 @@ dfhsdgsdfhdss */
 .header-floatingDiv-menu-right{
     margin-right: 100px;
 }
+.header-floatingDiv-menu-right ul li a button{
+    color: white;
+    background-color: #4c7294;
+    border-radius: 0%;
+    width: 150px;
+    margin-top: -10px;
+}
+.room-type{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.accommodation_category-wrapper{
+    position: relative;
+    width: 1100px;
+}
+.accommodation-category{
+    width: 1500px;
+    overflow: hidden;
+}
+.accommodation-category h2{
+    margin-bottom: 16px;
+}
+.accommodation-category .block_wrapper{
+    display: flex;
+    width: 1100px;
+    transition: transform 0.3s ease;
+}
+.fa-angle-left{
+    position: absolute;
+    top: 46%;
+    left:-18px;
+    padding: 10px 13px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 2px 2px 5px #b8b7b7;
+    cursor: pointer;
+    z-index: 1;
+}
+.fa-angle-right{
+    position: absolute;
+    top: 46%;
+    right:-420px;
+    padding: 10px 13px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 2px 2px 5px #b8b7b7;
+    cursor: pointer;
+    z-index: 1;
+}
+.accommodation-category .sub-form{
+    flex: 0 0 264px;
+    margin-right: 16px;
+}
+.accommodation-category .block_wrapper .resize-form{
+    border-radius: 8px;
+    width: 500px;
+}
+.block_wrapper .styled_link{
+    color: #1A1A1A;
+    font-weight: 650;
+    text-decoration: none;
+}
+.accommodation-category .block_wrapper .styled_text{
+    color: #1A1A1A;
+    font-size: 14px;
+}
+.sub-form a {
+    text-decoration: none;
+}
+
+
+
+
+
+#menuOverlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Một màu sắc đen với độ mờ 50% */
+  }
+  
+  #menu {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  #menu ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #menu ul li {
+    margin-bottom: 10px;
+  }
+  
+  #menu ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  #closeMenu {
+    float: right;
+    cursor: pointer;
+  }
+  

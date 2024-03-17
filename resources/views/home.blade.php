@@ -20,20 +20,19 @@
                         <div class="header-floatingDiv-menu">
                             <ul>
                                 <li><a href="#">Our Rooms</a></li>
-                                <li><a href="#">Restaurant</a></li>
                                 <li><a href="#">Services</a></li>
                             </ul>
                         </div>
                         <div class="header-floatingDiv-logo">
                             <a href="">
-                                <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/logo-black2.png" alt="">
+                                <img src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" alt="">
                             </a>
                         </div>
                         <div class="header-floatingDiv-menu header-floatingDiv-menu-right">
                             <ul>
-                                <li><a href="#">en</a></li>
-                                <li><a href="#">vi</a></li>
-                                <li><a href="#">Book Now</a></li>
+                                <li><a href="#">EN</a></li>
+                                <li><a href="#">JP</a></li>
+                                <li><a href="#"><button type="button" class="btn btn-lg" fdprocessedid="vl8tv8">Book Now</button></a></li>
                             </ul>
                         </div>
                     </div>
@@ -41,21 +40,35 @@
                 <div class="header-navbar">
                     <div class="header-menu">
                         <ul>
-                            <li><a href="#">Our Rooms</a></li>
-                            <li><a href="#">Restaurant</a></li>
+                            <li>
+                                <a style="cursor: pointer" id="toggleMenu">
+                                    <img style="width: 25px" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/menu-icon-white.png" alt="">
+                                </a>
+                                <div id="menuOverlay"></div>
+                                <nav id="menu">
+                                    <ul>
+                                        <li><a href="#">Item 1</a></li>
+                                        <li><a href="#">Item 2</a></li>
+                                        <li><a href="#">Item 3</a></li>
+                                        <li><a href="#">Item 4</a></li>
+                                    </ul>
+                                <button id="closeMenu">x</button>
+                                </nav>
+                            </li>
+                            <li><a href="{{Route('our-rooms')}}">Our Rooms</a></li>
                             <li><a href="#">Services</a></li>
                         </ul>
                     </div>
                     <div class="header-logo">
                         <a href="">
-                            <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/logo-white2.png" alt="">
+                            <img src="{{asset('assets')}}/img/booking-confirm/logo-white.png" alt="">
                         </a>
                     </div>
                     <div class="header-menu header-right">
                         <ul>
-                            <li><a href="#">en</a></li>
-                            <li><a href="#">vi</a></li>
-                            <li><a href="#">Book Now</a></li>
+                            <li><a href="#">EN</a></li>
+                            <li><a href="#">JP</a></li>
+                            <li><a href="#" style="border: 1px solid white; padding: 10px 20px">Book Now</a></li>
                         </ul>
                     </div>
                 </div>
@@ -65,73 +78,74 @@
             <h1>Welcome to Zin's Home <br> Hotel & Resort</h1>
         </section>
         <section class="form-search">
-            <form action="">
-                <div class="form-search-block">
-                    <div class="check-in form-style">
-                        <p>Check-in *</p>
-                        <input class="form-input-style border-style" style="background: transparent;" type="date" placeholder="Check-in Date" aria-label="Check-in">
-                    </div>
-                    <div class="check-out form-style">
-                        <p>Check-out *</p>
-                        <input class="form-input-style border-style" style="background: transparent;" type="date" placeholder="Check-out Date" aria-label="Check-out">
-                    </div>
-                    <div class="adults form-style">
-                        <p>Adults</p>
-                        <select style="background: transparent;" class="form-input-style" aria-label="">
-                            <option selected>1</option>
-                            <option value="2">2</option>
-                            <option value="3">3</option>
-                            <option value="4">4</option>
-                            <option value="5">5</option>
-                            <option value="6">6</option>
-                            <option value="7">7</option>
-                            <option value="8">8</option>
-                            <option value="9">9</option>
-                            <option value="10">10</option>
-                            <option value="11">11</option>
-                            <option value="12">12</option>
-                            <option value="13">13</option>
-                            <option value="14">14</option>
-                            <option value="15">15</option>
-                            <option value="16">16</option>
-                            <option value="17">17</option>
-                            <option value="18">18</option>
-                            <option value="19">19</option>
-                            <option value="20">20</option>
-                            <option value="21">21</option>
-                            <option value="22">22</option>
-                            <option value="23">23</option>
-                            <option value="24">24</option>
-                            <option value="25">25</option>
-                            <option value="26">26</option>
-                            <option value="27">27</option>
-                            <option value="28">28</option>
-                            <option value="29">29</option>
-                            <option value="30">30</option>
-                          </select>
-                    </div>
-                    <div class="children form-style">
-                        <p>Children</p>
-                        <select style="background: transparent;" class="form-input-style" aria-label="Default select example">
-                            <option selected>0</option>
-                            <option value="1">1</option>
-                            <option value="1">2</option>
-                            <option value="1">3</option>
-                            <option value="1">4</option>
-                            <option value="1">5</option>
-                            <option value="1">6</option>
-                            <option value="1">7</option>
-                            <option value="1">8</option>
-                            <option value="1">9</option>
-                            <option value="10">10</option>
-                        </select>
-                    </div>
-                    <div class="form-style">
-                        <button type="submit">Search</button>
-                    </div>
-
-                </div>
-            </form>
+                    <form action="">
+                        <div class="form-search-block">
+                            <div class="check-in form-style">
+                                <p>Check-in *</p>
+                                <input class="form-input-style border-style" style="background: transparent;" type="date" placeholder="Check-in Date" aria-label="Check-in">
+                            </div>
+                            <div class="check-out form-style">
+                                <p>Check-out *</p>
+                                <input class="form-input-style border-style" style="background: transparent;" type="date" placeholder="Check-out Date" aria-label="Check-out">
+                            </div>
+                            <div class="adults form-style">
+                                <p>Adults</p>
+                                <select style="background: transparent;" class="form-input-style" aria-label="">
+                                    <option selected>1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                    <option value="6">6</option>
+                                    <option value="7">7</option>
+                                    <option value="8">8</option>
+                                    <option value="9">9</option>
+                                    <option value="10">10</option>
+                                    <option value="11">11</option>
+                                    <option value="12">12</option>
+                                    <option value="13">13</option>
+                                    <option value="14">14</option>
+                                    <option value="15">15</option>
+                                    <option value="16">16</option>
+                                    <option value="17">17</option>
+                                    <option value="18">18</option>
+                                    <option value="19">19</option>
+                                    <option value="20">20</option>
+                                    <option value="21">21</option>
+                                    <option value="22">22</option>
+                                    <option value="23">23</option>
+                                    <option value="24">24</option>
+                                    <option value="25">25</option>
+                                    <option value="26">26</option>
+                                    <option value="27">27</option>
+                                    <option value="28">28</option>
+                                    <option value="29">29</option>
+                                    <option value="30">30</option>
+                                  </select>
+                            </div>
+                            <div class="children form-style">
+                                <p>Children</p>
+                                <select style="background: transparent;" class="form-input-style" aria-label="Default select example">
+                                    <option selected>0</option>
+                                    <option value="1">1</option>
+                                    <option value="1">2</option>
+                                    <option value="1">3</option>
+                                    <option value="1">4</option>
+                                    <option value="1">5</option>
+                                    <option value="1">6</option>
+                                    <option value="1">7</option>
+                                    <option value="1">8</option>
+                                    <option value="1">9</option>
+                                    <option value="10">10</option>
+                                </select>
+                            </div>
+                            <div class="form-style">
+                                <button type="submit">Search</button>
+                            </div>
+        
+                        </div>
+                    </form>
+            
         </section>
     </div>
 
@@ -173,81 +187,58 @@
             </div>
         </section>
         <section class="room-type">
-            <div class="container text-center my-3">
-                <div class="row mx-auto my-auto justify-content-center">
-                    <div id="recipeCarousel" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner" role="listbox">
-                            <div class="carousel-item active">
-                                <div class="col-md-3">
-                                    <div class="card">
-                                        <div class="card-img">
-                                            <img src="https://via.placeholder.com/700x500.png/CB997E/333333?text=1" class="img-fluid">
-                                        </div>
-                                        <div class="card-img-overlay">Slide 1</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="col-md-3">
-                                    <div class="card">
-                                        <div class="card-img">
-                                            <img src="https://via.placeholder.com/700x500.png/DDBEA9/333333?text=2" class="img-fluid">
-                                        </div>
-                                        <div class="card-img-overlay">Slide 2</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="col-md-3">
-                                    <div class="card">
-                                        <div class="card-img">
-                                            <img src="https://via.placeholder.com/700x500.png/FFE8D6/333333?text=3" class="img-fluid">
-                                        </div>
-                                        <div class="card-img-overlay">Slide 3</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="col-md-3">
-                                    <div class="card">
-                                        <div class="card-img">
-                                            <img src="https://via.placeholder.com/700x500.png/B7B7A4/333333?text=4" class="img-fluid">
-                                        </div>
-                                        <div class="card-img-overlay">Slide 4</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="col-md-3">
-                                    <div class="card">
-                                        <div class="card-img">
-                                            <img src="https://via.placeholder.com/700x500.png/A5A58D/333333?text=5" class="img-fluid">
-                                        </div>
-                                        <div class="card-img-overlay">Slide 5</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="col-md-3">
-                                    <div class="card">
-                                        <div class="card-img">
-                                            <img src="https://via.placeholder.com/700x500.png/6B705C/eeeeee?text=6" class="img-fluid">
-                                        </div>
-                                        <div class="card-img-overlay">Slide 6</div>
-                                    </div>
-                                </div>
-                            </div>
+            <div class="accommodation_category-wrapper">
+                <div class="accommodation-category">
+                    <i class="fa-solid fa-angle-left" onclick="slideLeft()"></i>
+                    <i class="fa-solid fa-angle-right" onclick="slideRight()"></i>
+                    <div class="block_wrapper">
+                        <div class="sub-form">
+                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/andrea-davis-k8WL83m48XY-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="" class="styled_link" style="font-size: 30px;">Deluxe Room</a> <br>
+                            <a href="" class="styled_text">27m2 / 2 adults 1 children</a>
+                            <p style="font-size: 20px;">From 59$</p>
                         </div>
-                        <a class="carousel-control-prev bg-transparent w-aut" href="#recipeCarousel" role="button" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        </a>
-                        <a class="carousel-control-next bg-transparent w-aut" href="#recipeCarousel" role="button" data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        </a>
+                        <div class="sub-form">
+                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/hans-isaacson-F9cDk61pBbM-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="" class="styled_link" style="font-size: 30px;">Prestige Room</a> <br>
+                            <a href="" class="styled_text">32m2 / 2 adults 1 children</a>
+                            <p style="font-size: 20px;">From 79$</p>
+                        </div>
+                        <div class="sub-form">
+                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/jsb-co-CkP-70BPxzM-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="" class="styled_link" style="font-size: 30px;">Alpine Suite</a> <br>
+                            <a href="" class="styled_text">39m2 / 3 adults 1 children</a>
+                            <p style="font-size: 20px;">From 109$</p>
+                        </div>
+                        <div class="sub-form">
+                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/hatice-baran-jOUy262OC8M-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="" class="styled_link" style="font-size: 30px;">Serenity Suite</a> <br>
+                            <a href="" class="styled_text">55m2 / 3 adults 1 children</a>
+                            <p style="font-size: 20px;">From 119$</p>
+                        </div>
+                        <div class="sub-form">
+                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/andrea-davis-8xT51zPdsjY-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="" class="styled_link" style="font-size: 30px;">Residence Suite</a> <br>
+                            <a href="" class="styled_text">77m2 / 3 adults 2 children</a>
+                            <p style="font-size: 20px;">From 169$</p>
+                        </div>
+                        <div class="sub-form">
+                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/jsb-co-VrQQMx3Jftc-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="" class="styled_link" style="font-size: 30px;">Penhouse</a> <br>
+                            <a href="" class="styled_text">100m2 / 3 adults 2 children</a>
+                            <p style="font-size: 20px;">From 189$</p>
+                        </div>
+                        <div class="sub-form">
+                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/andrea-davis-k8WL83m48XY-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="" class="styled_link" style="font-size: 30px;">Deluxe Room</a> <br>
+                            <a href="" class="styled_text">27m2 / 2 adults 1 children</a>
+                            <p style="font-size: 20px;">From 59$</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
+        <img style="margin-top: 100px" src="{{asset('assets')}}/img/resort.png" alt="">
         <section style="margin-top: 100px;" class="offers restaurant">
             <div class="container offers-content">
                 <div class="row">
