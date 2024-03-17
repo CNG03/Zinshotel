@@ -11,7 +11,7 @@
             rel="icon"
             type="image/png"
             sizes="16x16"
-            href="{{asset('assets')}}/img/favicon-16x16.png"
+            href="{{asset('assets')}}/img/booking-confirm/logo-black2.png"
         />
         <link rel="manifest" href="{{asset('assets')}}/favicon/site.webmanifest" />
         <meta name="application-TileColor" content="#da532c" />
@@ -104,7 +104,7 @@
                     <div class="overlay-panel overlay-left">
                         <h1 class="title">
                             <img
-                                src="{{asset('assets')}}/img/Coffe%20Mart.png"
+                                src="{{asset('assets')}}/img/booking-confirm/logo-white.png"
                                 alt=""
                                 style="width: 150px; height: 150px"
                             />
@@ -120,7 +120,7 @@
                     <div class="overlay-panel overlay-right">
                         <h1 class="title">
                             <img
-                                src="{{asset('assets')}}/img/Coffe%20Mart.png"
+                                src="{{asset('assets')}}/img/booking-confirm/logo-white.png"
                                 alt=""
                                 style="width: 150px; height: 150px"
                             />

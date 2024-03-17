@@ -23,7 +23,8 @@ Route::get('Search', function () {
 Route::get('/service', function () {
     return view('service');
 
-});
+})->name('service');
+
 Route::get('/booking-confirmation', function () {
     return view('booking-confirmation');
 });
@@ -38,7 +39,7 @@ Route::get('example', function () {
 
 Route::get('our-rooms', function () {
     return view('our-rooms');
-});
+})->name('our-rooms');
 
 
 Route::get('about', function () {
@@ -47,4 +48,8 @@ Route::get('about', function () {
 
 Route::get('penhouse', function () {
     return view('penhouse');
+});
+
+Route::get('residence-suite', function () {
+    return view('residence-suite');
 });
