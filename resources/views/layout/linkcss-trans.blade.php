@@ -8,8 +8,6 @@ src: url('https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/
 <link rel='dns-prefetch' href='//hotellerv6-5.b-cdn.net' />
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
 <link href='https://hotellerv6-5.b-cdn.net' rel='preconnect' />
-<link rel="alternate" type="application/rss+xml" title="Hoteller | Winter &amp; Ski Resort WordPress Theme &raquo; Feed" href="https://hotellerv6-5.themegoods.com/ski/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Hoteller | Winter &amp; Ski Resort WordPress Theme &raquo; Comments Feed" href="https://hotellerv6-5.themegoods.com/ski/comments/feed/" />
 <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta name="format-detection" content="telephone=no"><style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -143,17 +141,11 @@ content: "Booking Confirmed";
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
 <link rel="https://api.w.org/" href="https://hotellerv6-5.themegoods.com/ski/wp-json/" /><link rel="alternate" type="application/json" href="https://hotellerv6-5.themegoods.com/ski/wp-json/wp/v2/pages/569" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hotellerv6-5.themegoods.com/ski/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.3.3" />
-<meta name="generator" content="WooCommerce 8.1.1" />
-<link rel="canonical" href="https://hotellerv6-5.themegoods.com/ski/our-rooms/" />
-<link rel='shortlink' href='https://hotellerv6-5.themegoods.com/ski/?p=569' />
-<link rel="alternate" type="application/json+oembed" href="https://hotellerv6-5.themegoods.com/ski/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhotellerv6-5.themegoods.com%2Fski%2Four-rooms%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://hotellerv6-5.themegoods.com/ski/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhotellerv6-5.themegoods.com%2Fski%2Four-rooms%2F&#038;format=xml" />
 <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 <meta name="generator" content="Elementor 3.16.4; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
-<link rel="icon" href="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1-100x100.png" sizes="32x32" />
-<link rel="icon" href="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" />
+<link rel="icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" sizes="32x32" />
+<link rel="icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" />
 <meta name="msapplication-TileImage" content="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" />
 <style type="text/css" id="wp-custom-css">
 #footer_wrapper .mc4wp-form input[type=email] {

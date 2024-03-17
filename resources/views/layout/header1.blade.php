@@ -55,8 +55,8 @@
             <div class="elementor-widget-container">
 
                 {{-- THanh NavBar  --}}
-        <div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu7" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Service</a></li>
+        <div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu7" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('our-rooms')}}" >Our Rooms</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('service')}}" >Service</a></li>
 </ul></div></div>		</div>
             </div>
                 </div>
@@ -67,7 +67,7 @@
             <div class="elementor-widget-container">
 
                 {{-- Link icon đầu giữa trang và đường link của nó  --}}
-                        <a href="">
+                        <a href="{{route('home')}}">
                         <img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
                                                         </div>
             </div>
@@ -120,7 +120,7 @@
             <div class="elementor-widget-container">
                 <div class="elementor-button-wrapper">
                     {{-- Duong link cua button nhan vao chu boooknow mac dinh la tro ve trang outroom --}}
-        <a class="elementor-button elementor-button-link elementor-size-sm" href="">
+        <a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}">
                     <span class="elementor-button-content-wrapper">
                     <span class="elementor-button-text">Book Now</span>
     </span>
@@ -168,8 +168,8 @@
             <div class="elementor-element elementor-element-109f871 elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-hoteller-navigation-menu" data-id="109f871" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="hoteller-navigation-menu.default">
             <div class="elementor-widget-container">
                 {{-- Duong link cua thanh nav khi cuon duoc giu duoc o dau trang  --}}
-        <div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu22" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Service</a></li>
+        <div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu22" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('our-rooms')}}" >Our Rooms</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('service')}}" >Service</a></li>
 </ul></div></div>		</div>
             </div>
                 </div>
@@ -179,7 +179,7 @@
                             <div class="elementor-element elementor-element-064f101 elementor-widget elementor-widget-image" data-id="064f101" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
             <div class="elementor-widget-container">
                 {{-- Link file anhr cua thanh nav khi cuon  --}}
-                                                            <a href="">
+                                                            <a href="{{route('home')}}">
                         <img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
                                                         </div>
             </div>
@@ -229,7 +229,7 @@
             <div class="elementor-widget-container">
                 <div class="elementor-button-wrapper">
                     {{-- Link book now thanh nav khi cuon  --}}
-        <a class="elementor-button elementor-button-link elementor-size-sm" href="">
+        <a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}">
                     <span class="elementor-button-content-wrapper">
                     <span class="elementor-button-text">Book Now</span>
     </span>

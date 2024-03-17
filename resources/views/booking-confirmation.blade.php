@@ -4,7 +4,7 @@
 <head>
 
 
-<title>Booking Confirmation &#8211; Zin's Home Hotel | Winter &amp; Ski Resort Theme</title>
+<title>Booking Confirmation &#8211; Zin's Home Hotel</title>
 <style type="text/css" id="cst_font_data">
 						@font-face {
 	font-family: 'silverline_script_demoregular';
@@ -139,20 +139,18 @@
 <script type='text/javascript' src='{{asset('assets')}}/js/bk-room/jquery.js' id='jquery-core-js'></script>
 <script type='text/javascript' src='{{asset('assets')}}/js/bk-room/jquery2.js' id='jquery-migrate-js'></script>
 <script type='text/javascript' src='{{asset('assets')}}/js/bk-room/jquery3.js' id='mphb-jquery-serialize-json-js'></script>
-<meta name="generator" content="WordPress 6.3.3" />
-<meta name="generator" content="WooCommerce 8.1.1" />
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<meta name="generator" content="Elementor 3.16.4; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
 
 
 {{-- Favicon     --}}
-<link rel="icon" href="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1-100x100.png" sizes="32x32" />
-<link rel="icon" href="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" />
+<link rel="icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" sizes="32x32" />
+<link rel="icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" />
 
 {{-- KT Favicon --}}
 {{-- Favicon hien thi khi bi ghim --}}
-<meta name="msapplication-TileImage" content="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" />
+<meta name="msapplication-TileImage" content="{{asset('assets')}}/img/booking-confirm/logo-black2.png" />
 <style type="text/css" id="wp-custom-css">
     #footer_wrapper .mc4wp-form input[type=email] {
         min-width: 85%;
@@ -239,8 +237,8 @@
 				<div class="elementor-widget-container">
 
                     {{-- THanh NavBar  --}}
-			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu7" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Service</a></li>
+			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu7" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('our-rooms')}}" >Our Rooms</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('service')}}" >Service</a></li>
 </ul></div></div>		</div>
 				</div>
 					</div>
@@ -251,7 +249,7 @@
 				<div class="elementor-widget-container">
 
                     {{-- Link icon đầu giữa trang và đường link của nó  --}}
-							<a href="">
+							<a href="{{route('home')}}">
 							<img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
 															</div>
 				</div>
@@ -304,7 +302,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
                         {{-- Duong link cua button nhan vao chu boooknow mac dinh la tro ve trang outroom --}}
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Book Now</span>
 		</span>
@@ -352,8 +350,8 @@
 				<div class="elementor-element elementor-element-109f871 elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-hoteller-navigation-menu" data-id="109f871" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="hoteller-navigation-menu.default">
 				<div class="elementor-widget-container">
                     {{-- Duong link cua thanh nav khi cuon duoc giu duoc o dau trang  --}}
-			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu22" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Our Rooms</a></li>
-<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="" >Service</a></li>
+			<div class="tg_navigation_wrapper menu_style1"><div class="menu-main-menu-container"><ul id="nav_menu22" class="nav"><li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('our-rooms')}}" >Our Rooms</a></li>
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href="{{route('service')}}" >Service</a></li>
 </ul></div></div>		</div>
 				</div>
 					</div>
@@ -363,8 +361,8 @@
 								<div class="elementor-element elementor-element-064f101 elementor-widget elementor-widget-image" data-id="064f101" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 					{{-- Link file anhr cua thanh nav khi cuon  --}}
-																<a href="">
-							<img width="298" height="182" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
+																<a href="{{route('home')}}">
+							<img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" />								</a>
 															</div>
 				</div>
 					</div>
@@ -413,7 +411,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
 						{{-- Link book now thanh nav khi cuon  --}}
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Book Now</span>
 		</span>
@@ -662,112 +660,7 @@
 							<tr class="mphb-hide mphb-price-breakdown-dates">
 								<th colspan="1">Dates</th>
 								<th class="mphb-table-price-column">Amount</th>
-							</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 15, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 16, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 17, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 18, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 19, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 20, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 21, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 22, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 23, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 24, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 25, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 26, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 27, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 28, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 29, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 30, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">March 31, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">April 1, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">April 2, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">April 3, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
-															<tr class="mphb-hide mphb-price-breakdown-date">
-									<td colspan="1">April 4, 2024</td>
-									<td class="mphb-table-price-column">
-									<span class="mphb-price"><span class="mphb-currency">&#36;</span>99</span>										</td>
-								</tr>
+							</tr>				
 															<tr class="mphb-hide mphb-price-breakdown-date">
 									<td colspan="1">April 5, 2024</td>
 									<td class="mphb-table-price-column">
@@ -793,10 +686,6 @@
 								<th class="mphb-table-price-column">
 								<span class="mphb-price"><span class="mphb-currency">&#36;</span>2,376</span>									</th>
 							</tr>
-
-							
-							
-							
 												<tr class="mphb-hide mphb-price-breakdown-subtotal">
 							<th colspan="1">Subtotal</th>
 							<th class="mphb-table-price-column">
@@ -860,81 +749,9 @@
 													<option value="AX" >
 								&#197;land Islands							</option>
 													<option value="AF" >
-								Afghanistan							</option>
-													<option value="AL" >
-								Albania							</option>
-													<option value="DZ" >
-								Algeria							</option>
-													<option value="AS" >
-								American Samoa							</option>
-													<option value="AD" >
-								Andorra							</option>
-													<option value="AO" >
-								Angola							</option>
-													<option value="AI" >
-								Anguilla							</option>
-													<option value="AQ" >
-								Antarctica							</option>
-													<option value="AG" >
-								Antigua and Barbuda							</option>
-													<option value="AR" >
-								Argentina							</option>
-													<option value="AM" >
-								Armenia							</option>
-													<option value="AW" >
-								Aruba							</option>
+								Afghanistan							</option>				
 													<option value="AU" >
 								Australia							</option>
-													<option value="AT" >
-								Austria							</option>
-													<option value="AZ" >
-								Azerbaijan							</option>
-													<option value="BS" >
-								Bahamas							</option>
-													<option value="BH" >
-								Bahrain							</option>
-													<option value="BD" >
-								Bangladesh							</option>
-													<option value="BB" >
-								Barbados							</option>
-													<option value="BY" >
-								Belarus							</option>
-													<option value="PW" >
-								Belau							</option>
-													<option value="BE" >
-								Belgium							</option>
-													<option value="BZ" >
-								Belize							</option>
-													<option value="BJ" >
-								Benin							</option>
-													<option value="BM" >
-								Bermuda							</option>
-													<option value="BT" >
-								Bhutan							</option>
-													<option value="BO" >
-								Bolivia							</option>
-													<option value="BQ" >
-								Bonaire, Saint Eustatius and Saba							</option>
-													<option value="BA" >
-								Bosnia and Herzegovina							</option>
-													<option value="BW" >
-								Botswana							</option>
-													<option value="BV" >
-								Bouvet Island							</option>
-													<option value="BR" >
-								Brazil							</option>
-													<option value="IO" >
-								British Indian Ocean Territory							</option>
-													<option value="VG" >
-								British Virgin Islands							</option>
-													<option value="BN" >
-								Brunei							</option>
-													<option value="BG" >
-								Bulgaria							</option>
-													<option value="BF" >
-								Burkina Faso							</option>
-													<option value="BI" >
-								Burundi							</option>
 													<option value="KH" >
 								Cambodia							</option>
 													<option value="CM" >
@@ -953,62 +770,6 @@
 								Chile							</option>
 													<option value="CN" >
 								China							</option>
-													<option value="CX" >
-								Christmas Island							</option>
-													<option value="CC" >
-								Cocos (Keeling) Islands							</option>
-													<option value="CO" >
-								Colombia							</option>
-													<option value="KM" >
-								Comoros							</option>
-													<option value="CG" >
-								Congo (Brazzaville)							</option>
-													<option value="CD" >
-								Congo (Kinshasa)							</option>
-													<option value="CK" >
-								Cook Islands							</option>
-													<option value="CR" >
-								Costa Rica							</option>
-													<option value="HR" >
-								Croatia							</option>
-													<option value="CU" >
-								Cuba							</option>
-													<option value="CW" >
-								Cura&ccedil;ao							</option>
-													<option value="CY" >
-								Cyprus							</option>
-													<option value="CZ" >
-								Czech Republic							</option>
-													<option value="DK" >
-								Denmark							</option>
-													<option value="DJ" >
-								Djibouti							</option>
-													<option value="DM" >
-								Dominica							</option>
-													<option value="DO" >
-								Dominican Republic							</option>
-													<option value="EC" >
-								Ecuador							</option>
-													<option value="EG" >
-								Egypt							</option>
-													<option value="SV" >
-								El Salvador							</option>
-													<option value="GQ" >
-								Equatorial Guinea							</option>
-													<option value="ER" >
-								Eritrea							</option>
-													<option value="EE" >
-								Estonia							</option>
-													<option value="ET" >
-								Ethiopia							</option>
-													<option value="FK" >
-								Falkland Islands							</option>
-													<option value="FO" >
-								Faroe Islands							</option>
-													<option value="FJ" >
-								Fiji							</option>
-													<option value="FI" >
-								Finland							</option>
 													<option value="FR" >
 								France							</option>
 													<option value="GF" >
@@ -1017,16 +778,10 @@
 								French Polynesia							</option>
 													<option value="TF" >
 								French Southern Territories							</option>
-													<option value="GA" >
-								Gabon							</option>
-													<option value="GM" >
-								Gambia							</option>
-													<option value="GE" >
-								Georgia							</option>
+													
 													<option value="DE" >
 								Germany							</option>
-													<option value="GH" >
-								Ghana							</option>
+													
 													<option value="GI" >
 								Gibraltar							</option>
 													<option value="GR" >
@@ -1039,22 +794,13 @@
 								Guadeloupe							</option>
 													<option value="GU" >
 								Guam							</option>
-													<option value="GT" >
-								Guatemala							</option>
-													<option value="GG" >
-								Guernsey							</option>
-													<option value="GN" >
-								Guinea							</option>
-													<option value="GW" >
-								Guinea-Bissau							</option>
-													<option value="GY" >
-								Guyana							</option>
+													
+													
 													<option value="HT" >
 								Haiti							</option>
 													<option value="HM" >
 								Heard Island and McDonald Islands							</option>
-													<option value="HN" >
-								Honduras							</option>
+													
 													<option value="HK" >
 								Hong Kong							</option>
 													<option value="HU" >
@@ -1071,54 +817,20 @@
 								Iraq							</option>
 													<option value="IE" >
 								Ireland							</option>
-													<option value="IM" >
-								Isle of Man							</option>
+													
 													<option value="IL" >
 								Israel							</option>
 													<option value="IT" >
 								Italy							</option>
-													<option value="CI" >
-								Ivory Coast							</option>
+													
 													<option value="JM" >
 								Jamaica							</option>
 													<option value="JP" >
 								Japan							</option>
-													<option value="JE" >
-								Jersey							</option>
-													<option value="JO" >
-								Jordan							</option>
-													<option value="KZ" >
-								Kazakhstan							</option>
-													<option value="KE" >
-								Kenya							</option>
-													<option value="KI" >
-								Kiribati							</option>
-													<option value="KW" >
-								Kuwait							</option>
-													<option value="KG" >
-								Kyrgyzstan							</option>
+													
 													<option value="LA" >
 								Laos							</option>
-													<option value="LV" >
-								Latvia							</option>
-													<option value="LB" >
-								Lebanon							</option>
-													<option value="LS" >
-								Lesotho							</option>
-													<option value="LR" >
-								Liberia							</option>
-													<option value="LY" >
-								Libya							</option>
-													<option value="LI" >
-								Liechtenstein							</option>
-													<option value="LT" >
-								Lithuania							</option>
-													<option value="LU" >
-								Luxembourg							</option>
-													<option value="MO" >
-								Macao S.A.R., China							</option>
-													<option value="MK" >
-								Macedonia							</option>
+													
 													<option value="MG" >
 								Madagascar							</option>
 													<option value="MW" >
@@ -1127,20 +839,7 @@
 								Malaysia							</option>
 													<option value="MV" >
 								Maldives							</option>
-													<option value="ML" >
-								Mali							</option>
-													<option value="MT" >
-								Malta							</option>
-													<option value="MH" >
-								Marshall Islands							</option>
-													<option value="MQ" >
-								Martinique							</option>
-													<option value="MR" >
-								Mauritania							</option>
-													<option value="MU" >
-								Mauritius							</option>
-													<option value="YT" >
-								Mayotte							</option>
+													
 													<option value="MX" >
 								Mexico							</option>
 													<option value="FM" >
@@ -1157,170 +856,15 @@
 								Montserrat							</option>
 													<option value="MA" >
 								Morocco							</option>
-													<option value="MZ" >
-								Mozambique							</option>
-													<option value="MM" >
-								Myanmar							</option>
-													<option value="NA" >
-								Namibia							</option>
-													<option value="NR" >
-								Nauru							</option>
-													<option value="NP" >
-								Nepal							</option>
-													<option value="NL" >
-								Netherlands							</option>
-													<option value="NC" >
-								New Caledonia							</option>
+													
 													<option value="NZ" >
 								New Zealand							</option>
-													<option value="NI" >
-								Nicaragua							</option>
-													<option value="NE" >
-								Niger							</option>
-													<option value="NG" >
-								Nigeria							</option>
-													<option value="NU" >
-								Niue							</option>
-													<option value="NF" >
-								Norfolk Island							</option>
+													
 													<option value="KP" >
 								North Korea							</option>
 													<option value="MP" >
 								Northern Mariana Islands							</option>
-													<option value="NO" >
-								Norway							</option>
-													<option value="OM" >
-								Oman							</option>
-													<option value="PK" >
-								Pakistan							</option>
-													<option value="PS" >
-								Palestinian Territory							</option>
-													<option value="PA" >
-								Panama							</option>
-													<option value="PG" >
-								Papua New Guinea							</option>
-													<option value="PY" >
-								Paraguay							</option>
-													<option value="PE" >
-								Peru							</option>
-													<option value="PH" >
-								Philippines							</option>
-													<option value="PN" >
-								Pitcairn							</option>
-													<option value="PL" >
-								Poland							</option>
-													<option value="PT" >
-								Portugal							</option>
-													<option value="PR" >
-								Puerto Rico							</option>
-													<option value="QA" >
-								Qatar							</option>
-													<option value="RE" >
-								Reunion							</option>
-													<option value="RO" >
-								Romania							</option>
-													<option value="RU" >
-								Russia							</option>
-													<option value="RW" >
-								Rwanda							</option>
-													<option value="ST" >
-								S&atilde;o Tom&eacute; and Pr&iacute;ncipe							</option>
-													<option value="BL" >
-								Saint Barth&eacute;lemy							</option>
-													<option value="SH" >
-								Saint Helena							</option>
-													<option value="KN" >
-								Saint Kitts and Nevis							</option>
-													<option value="LC" >
-								Saint Lucia							</option>
-													<option value="SX" >
-								Saint Martin (Dutch part)							</option>
-													<option value="MF" >
-								Saint Martin (French part)							</option>
-													<option value="PM" >
-								Saint Pierre and Miquelon							</option>
-													<option value="VC" >
-								Saint Vincent and the Grenadines							</option>
-													<option value="WS" >
-								Samoa							</option>
-													<option value="SM" >
-								San Marino							</option>
-													<option value="SA" >
-								Saudi Arabia							</option>
-													<option value="SN" >
-								Senegal							</option>
-													<option value="RS" >
-								Serbia							</option>
-													<option value="SC" >
-								Seychelles							</option>
-													<option value="SL" >
-								Sierra Leone							</option>
-													<option value="SG" >
-								Singapore							</option>
-													<option value="SK" >
-								Slovakia							</option>
-													<option value="SI" >
-								Slovenia							</option>
-													<option value="SB" >
-								Solomon Islands							</option>
-													<option value="SO" >
-								Somalia							</option>
-													<option value="ZA" >
-								South Africa							</option>
-													<option value="GS" >
-								South Georgia/Sandwich Islands							</option>
-													<option value="KR" >
-								South Korea							</option>
-													<option value="SS" >
-								South Sudan							</option>
-													<option value="ES" >
-								Spain							</option>
-													<option value="LK" >
-								Sri Lanka							</option>
-													<option value="SD" >
-								Sudan							</option>
-													<option value="SR" >
-								Suriname							</option>
-													<option value="SJ" >
-								Svalbard and Jan Mayen							</option>
-													<option value="SZ" >
-								Swaziland							</option>
-													<option value="SE" >
-								Sweden							</option>
-													<option value="CH" >
-								Switzerland							</option>
-													<option value="SY" >
-								Syria							</option>
-													<option value="TW" >
-								Taiwan							</option>
-													<option value="TJ" >
-								Tajikistan							</option>
-													<option value="TZ" >
-								Tanzania							</option>
-													<option value="TH" >
-								Thailand							</option>
-													<option value="TL" >
-								Timor-Leste							</option>
-													<option value="TG" >
-								Togo							</option>
-													<option value="TK" >
-								Tokelau							</option>
-													<option value="TO" >
-								Tonga							</option>
-													<option value="TT" >
-								Trinidad and Tobago							</option>
-													<option value="TN" >
-								Tunisia							</option>
-													<option value="TR" >
-								Turkey							</option>
-													<option value="TM" >
-								Turkmenistan							</option>
-													<option value="TC" >
-								Turks and Caicos Islands							</option>
-													<option value="TV" >
-								Tuvalu							</option>
-													<option value="UG" >
-								Uganda							</option>
+													
 													<option value="UA" >
 								Ukraine							</option>
 													<option value="AE" >
@@ -1333,24 +877,14 @@
 								United States (US) Minor Outlying Islands							</option>
 													<option value="VI" >
 								United States (US) Virgin Islands							</option>
-													<option value="UY" >
-								Uruguay							</option>
-													<option value="UZ" >
-								Uzbekistan							</option>
-													<option value="VU" >
-								Vanuatu							</option>
+													
 													<option value="VA" >
 								Vatican							</option>
 													<option value="VE" >
 								Venezuela							</option>
 													<option value="VN" >
 								Vietnam							</option>
-													<option value="WF" >
-								Wallis and Futuna							</option>
-													<option value="EH" >
-								Western Sahara							</option>
-													<option value="YE" >
-								Yemen							</option>
+													
 													<option value="ZM" >
 								Zambia							</option>
 													<option value="ZW" >
@@ -1496,8 +1030,8 @@
 								<div class="elementor-element elementor-element-65488d6 elementor-widget elementor-widget-image" data-id="65488d6" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 					{{-- Link anh logo o cuoi trang --}}
-																<a href="">
-							<img width="298" height="182" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" loading="lazy" />								</a>
+																<a href="{{route('home')}}">
+							<img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-60" alt=""  />								</a>
 															</div>
 				</div>
 					</div>
@@ -1542,15 +1076,15 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-796e77c elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="796e77c" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">The Hoteller Resort Via Serlas 27, 7500 St. Moritz, Switzerland</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">1 Doc Lap, Chien Thang Street, Ha Noi Capital, Viet Nam.</div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-4b9aaf5 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="4b9aaf5" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+45 35634 3444</a></div>		</div>
+			<div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+84 2222 6789</a></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-f02c69f elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="f02c69f" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@thehotel.com</a></div>		</div>
+			<div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@zinshomecompany.com</a></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5c0251c elementor-widget__width-auto elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="5c0251c" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
@@ -1611,19 +1145,19 @@
 
 								{{-- About Hotel Footer  --}}
 
-											<a href="#">
+											<a href="{{route('about')}}">
 
 											<span class="elementor-icon-list-text">About Hotel</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="#">
+											<a href="{{route('our-rooms')}}">
 
 											<span class="elementor-icon-list-text">Our Rooms</span>
 											</a>
 									</li>
 									<li class="elementor-icon-list-item">
-										<a href="#">
+										<a href="{{route('service')}}">
 
 										<span class="elementor-icon-list-text">Service</span>
 										</a>
@@ -1645,37 +1179,37 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('dm')}}">
 
 											<span class="elementor-icon-list-text">Deluxe Room</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('pm')}}">
 
 											<span class="elementor-icon-list-text">Prestige Room</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('as')}}">
 
 											<span class="elementor-icon-list-text">Alpine Suite</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('ss')}}">
 
 											<span class="elementor-icon-list-text">Serinity Suite</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('rs')}}">
 
 											<span class="elementor-icon-list-text">Residence Suite</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="">
+											<a href="{{route('pe')}}">
 
 											<span class="elementor-icon-list-text">Penthouse</span>
 											</a>
@@ -1693,7 +1227,7 @@
 				</div>
 				<div class="elementor-element elementor-element-75515d5 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="75515d5" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">The Hoteller Ski Resort</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">ZIN'S HOTEL & RESORT</div>		</div>
 				</div>
 					</div>
 		</div>
@@ -1775,8 +1309,8 @@
 								<div class="elementor-element elementor-element-af58a05 elementor-widget elementor-widget-image" data-id="af58a05" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 					{{-- link the a khi nhan vao nav bar  --}}
-																<a href="">
-							<img width="298" height="182" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/logo-white2.png" class="attachment-full size-full wp-image-61" alt="" loading="lazy" />								</a>
+																<a href="{{route('home')}}">
+							<img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-white.png" class="attachment-full size-full wp-image-61" alt="" loading="lazy" />								</a>
 															</div>
 				</div>
 					</div>
@@ -1824,7 +1358,7 @@
 				<div class="elementor-element elementor-element-551b104 elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="551b104" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="" target="_blank">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Book Now</span>
 		</span>
@@ -1864,21 +1398,21 @@
 		
 		{{-- Phan gan link khi nhan vao nav bar  --}}
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="" >Home</a>
+			<a class="themegoods-background-menu__item-link" href="{{route('home')}}" >Home</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/mountain-ski-resort-2021-08-30-09-28-42-utc.jpg" alt=""/>
 			<span>
 		</li>
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="" >About The Hotel</a>
+			<a class="themegoods-background-menu__item-link" href="{{route('about')}}" >About The Hotel</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/chalet-hills-2021-08-26-16-38-04-utc.jpg" alt=""/>
 			<span>
 		</li>
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="" >Our Rooms</a>
+			<a class="themegoods-background-menu__item-link" href="{{route('our-rooms')}}" >Our Rooms</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/alpine-winter-mountain-landscape-french-alps-with-2021-08-26-16-19-11-utc.jpg" alt=""/>
@@ -1892,7 +1426,7 @@
 			<span>
 		</li> --}}
 				<li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="" >Service</a>
+			<a class="themegoods-background-menu__item-link" href="{{route('service')}}" >Service</a>
 			
 			<span class="themegoods-background-menu__item-image">
 				<img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/getty-images-68IEJYojEyo-unsplash.jpg" alt=""/>
@@ -1913,7 +1447,7 @@
 				</div>
 				<div class="elementor-element elementor-element-15c8798 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="15c8798" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">The Hoteller Resort Via Serlas 27, 7500 St. Moritz, Switzerland</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">1 Doc Lap, Chien Thang Street, Ha Noi Capital, Viet Nam.</div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-978d460 elementor-widget elementor-widget-spacer" data-id="978d460" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -1925,7 +1459,7 @@
 				</div>
 				<div class="elementor-element elementor-element-cdcd5dc elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="cdcd5dc" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+45 35634 3444</a></div>		</div>
+			<div class="elementor-heading-title elementor-size-default"><a href="tel:+45%2035634%203444">+84 2222 6789</a></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-a741066 elementor-widget elementor-widget-spacer" data-id="a741066" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -1936,7 +1470,7 @@
 				</div>
 				<div class="elementor-element elementor-element-50b3cfd elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="50b3cfd" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@thehotel.com</a></div>		</div>
+			<div class="elementor-heading-title elementor-size-default"><a href="mailto:contact@thehotel.com">contact@zinshomecompany.com</a></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ed67ef7 elementor-widget elementor-widget-spacer" data-id="ed67ef7" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">

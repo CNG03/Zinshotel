@@ -139,13 +139,13 @@ content: "Booking Confirmed";
 
 
 {{-- Favicon     --}}
-<link rel="icon" href="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1-100x100.png" sizes="32x32" />
-<link rel="icon" href="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" />
+<link rel="icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" sizes="32x32" />
+<link rel="icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="{{asset('assets')}}/img/booking-confirm/logo-black2.png" />
 
 {{-- KT Favicon --}}
 {{-- Favicon hien thi khi bi ghim --}}
-<meta name="msapplication-TileImage" content="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/cropped-TG-Thumb-192x192-1.png" />
+<meta name="msapplication-TileImage" content="{{asset('assets')}}/img/booking-confirm/logo-black2.png" />
 <style type="text/css" id="wp-custom-css">
 #footer_wrapper .mc4wp-form input[type=email] {
 min-width: 85%;

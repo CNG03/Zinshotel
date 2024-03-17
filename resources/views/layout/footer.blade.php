@@ -23,7 +23,7 @@
                             <div class="elementor-element elementor-element-65488d6 elementor-widget elementor-widget-image" data-id="65488d6" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
             <div class="elementor-widget-container">
                 {{-- Link anh logo o cuoi trang --}}
-                                                            <a href="">
+                                                            <a href="{{route('home')}}">
                         <img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-60" alt="" loading="lazy" />								</a>
                                                         </div>
             </div>
@@ -137,19 +137,19 @@ window.mc4wp = window.mc4wp || {
 
                             {{-- About Hotel Footer  --}}
 
-                                        <a href="#">
+                                        <a href="{{route('about')}}">
 
                                         <span class="elementor-icon-list-text">About Hotel</span>
                                         </a>
                                 </li>
                             <li class="elementor-icon-list-item">
-                                        <a href="#">
+                                        <a href="{{route('our-rooms')}}">
 
                                         <span class="elementor-icon-list-text">Our Rooms</span>
                                         </a>
                                 </li>
                                 <li class="elementor-icon-list-item">
-                                    <a href="#">
+                                    <a href="{{route('service')}}">
 
                                     <span class="elementor-icon-list-text">Service</span>
                                     </a>
@@ -171,37 +171,37 @@ window.mc4wp = window.mc4wp || {
             <div class="elementor-widget-container">
                 <ul class="elementor-icon-list-items">
                         <li class="elementor-icon-list-item">
-                                        <a href="">
+                                        <a href="{{route('dm')}}">
 
                                         <span class="elementor-icon-list-text">Deluxe Room</span>
                                         </a>
                                 </li>
                             <li class="elementor-icon-list-item">
-                                        <a href="">
+                                        <a href="{{route('pm')}}">
 
                                         <span class="elementor-icon-list-text">Prestige Room</span>
                                         </a>
                                 </li>
                             <li class="elementor-icon-list-item">
-                                        <a href="">
+                                        <a href="{{route('as')}}">
 
                                         <span class="elementor-icon-list-text">Alpine Suite</span>
                                         </a>
                                 </li>
                             <li class="elementor-icon-list-item">
-                                        <a href="">
+                                        <a href="{{route('ss')}}">
 
                                         <span class="elementor-icon-list-text">Serinity Suite</span>
                                         </a>
                                 </li>
                             <li class="elementor-icon-list-item">
-                                        <a href="">
+                                        <a href="{{route('rs')}}">
 
                                         <span class="elementor-icon-list-text">Residence Suite</span>
                                         </a>
                                 </li>
                             <li class="elementor-icon-list-item">
-                                        <a href="">
+                                        <a href="{{route('pe')}}">
 
                                         <span class="elementor-icon-list-text">Penthouse</span>
                                         </a>
@@ -301,8 +301,8 @@ window.mc4wp = window.mc4wp || {
                             <div class="elementor-element elementor-element-af58a05 elementor-widget elementor-widget-image" data-id="af58a05" data-element_type="widget" data-settings="{&quot;hoteller_image_is_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="image.default">
             <div class="elementor-widget-container">
                 {{-- link the a khi nhan vao nav bar  --}}
-                                                            <a href="">
-                        <img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" class="attachment-full size-full wp-image-61" alt="" loading="lazy" />								</a>
+                                                            <a href="{{route('home')}}">
+                        <img width="298" height="182" src="{{asset('assets')}}/img/booking-confirm/logo-white.png" class="attachment-full size-full wp-image-61" alt="" loading="lazy" />								</a>
                                                         </div>
             </div>
                 </div>
@@ -350,7 +350,7 @@ window.mc4wp = window.mc4wp || {
             <div class="elementor-element elementor-element-551b104 elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="551b104" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
             <div class="elementor-widget-container">
                 <div class="elementor-button-wrapper">
-        <a class="elementor-button elementor-button-link elementor-size-sm" href="" target="_blank">
+        <a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="_blank">
                     <span class="elementor-button-content-wrapper">
                     <span class="elementor-button-text">Book Now</span>
     </span>
@@ -390,21 +390,21 @@ window.mc4wp = window.mc4wp || {
 
     {{-- Phan gan link khi nhan vao nav bar  --}}
             <li class="themegoods-background-menu__item">
-        <a class="themegoods-background-menu__item-link" href="" >Home</a>
+        <a class="themegoods-background-menu__item-link" href="{{route('home')}}" >Home</a>
 
         <span class="themegoods-background-menu__item-image">
             <img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/mountain-ski-resort-2021-08-30-09-28-42-utc.jpg" alt=""/>
         <span>
     </li>
             <li class="themegoods-background-menu__item">
-        <a class="themegoods-background-menu__item-link" href="" >About The Hotel</a>
+        <a class="themegoods-background-menu__item-link" href="{{route('about')}}" >About The Hotel</a>
 
         <span class="themegoods-background-menu__item-image">
             <img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/chalet-hills-2021-08-26-16-38-04-utc.jpg" alt=""/>
         <span>
     </li>
             <li class="themegoods-background-menu__item">
-        <a class="themegoods-background-menu__item-link" href="" >Our Rooms</a>
+        <a class="themegoods-background-menu__item-link" href="{{route('our-rooms')}}" >Our Rooms</a>
 
         <span class="themegoods-background-menu__item-image">
             <img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/alpine-winter-mountain-landscape-french-alps-with-2021-08-26-16-19-11-utc.jpg" alt=""/>
@@ -418,7 +418,7 @@ window.mc4wp = window.mc4wp || {
         <span>
     </li> --}}
             <li class="themegoods-background-menu__item">
-        <a class="themegoods-background-menu__item-link" href="" >Service</a>
+        <a class="themegoods-background-menu__item-link" href="#" >Service</a>
 
         <span class="themegoods-background-menu__item-image">
             <img class="themegoods-background-menu__item-img" src="https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/getty-images-68IEJYojEyo-unsplash.jpg" alt=""/>

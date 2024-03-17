@@ -16,6 +16,24 @@
     @include('layout.header1')
     <div class="main">
         <div class="page_content-wapper">
+            <div id="page_caption" class="   ">
+                <div class="page_title_wrapper">
+                  <div class="standard_wrapper">
+                    <div class="page_title_inner">
+                      <div class="page_title_content">
+                        <h1>Search Results</h1>
+              
+                        <div class="themegoods-progress-bar">
+                          <div class="themegoods-step active"></div>
+                          <div class="themegoods-step "></div>
+                          <div class="themegoods-step "></div>
+                          <div class="themegoods-step "></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
             <div class="wapper">
                 <div class="page-title-content">
                     <h1>Search results</h1>
@@ -181,7 +199,7 @@
                                             </select>
                                             <span class="room-count">of 10 accommodations available.</span>
                                         </p>
-                                        <button class="book-button">Book</button>
+                                        <button onclick="window.location.href = '{{route('bk-room')}}'" class="book-button hover-currsor">Book</button>
                                     </div>
                                 </div>
                             </div>
@@ -246,7 +264,7 @@
                                             </select>
                                             <span class="room-count">of 10 accommodations available.</span>
                                         </p>
-                                        <button class="book-button">Book</button>
+                                        <button onclick="window.location.href = '{{route('bk-room')}}'" class="book-button hover-currsor">Book</button>
                                     </div>
                                 </div>
                             </div>
@@ -311,7 +329,7 @@
                                             </select>
                                             <span class="room-count">of 10 accommodations available.</span>
                                         </p>
-                                        <button class="book-button">Book</button>
+                                        <button onclick="window.location.href = '{{route('bk-room')}}'" class="book-button hover-currsor">Book</button>
                                     </div>
                                 </div>
                             </div>
@@ -376,7 +394,7 @@
                                             </select>
                                             <span class="room-count">of 10 accommodations available.</span>
                                         </p>
-                                        <button class="book-button">Book</button>
+                                        <button onclick="window.location.href = '{{route('bk-room')}}'" class="book-button hover-currsor">Book</button>
                                     </div>
                                 </div>
                             </div>
@@ -441,7 +459,7 @@
                                             </select>
                                             <span class="room-count">of 10 accommodations available.</span>
                                         </p>
-                                        <button class="book-button">Book</button>
+                                        <button onclick="window.location.href = '{{route('bk-room')}}'" class="book-button hover-currsor">Book</button>
                                     </div>
                                 </div>
                             </div>
@@ -506,7 +524,7 @@
                                             </select>
                                             <span class="room-count">of 5 accommodations available.</span>
                                         </p>
-                                        <button class="book-button">Book</button>
+                                        <button onclick="window.location.href = '{{route('bk-room')}}'" class="book-button hover-currsor">Book</button>
                                     </div>
                                 </div>
                             </div>
