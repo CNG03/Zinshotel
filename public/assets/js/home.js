@@ -27,7 +27,6 @@ document.getElementById("closeMenu").addEventListener("click", function() {
 
 
 
-
 var accommodationCategory = document.querySelector('.accommodation-category');
 var slider = accommodationCategory.querySelector('.block_wrapper');
 var slideIndex = 0;

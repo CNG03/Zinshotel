@@ -38,7 +38,7 @@ class UserController extends Controller
         } catch (\Throwable $th) {
             dd($th);
         }
-        return redirect()->route('login_sign-up');
+        return redirect()->route('login_sign-up')->with('success', 'Your account has been successfully created');
     }
     public function login(Request $req) {
         if(Auth::attempt(['email' => $req->email, 'password' => $req->password])) {

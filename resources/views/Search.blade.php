@@ -14,6 +14,7 @@
 </head>
 <body>
     @include('layout.header1')
+    {{-- @include('layout.user-model'); --}}
     <div class="main">
         <div class="page_content-wapper">
             <div id="page_caption" class="   ">
@@ -534,5 +535,9 @@
     </div>
     @include('layout.footer')
     @include('layout.js')
+
+
+
+
 </body>
 </html>

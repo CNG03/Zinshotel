@@ -4,7 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home- Zin's Home</title>
-    
+    <style type="text/css" id="cst_font_data">
+        @font-face {
+    font-family: 'silverline_script_demoregular';
+    font-weight: 400;
+    src: url('https://hotellerv6-5.themegoods.com/ski/wp-content/uploads/sites/4/2023/09/silverline-script-demo.regular-webfont.woff') format('woff');
+    }					
+    </style>
     <link rel="stylesheet" href="{{asset('assets')}}/css/home.css">
     <link rel="stylesheet" href="{{asset('assets')}}/fontawesome-free-6.5.1-web/css/all.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -13,6 +19,7 @@
 </head>
 
 <body style="font-family: 'Times New Roman', Times, serif;">
+    {{-- @include('layout.user-model'); --}}
     <div class="background" style="background-image: url('{{asset('assets')}}/img/header-img.png');">
 
         <section class="header-background">
@@ -21,8 +28,9 @@
                     <div class="header-floatingDiv">
                         <div class="header-floatingDiv-menu">
                             <ul>
-                                <li><a href="{{route('our-rooms')}}">Our Rooms</a></li>
-                                <li><a href="{{route('service')}}">Services</a></li>
+                                <img style="left: -48px; top: 31px; position: relative; height: 15px; width: 20px;" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/mobile-icon.png">
+                                <li><a style="font-size: 18px; position: relative; top: 0px; left: -67px;" href="{{route('our-rooms')}}">Our Rooms</a></li>
+                                <li><a style="left: -95px; position: relative; font-size: 18px;" href="{{route('service')}}">Services</a></li>
                             </ul>
                         </div>
                         <div class="header-floatingDiv-logo">
@@ -32,9 +40,21 @@
                         </div>
                         <div class="header-floatingDiv-menu header-floatingDiv-menu-right">
                             <ul>
-                                <li><a href="#">EN</a></li>
-                                <li><a href="#">JP</a></li>
-                                <li><a href="{{route('as')}}"><button type="button" class="btn btn-lg" fdprocessedid="vl8tv8">Book Now</button></a></li>
+                                <li><i style="top: 0px; left: 162px; position: relative; color: black; font-size: 18px;" class="bi bi-search"></i></li>
+                                <li><a style="left: 129px; top: 0px; position: relative; font-size: 18px;" href="#">EN</a></li>
+                                <li><a style="left: 98px; top: 0px; position: relative; font-size: 18px;" href="#">JP</a></li>
+                                <li style="left: 70px; position: relative; top: 0px;">
+                                    @if (Auth::check())
+                                        <p style="color: white; border-radius: 5px; padding: 8px; background-color: #4c7294; top: -10px; font-size: 20px; font-weight: bold; position: absolute; left: -231px;">{{Auth::user()->name}}</p>
+                                        <a href="{{route('logout')}}">
+                                            <button type="button" class="btn btn-lg" fdprocessedid="vl8tv8">Logout</button>
+                                        </a>
+                                    @else
+                                        <a href="{{route('login_sign-up')}}">
+                                            <button type="button" class="btn btn-lg" fdprocessedid="vl8tv8">Login</button>
+                                        </a>
+                                    @endif
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -62,9 +82,19 @@
                                             </div>
                                             <div class="header-menu header-right second-header-right">
                                                 <ul>
+                                                    <li><i style="top: 3px; left: 6px; position: relative; color: white; font-size: 18px;" class="bi bi-search"></i></li>
                                                     <li><a href="#">EN</a></li>
                                                     <li><a href="#">JP</a></li>
-                                                    <li><a href="{{route('as')}}" style="border: 1px solid white; padding: 10px 20px">Book Now</a></li>
+                                                    <li>
+                                                        @if (Auth::check())
+                                                            <p style="color: white; border-radius: 5px; padding: 8px; background-color: #4c7294; top: -10px; font-size: 20px; font-weight: bold; position: absolute; left: 950px;">{{Auth::user()->name}}</p>
+                                                            <a style="border: 1px solid white; padding: 10px 20px;color: white; font-size: 20px;" href="{{route('logout')}}">
+                                                                Logout
+                                                            </a>
+                                                        @else
+                                                            <a href="{{route('as')}}" style="border: 1px solid white; padding: 10px 20px">Book Now</a>
+                                                        @endif
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -72,23 +102,22 @@
                                                 <a href="{{route('home')}}">Home</a> <br>
                                                 <a href="{{route('about')}}">About The Hotel</a> <br>
                                                 <a href="{{route('our-rooms')}}">Our Rooms</a> <br>
-                                                <a href="{{route('service')}}">Restaurant</a> <br>
-                                                <a href="{{route('service')}}">Spa & Wellness</a> 
+                                                <a href="{{route('service')}}">Service</a> <br>
                                                 <hr style="color:#F1F0EB">
                                         </div>
                                         <div class="second-footer" style="margin-top: 100px">
                                             <div class="footer-contact-address col-md-4 " style="color: white">
                                                 <p>
-                                                    The Hoteller Resort Via Serlas 27,
+                                                    1 Doc Lap, Chien Thang Street, Ha Noi
                                                 </p>
                                                 <p>
-                                                    7500 St. Moritz, Switzerland
+                                                    Capital, Viet Nam.
                                                 </p>
                                                 <p>
-                                                    +45 35634 3444
+                                                    +84 2222 6789
                                                 </p>
                                                 <p>
-                                                    contact@thehotel.com
+                                                    contact@zinshomecompany.com
                                                 </p>
                                                 <div class="social-media-link">
                                                     <a href="#"><i class="fab fa-facebook-f" style="color: white"></i></a>
@@ -113,9 +142,17 @@
                     </div>
                     <div class="header-menu header-right">
                         <ul>
+                            <li><i style="top: 1px; left: 6px; position: relative; color: white; font-size: 18px;" class="bi bi-search"></i></li>
                             <li><a href="#">EN</a></li>
                             <li><a href="#">JP</a></li>
-                            <li><a href="{{route('as')}}" style="border: 1px solid white; padding: 10px 20px">Book Now</a></li>
+                            <li>
+                                @if (Auth::check())
+                                    <p style="color: white; font-size: 20px; font-weight: bold; position: absolute; left: 1145px;top: 25px">{{Auth::user()->name}}</p>
+                                    <a href="{{route('logout')}}" style="border: 1px solid white; padding: 10px 20px">Logout</a>
+                                @else
+                                    <a href="{{route('login_sign-up')}}" style="border: 1px solid white; padding: 10px 20px">Login</a>
+                                @endif
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -123,18 +160,18 @@
         </section>
        
         <section class="welcome">
-            <h1>Welcome to Zin's Home <br> Hotel & Resort</h1>
+            <h1 style="font-family: silverline_script_demoregular, Sans-serif;" >Welcome to Zin's Home <br> Hotel & Resort</h1>
         </section>
         <section class="form-search">
                     <form action="">
                         <div class="form-search-block">
                             <div class="check-in form-style">
                                 <p>Check-in *</p>
-                                <input class="form-input-style border-style" style="background: transparent;" type="date" placeholder="Check-in Date" aria-label="Check-in">
+                                <input class="form-input-style border-style" style="background: transparent;border: 1px solid #ccc; border-radius: 4px;" type="date" placeholder="Check-in Date" aria-label="Check-in">
                             </div>
                             <div class="check-out form-style">
                                 <p>Check-out *</p>
-                                <input class="form-input-style border-style" style="background: transparent;" type="date" placeholder="Check-out Date" aria-label="Check-out">
+                                <input class="form-input-style border-style" style="background: transparent;border: 1px solid #ccc; border-radius: 4px;" type="date" placeholder="Check-out Date" aria-label="Check-out">
                             </div>
                             <div class="adults form-style">
                                 <p>Adults</p>
@@ -209,8 +246,8 @@
                 <img src="{{asset('assets')}}/img/winter-img.png" alt="">
             </div>
             <div class="col-md-6 spa-ads winter-special-offer-text">
-                <h1>Winter Special</h1>
-                <h1>Offer</h1>
+                <h1 style="font-family: silverline_script_demoregular, Sans-serif;">Winter Special</h1>
+                <h1 style="font-family: silverline_script_demoregular, Sans-serif;">Offer</h1>
             <p>Discover a world of luxury and relaxation with our carefully curated hotel offers, <br>
                 designed to enhance your stay and create lasting memories. Whether you’re planning a <br>
                 romantic getaway, a family vacation, or a business trip, we have the perfect offer to suit <br>
@@ -224,7 +261,7 @@
             </div>
         </section>
         <section style="margin-top: 100px;" class="spa-ads our-room">
-            <h1>Our Rooms</h1>
+            <h1 style="font-family: silverline_script_demoregular, Sans-serif;">Our Rooms</h1>
             <p>
                 Get ready to carve through pristine powder and conquer the <br>
                 slopes of varying difficulty levels. Our resort boasts a diverse <br>
@@ -289,7 +326,7 @@
             <div class="container offers-content">
                 <div class="row">
                     <div class="offers-text col-md-7">
-                        <h2>Restaurant</h2>
+                        <h2 style="font-family: silverline_script_demoregular, Sans-serif;">Restaurant</h2>
                         <p>Executive Chef, showcases their expertise and passion for fine dining by using the finest, locally sourced ingredients</p>
                     </div>
                     <div class="discover-our-offers col-md-5">
@@ -307,7 +344,7 @@
             <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/restaurant-2022-11-15-11-05-42-utc-768x1024.jpg" alt="">
         </section>
         <section style="margin-top: 100px;" class="spa-ads ">
-            <h1>A World of Spa</h1>
+            <h1 style="font-family: silverline_script_demoregular, Sans-serif;">A World of Spa</h1>
             <p>Nestled within the heart of our hotel,
                 our spa is a sanctuary of <br>relaxation and rejuvenation,
                 dedicated to enhancing your well- <br> being and restoring
@@ -329,7 +366,7 @@
             <div class="container offers-content">
                 <div class="row">
                     <div class="offers-text col-md-7">
-                        <h2>Offers</h2>
+                        <h2 style="font-family: silverline_script_demoregular, Sans-serif;">Offers</h2>
                         <p>Discover our attractive offers on all Rooms & Suites at the Hoteller Resort. Start your journey with us.</p>
                     </div>
                     <div class="discover-our-offers col-md-5">
@@ -420,7 +457,7 @@
             <div class="container">
                 <div class="footer-row-1">
                     <div class="footer-logo-one col-md-4">
-                        <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/logo-black2.png" alt="">
+                        <img src="{{asset('assets')}}/img/booking-confirm/logo-black2.png" alt="">
                     </div>
                     <div class="footer-form-email col-md-4">
                         <h3>
@@ -435,16 +472,16 @@
                     </div>
                     <div class="footer-contact-address col-md-4">
                         <p>
-                            The Hoteller Resort Via Serlas 27,
+                            1 Doc Lap, Chien Thang Street, Ha Noi
                         </p>
                         <p>
-                            7500 St. Moritz, Switzerland
+                            Capital, Viet Nam.
                         </p>
                         <p>
-                            +45 35634 3444
+                            +84 2222 6789
                         </p>
                         <p>
-                            contact@thehotel.com
+                            contact@zinshomecompany.com
                         </p>
                         <div class="social-media-link">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -460,9 +497,8 @@
                         <ul>
                             <li><a href="{{route('about')}}">About Hotel</a></li>
                             <li><a href="{{route('our-rooms')}}">Our Rooms</a></li>
-                            <li><a href="{{route('service')}}">Restaurant & Bar</a></li>
-                            <li><a href="{{route('service')}}">Spa & Wellness</a></li>
-                            <li><a href="{{route('about')}}">Contact</a></li>
+                            <li><a href="{{route('service')}}">Service</a></li>
+                            <li><a href="">Contact</a></li>
                         </ul>
                     </div>
                     <div class="footer-menu col-md-4">
@@ -476,8 +512,8 @@
                         </ul>
                     </div>
                     <div class="footer-copyright col-md-4">
-                        <p>© Copyright All rights reserved.
-                            THE HOTELLER SKI RESORT</p>
+                        <p>© Copyright All rights reserved.<br>
+                            ZIN'S HOTEL & RESORT</p>
                     </div>
                 </div>
                 <hr class="mt-5">
@@ -494,7 +530,7 @@
             </div>
         </section>
     </section>
-    
+    {{-- @include('layout.user-js') --}}
     <script src="{{asset('assets')}}/js/home.js"></script>
 </body>
 </html>

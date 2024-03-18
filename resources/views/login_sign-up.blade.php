@@ -33,6 +33,12 @@
             color: white;
             }
 
+            .alert2 {
+            padding: 20px;
+            background-color: #36f44f;
+            color: white;
+            }
+
             .closebtn {
             margin-left: 15px;
             color: white;
@@ -178,6 +184,20 @@
                 <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
                 <strong>Error!</strong> .{{ $errors->first() }}
             </div>
+        @endif
+        @if($errors->any())
+            <div class="alert fixed-bottom-right">
+                <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+                <strong>Error!</strong> .{{ $errors->first() }}
+            </div>
+        @endif
+        @if ($message = Session::get('success'))
+            <div class="alert2 fixed-bottom-right">
+                <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+                <strong>{{ $message }}!</strong>
+            </div>
+            {{-- <strong>{{ $message }}</strong> --}}
+            {{-- <small id="error-messs" class="password-error-2">{{ $message }}</small> --}}
         @endif
     </body>
     <script src="{{asset('assets')}}/js/main.js"></script>
