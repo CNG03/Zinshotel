@@ -33,9 +33,9 @@ Route::get('/booking-confirmation', function () {
     return view('booking-confirmation');
 })->name('bk-room');
 
-Route::get('home', function () {
-    return view('home');
-})->name('home');
+Route::get('Search', function () {
+    return view('Search');
+})->name('Search');
 
 Route::get('example', function () {
     return view('web-example');
