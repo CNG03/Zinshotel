@@ -459,9 +459,9 @@
     		<div class="sidebar_content full_width">
     				
     	
-    		    <div class="mphb_sc_checkout-wrapper ">		<form class="mphb_sc_checkout-form" enctype="" method="POST" action="https://hotellerv6-5.themegoods.com/ski/booking-confirmation/?step=booking">
+    		    <div class="mphb_sc_checkout-wrapper ">		<form class="mphb_sc_checkout-form" enctype="" method="" action="{{route('check-out')}}">
 
-			<input type="hidden" id="mphb-checkout-nonce" name="mphb-checkout-nonce" value="eb642aca92" /><input type="hidden" name="_wp_http_referer" value="/ski/booking-confirmation/" />
+			<input type="hidden" id="mphb-checkout-nonce" name="mphb-checkout-nonce" value="eb642aca92" /><input type="hidden" name="_wp_http_referer" value="" />
 			<input type="hidden"
 				   name="mphb-booking-checkout-id"
 				   value="8c694c5b59cb4a2193cef701c9191901"
@@ -1064,7 +1064,7 @@
 		}
 	}
 })();
-</script><!-- Mailchimp for WordPress v4.9.7 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-89" method="post" data-id="89" data-name="Newsletter" ><div class="mc4wp-form-fields"><input type="email" name="EMAIL" placeholder="Your email address" required />
+</script><!-- Mailchimp for WordPress v4.9.7 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-89" method="" data-id="89" data-name="Newsletter" ><div class="mc4wp-form-fields"><input type="email" name="EMAIL" placeholder="Your email address" required />
 <p>
 <input type="submit" value="Sign up" />
 </p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1710489697" /><input type="hidden" name="_mc4wp_form_id" value="89" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
