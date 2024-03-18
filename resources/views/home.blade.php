@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home- Zin's Home</title>
+    
     <link rel="stylesheet" href="{{asset('assets')}}/css/home.css">
     <link rel="stylesheet" href="{{asset('assets')}}/fontawesome-free-6.5.1-web/css/all.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -13,14 +14,15 @@
 
 <body style="font-family: 'Times New Roman', Times, serif;">
     <div class="background" style="background-image: url('{{asset('assets')}}/img/header-img.png');">
+
         <section class="header-background">
             <section class="header">
                 <div id="floatingDiv">
                     <div class="header-floatingDiv">
                         <div class="header-floatingDiv-menu">
                             <ul>
-                                <li><a href="#">Our Rooms</a></li>
-                                <li><a href="#">Services</a></li>
+                                <li><a href="{{route('our-rooms')}}">Our Rooms</a></li>
+                                <li><a href="{{route('service')}}">Services</a></li>
                             </ul>
                         </div>
                         <div class="header-floatingDiv-logo">
@@ -32,7 +34,7 @@
                             <ul>
                                 <li><a href="#">EN</a></li>
                                 <li><a href="#">JP</a></li>
-                                <li><a href="#"><button type="button" class="btn btn-lg" fdprocessedid="vl8tv8">Book Now</button></a></li>
+                                <li><a href="{{route('as')}}"><button type="button" class="btn btn-lg" fdprocessedid="vl8tv8">Book Now</button></a></li>
                             </ul>
                         </div>
                     </div>
@@ -41,22 +43,67 @@
                     <div class="header-menu">
                         <ul>
                             <li>
-                                <a style="cursor: pointer" id="toggleMenu">
-                                    <img style="width: 25px" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/menu-icon-white.png" alt="">
-                                </a>
-                                <div id="menuOverlay"></div>
-                                <nav id="menu">
-                                    <ul>
-                                        <li><a href="#">Item 1</a></li>
-                                        <li><a href="#">Item 2</a></li>
-                                        <li><a href="#">Item 3</a></li>
-                                        <li><a href="#">Item 4</a></li>
-                                    </ul>
-                                <button id="closeMenu">x</button>
-                                </nav>
+                                <div class="second-page">
+                                    <a style="cursor: pointer" id="toggleMenu">
+                                        <img style="width: 25px" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/menu-icon-white.png" alt="">
+                                    </a>
+                                    <div id="menuOverlay"></div>
+                                    <div id="menu" style="z-index: 99999">
+                                        <div class="second-header">
+                                            <div>
+                                                <a style="cursor: pointer" id="closeMenu">
+                                                    <img style="width: 25px" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/close-icon-white.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="header-logo second-header-logo">
+                                                <a href="{{route('home')}}">
+                                                    <img src="{{asset('assets')}}/img/booking-confirm/logo-white.png" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="header-menu header-right second-header-right">
+                                                <ul>
+                                                    <li><a href="#">EN</a></li>
+                                                    <li><a href="#">JP</a></li>
+                                                    <li><a href="{{route('as')}}" style="border: 1px solid white; padding: 10px 20px">Book Now</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="second-content">
+                                                <a href="{{route('home')}}">Home</a> <br>
+                                                <a href="{{route('about')}}">About The Hotel</a> <br>
+                                                <a href="{{route('our-rooms')}}">Our Rooms</a> <br>
+                                                <a href="{{route('service')}}">Restaurant</a> <br>
+                                                <a href="{{route('service')}}">Spa & Wellness</a> 
+                                                <hr style="color:#F1F0EB">
+                                        </div>
+                                        <div class="second-footer" style="margin-top: 100px">
+                                            <div class="footer-contact-address col-md-4 " style="color: white">
+                                                <p>
+                                                    The Hoteller Resort Via Serlas 27,
+                                                </p>
+                                                <p>
+                                                    7500 St. Moritz, Switzerland
+                                                </p>
+                                                <p>
+                                                    +45 35634 3444
+                                                </p>
+                                                <p>
+                                                    contact@thehotel.com
+                                                </p>
+                                                <div class="social-media-link">
+                                                    <a href="#"><i class="fab fa-facebook-f" style="color: white"></i></a>
+                                                    <a href="#"><i class="fab fa-youtube" style="color: white"></i></a>
+                                                    <a href="#"><i class="fab fa-twitter" style="color: white"></i></a>
+                                                    <a href="#"><i class="fab fa-instagram" style="color: white"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
                             </li>
-                            <li><a href="{{Route('our-rooms')}}">Our Rooms</a></li>
-                            <li><a href="#">Services</a></li>
+                            <li><a href="{{route('our-rooms')}}">Our Rooms</a></li>
+                            <li><a href="{{route('service')}}">Service</a></li>
                         </ul>
                     </div>
                     <div class="header-logo">
@@ -68,12 +115,13 @@
                         <ul>
                             <li><a href="#">EN</a></li>
                             <li><a href="#">JP</a></li>
-                            <li><a href="#" style="border: 1px solid white; padding: 10px 20px">Book Now</a></li>
+                            <li><a href="{{route('as')}}" style="border: 1px solid white; padding: 10px 20px">Book Now</a></li>
                         </ul>
                     </div>
                 </div>
             </section>
         </section>
+       
         <section class="welcome">
             <h1>Welcome to Zin's Home <br> Hotel & Resort</h1>
         </section>
@@ -139,8 +187,11 @@
                                     <option value="10">10</option>
                                 </select>
                             </div>
-                            <div class="form-style">
-                                <button type="submit">Search</button>
+                            <div class="form-style" style="margin-top: 50px">
+                                <a style="text-decoration:none; background-color:#4C7294; color: white; padding: 20px 80px; " href="{{route('search')}}">
+                                    Search
+                                </a>
+                                
                             </div>
         
                         </div>
@@ -166,7 +217,7 @@
                 your needs and elevate your experience.
             </p>
             <div class="book-spa-session view-winter-more">
-                <a href="">
+                <a href="{{route('our-rooms')}}">
                     <button type="button" class="btn">View Our Offers</button>
                 </a>
             </div>
@@ -180,11 +231,6 @@
                 range of ski and snowboard trails, ensuring there’s something <br>
                 for everyone, from beginners to seasoned experts.
             </p>
-            <div class="book-spa-session">
-                <a href="">
-                    <button type="button" class="btn">Book spa session</button>
-                </a>
-            </div>
         </section>
         <section class="room-type">
             <div class="accommodation_category-wrapper">
@@ -193,52 +239,52 @@
                     <i class="fa-solid fa-angle-right" onclick="slideRight()"></i>
                     <div class="block_wrapper">
                         <div class="sub-form">
-                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/andrea-davis-k8WL83m48XY-unsplash-660x913.jpg" alt="" class="resize-form"></a>
-                            <a href="" class="styled_link" style="font-size: 30px;">Deluxe Room</a> <br>
-                            <a href="" class="styled_text">27m2 / 2 adults 1 children</a>
+                            <a href="{{route('dm')}}"><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/andrea-davis-k8WL83m48XY-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="{{route('dm')}}" class="styled_link" style="font-size: 30px;">Deluxe Room</a> <br>
+                            <a href="{{route('dm')}}" class="styled_text">27m2 / 2 adults 1 children</a>
                             <p style="font-size: 20px;">From 59$</p>
                         </div>
                         <div class="sub-form">
-                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/hans-isaacson-F9cDk61pBbM-unsplash-660x913.jpg" alt="" class="resize-form"></a>
-                            <a href="" class="styled_link" style="font-size: 30px;">Prestige Room</a> <br>
-                            <a href="" class="styled_text">32m2 / 2 adults 1 children</a>
+                            <a href="{{route('pm')}}"><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/hans-isaacson-F9cDk61pBbM-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="{{route('pm')}}" class="styled_link" style="font-size: 30px;">Prestige Room</a> <br>
+                            <a href="{{route('pm')}}" class="styled_text">32m2 / 2 adults 1 children</a>
                             <p style="font-size: 20px;">From 79$</p>
                         </div>
                         <div class="sub-form">
-                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/jsb-co-CkP-70BPxzM-unsplash-660x913.jpg" alt="" class="resize-form"></a>
-                            <a href="" class="styled_link" style="font-size: 30px;">Alpine Suite</a> <br>
-                            <a href="" class="styled_text">39m2 / 3 adults 1 children</a>
+                            <a href="{{route('as')}}"><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/jsb-co-CkP-70BPxzM-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="{{route('as')}}" class="styled_link" style="font-size: 30px;">Alpine Suite</a> <br>
+                            <a href="{{route('as')}}" class="styled_text">39m2 / 3 adults 1 children</a>
                             <p style="font-size: 20px;">From 109$</p>
                         </div>
                         <div class="sub-form">
-                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/hatice-baran-jOUy262OC8M-unsplash-660x913.jpg" alt="" class="resize-form"></a>
-                            <a href="" class="styled_link" style="font-size: 30px;">Serenity Suite</a> <br>
-                            <a href="" class="styled_text">55m2 / 3 adults 1 children</a>
+                            <a href="{{route('ss')}}"><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/hatice-baran-jOUy262OC8M-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="{{route('ss')}}" class="styled_link" style="font-size: 30px;">Serenity Suite</a> <br>
+                            <a href="{{route('ss')}}" class="styled_text">55m2 / 3 adults 1 children</a>
                             <p style="font-size: 20px;">From 119$</p>
                         </div>
                         <div class="sub-form">
-                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/andrea-davis-8xT51zPdsjY-unsplash-660x913.jpg" alt="" class="resize-form"></a>
-                            <a href="" class="styled_link" style="font-size: 30px;">Residence Suite</a> <br>
-                            <a href="" class="styled_text">77m2 / 3 adults 2 children</a>
+                            <a href="{{route('rs')}}"><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/andrea-davis-8xT51zPdsjY-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="{{route('rs')}}" class="styled_link" style="font-size: 30px;">Residence Suite</a> <br>
+                            <a href="{{route('rs')}}" class="styled_text">77m2 / 3 adults 2 children</a>
                             <p style="font-size: 20px;">From 169$</p>
                         </div>
                         <div class="sub-form">
-                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/jsb-co-VrQQMx3Jftc-unsplash-660x913.jpg" alt="" class="resize-form"></a>
-                            <a href="" class="styled_link" style="font-size: 30px;">Penhouse</a> <br>
-                            <a href="" class="styled_text">100m2 / 3 adults 2 children</a>
+                            <a href="{{route('pe')}}"><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/jsb-co-VrQQMx3Jftc-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="{{route('pe')}}" class="styled_link" style="font-size: 30px;">Penhouse</a> <br>
+                            <a href="{{route('pe')}}" class="styled_text">100m2 / 3 adults 2 children</a>
                             <p style="font-size: 20px;">From 189$</p>
                         </div>
                         <div class="sub-form">
-                            <a href=""><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/andrea-davis-k8WL83m48XY-unsplash-660x913.jpg" alt="" class="resize-form"></a>
-                            <a href="" class="styled_link" style="font-size: 30px;">Deluxe Room</a> <br>
-                            <a href="" class="styled_text">27m2 / 2 adults 1 children</a>
+                            <a href="{{route('dm')}}"><img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/andrea-davis-k8WL83m48XY-unsplash-660x913.jpg" alt="" class="resize-form"></a>
+                            <a href="{{route('dm')}}" class="styled_link" style="font-size: 30px;">Deluxe Room</a> <br>
+                            <a href="{{route('dm')}}" class="styled_text">27m2 / 2 adults 1 children</a>
                             <p style="font-size: 20px;">From 59$</p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <img style="margin-top: 100px" src="{{asset('assets')}}/img/resort.png" alt="">
+        <img style="margin-top: 100px; width: 100%" src="{{asset('assets')}}/img/resort.png" alt="">
         <section style="margin-top: 100px;" class="offers restaurant">
             <div class="container offers-content">
                 <div class="row">
@@ -247,7 +293,7 @@
                         <p>Executive Chef, showcases their expertise and passion for fine dining by using the finest, locally sourced ingredients</p>
                     </div>
                     <div class="discover-our-offers col-md-5">
-                        <a href="">
+                        <a href="{{route('service')}}">
                             <button type="button" class="btn">Discover More</button>
                         </a>
                     </div>
@@ -267,7 +313,7 @@
                 dedicated to enhancing your well- <br> being and restoring
                 your inner balance.</p>
             <div class="book-spa-session">
-                <a href="">
+                <a href="{{route('service')}}">
                     <button type="button" class="btn">Book spa session</button>
                 </a>
             </div>
@@ -287,7 +333,7 @@
                         <p>Discover our attractive offers on all Rooms & Suites at the Hoteller Resort. Start your journey with us.</p>
                     </div>
                     <div class="discover-our-offers col-md-5">
-                        <a href="">
+                        <a href="{{route('our-rooms')}}">
                             <button type="button" class="btn">Discover our offers</button>
                         </a>
                     </div>
@@ -297,7 +343,7 @@
         <section style="margin-top: 100px;" class="activities-service">
             <div class="row" style="width: 100%;">
                 <div class="service-infomation col-md-2">
-                    <a class="service-infomation-style" href="">
+                    <a class="service-infomation-style" href="{{route('service')}}">
                         <div class="sevice-img">
                             <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/adventurous-caucasian-woman-hiking-on-top-of-a-can-2021-10-28-01-56-10-utc-660x913.jpg" alt="">
                         </div>
@@ -311,7 +357,7 @@
                     </a>
                 </div>
                 <div class="service-infomation col-md-2">
-                    <a class="service-infomation-style" href="">
+                    <a class="service-infomation-style" href="{{route('service')}}">
                         <div class="sevice-img">
                             <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/paraglider-with-instructor-over-the-ski-slopes-2023-03-30-16-02-44-utc-660x913.jpg" alt="">
                         </div>
@@ -325,7 +371,7 @@
                     </a>
                 </div>
                 <div class="service-infomation col-md-2">
-                    <a class="service-infomation-style" href="">
+                    <a class="service-infomation-style" href="{{route('service')}}">
                         <div class="sevice-img">
                             <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/young-female-backpacker-skier-in-pink-suit-ski-tou-2022-05-17-05-27-10-utc-660x913.jpg" alt="">
                         </div>
@@ -339,7 +385,7 @@
                     </a>
                 </div>
                 <div class="service-infomation col-md-2">
-                    <a class="service-infomation-style" href="">
+                    <a class="service-infomation-style" href="{{route('service')}}">
                         <div class="sevice-img">
                             <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/getty-images-8nLhIUtBnU-unsplash-660x913.jpg" alt="">
                         </div>
@@ -353,7 +399,7 @@
                     </a>
                 </div>
                 <div class="service-infomation col-md-2">
-                    <a class="service-infomation-style" href="">
+                    <a class="service-infomation-style" href="{{route('service')}}">
                         <div class="sevice-img">
                             <img src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/a-view-from-a-distance-of-a-single-golfer-on-a-gre-2022-03-04-02-06-40-utc-660x913.jpg" alt="">
                         </div>
@@ -412,21 +458,21 @@
                 <div class="footer-row-2 mt-5">
                     <div class="footer-menu col-md-4">
                         <ul>
-                            <li><a href="">About Hotel</a></li>
-                            <li><a href="">Our Rooms</a></li>
-                            <li><a href="">Restaurant & Bar</a></li>
-                            <li><a href="">Spa & Wellness</a></li>
-                            <li><a href="">Contact</a></li>
+                            <li><a href="{{route('about')}}">About Hotel</a></li>
+                            <li><a href="{{route('our-rooms')}}">Our Rooms</a></li>
+                            <li><a href="{{route('service')}}">Restaurant & Bar</a></li>
+                            <li><a href="{{route('service')}}">Spa & Wellness</a></li>
+                            <li><a href="{{route('about')}}">Contact</a></li>
                         </ul>
                     </div>
                     <div class="footer-menu col-md-4">
                         <ul>
-                            <li><a href="">Deluxe Room</a></li>
-                            <li><a href="">Prestige Room</a></li>
-                            <li><a href="">Alpine Suite</a></li>
-                            <li><a href="">Serinity Suite</a></li>
-                            <li><a href="">Residence Suite</a></li>
-                            <li><a href="">Penthouse</a></li>
+                            <li><a href="{{route('dm')}}">Deluxe Room</a></li>
+                            <li><a href="{{route('pm')}}">Prestige Room</a></li>
+                            <li><a href="{{route('as')}}">Alpine Suite</a></li>
+                            <li><a href="{{route('ss')}}">Serinity Suite</a></li>
+                            <li><a href="{{route('rs')}}">Residence Suite</a></li>
+                            <li><a href="{{route('pe')}}">Penthouse</a></li>
                         </ul>
                     </div>
                     <div class="footer-copyright col-md-4">
@@ -448,7 +494,7 @@
             </div>
         </section>
     </section>
-
+    
     <script src="{{asset('assets')}}/js/home.js"></script>
 </body>
 </html>
