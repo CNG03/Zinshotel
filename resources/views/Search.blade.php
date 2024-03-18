@@ -35,9 +35,6 @@
                 </div>
             </div>
             <div class="wapper">
-                <div class="page-title-content">
-                    <h1>Search results</h1>
-                </div>
                 <div class="sidebar_widget">
                     <div class="sidebar_widget-2 ">
                         <div class="widget-currency">

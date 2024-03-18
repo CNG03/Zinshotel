@@ -21,6 +21,7 @@ Route::get('/home', [HomeController::class, 'index'])->name('home');
 Route::get('/', [UserController::class, 'loginSignUp'])->name('login_sign-up');
 Route::post('/register', [UserController::class, 'register'])->name('register');
 Route::post('/login', [UserController::class, 'login'])->name('login');
+Route::get('/logout', [UserController::class, 'logout'])->name('logout');
 
 
 Route::get('/service', function () {
@@ -72,3 +73,15 @@ Route::get('prestige-room', function () {
 Route::get('deluxe-room', function () {
     return view('rooms.deluxe-room');
 })->name('dm');
+
+Route::get('check-out', function () {
+    return view('check-out');
+})->name('check-out');
+
+Route::get('check-out-info', function () {
+    return view('check-out-info');
+})->name('co');
+
+Route::get('test-modal', function () {
+    return view('test');
+})->name('test');
