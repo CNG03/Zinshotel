@@ -12,6 +12,10 @@
 					
 
 <body class="page-template page-template-elementor_header_footer page page-id-569 theme-hoteller woocommerce-no-js tg_menu_transparent lightbox-white tg_sidemenu_desktop leftalign search-layout-list hoteller-input-classic elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-569">
+	{{-- @include('layout.user-model'); --}}
+
+
+
 		<div id="perspective" >
 		<input type="hidden" id="pp_menu_layout" name="pp_menu_layout" value="leftalign"/>
 	<input type="hidden" id="pp_enable_right_click" name="pp_enable_right_click" value=""/>
@@ -126,9 +130,16 @@
 				<div class="elementor-element elementor-element-d142939 elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="d142939" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Book Now</span>
+						@if (Auth::check())
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Book Now</span>
+						@else
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('login_sign-up')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Login</span>
+						@endif
+						{{-- <span class="elementor-button-text">Book Now</span> --}}
 		</span>
 					</a>
 		</div>
@@ -231,9 +242,16 @@
 				<div class="elementor-element elementor-element-0c1a66e elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="0c1a66e" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Book Now</span>
+						@if (Auth::check())
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Book Now</span>
+						@else
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('login_sign-up')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Login</span>
+						@endif
+						{{-- <span class="elementor-button-text">Book Now</span> --}}
 		</span>
 					</a>
 		</div>
@@ -820,9 +838,16 @@
 				<div class="elementor-element elementor-element-551b104 elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="551b104" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="#" target="_blank">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Book Now</span>
+						@if (Auth::check())
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="_blank">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Book Now</span>
+						@else
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('login_sign-up')}}" target="_blank">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Login</span>
+						@endif
+						{{-- <span class="elementor-button-text">Book Now</span> --}}
 		</span>
 					</a>
 		</div>
@@ -1020,4 +1045,7 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
 if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://hotellerv6-5.b-cdn.net/ski/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script src="https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/f833f87486f32ae0f13c9b2db9ed34b1.js" data-minify="1"></script></body>
+
+
+{{-- @include('layout.user-js'); --}}
 </html>

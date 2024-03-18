@@ -120,9 +120,16 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
                         {{-- Duong link cua button nhan vao chu boooknow mac dinh la tro ve trang outroom --}}
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Book Now</span>
+						@if (Auth::check())
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Book Now</span>
+						@else
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('login_sign-up')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Login</span>
+						@endif
+						{{-- <span class="elementor-button-text">Book Now</span> --}}
 		</span>
 					</a>
 		</div>
@@ -229,9 +236,16 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
 						{{-- Link book now thanh nav khi cuon  --}}
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Book Now</span>
+						@if (Auth::check())
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Book Now</span>
+						@else
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('login_sign-up')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Login</span>
+						@endif
+						{{-- <span class="elementor-button-text">Book Now</span> --}}
 		</span>
 					</a>
 		</div>

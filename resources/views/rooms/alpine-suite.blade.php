@@ -416,9 +416,16 @@ img.emoji {
 				<div class="elementor-element elementor-element-d142939 elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="d142939" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Book Now</span>
+						@if (Auth::check())
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Book Now</span>
+						@else
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('login_sign-up')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Login</span>
+						@endif
+						{{-- <span class="elementor-button-text">Book Now</span> --}}
 		</span>
 					</a>
 		</div>
@@ -520,9 +527,16 @@ img.emoji {
 				<div class="elementor-element elementor-element-0c1a66e elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="0c1a66e" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Book Now</span>
+						@if (Auth::check())
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Book Now</span>
+						@else
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('login_sign-up')}}" target="">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Login</span>
+						@endif
+						{{-- <span class="elementor-button-text">Book Now</span> --}}
 		</span>
 					</a>
 		</div>
@@ -1217,9 +1231,16 @@ img.emoji {
 				<div class="elementor-element elementor-element-551b104 elementor-widget__width-auto elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="551b104" data-element_type="widget" data-settings="{&quot;hoteller_ext_link_sidemenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_link_closed_fullmenu&quot;:&quot;false&quot;,&quot;hoteller_ext_is_scrollme&quot;:&quot;false&quot;,&quot;hoteller_ext_is_smoove&quot;:&quot;false&quot;,&quot;hoteller_ext_is_parallax_mouse&quot;:&quot;false&quot;,&quot;hoteller_ext_is_infinite&quot;:&quot;false&quot;,&quot;hoteller_ext_is_fadeout_animation&quot;:&quot;false&quot;,&quot;hoteller_ext_mobile_static&quot;:&quot;false&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="_blank">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Book Now</span>
+						@if (Auth::check())
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('our-rooms')}}" target="_blank">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Book Now</span>
+						@else
+						<a class="elementor-button elementor-button-link elementor-size-sm" href="{{route('login_sign-up')}}" target="_blank">
+							<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-text">Login</span>
+						@endif
+						{{-- <span class="elementor-button-text">Book Now</span> --}}
 		</span>
 					</a>
 		</div>
