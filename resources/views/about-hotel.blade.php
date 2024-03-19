@@ -984,12 +984,6 @@ img.emoji {
 											<span class="elementor-icon-list-text">Service</span>
 											</a>
 									</li>
-								{{-- <li class="elementor-icon-list-item">
-											<a href="#">
-
-											<span class="elementor-icon-list-text">Spa & Wellness</span>
-											</a>
-									</li> --}}
 								<li class="elementor-icon-list-item">
 											<a href="#">
 
@@ -1247,13 +1241,6 @@ img.emoji {
 				<img width="1440" height="958" class="themegoods-background-menu__item-img" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/alpine-winter-mountain-landscape-french-alps-with-2021-08-26-16-19-11-utc.jpg" alt=""/>
 			<span>
 		</li>
-				{{-- <li class="themegoods-background-menu__item">
-			<a class="themegoods-background-menu__item-link" href="https://hotellerv6-5.themegoods.com/ski/restaurant/" >Restaurant</a>
-			
-			<span class="themegoods-background-menu__item-image">
-				<img width="1440" height="960" class="themegoods-background-menu__item-img" src="https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/2023/09/alasdair-elmes-ULHxWq8reao-unsplash.jpg" alt=""/>
-			<span>
-		</li> --}}
 				<li class="themegoods-background-menu__item">
 			<a class="themegoods-background-menu__item-link" href="{{route('service')}}" >Service</a>
 			
