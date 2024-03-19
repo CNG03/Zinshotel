@@ -17,8 +17,9 @@ use Illuminate\Routing\Route as RoutingRoute;
 |
 */
 
-Route::get('/home', [HomeController::class, 'index'])->name('home');
-Route::get('/', [UserController::class, 'loginSignUp'])->name('login_sign-up');
+Route::get('/', [HomeController::class, 'index'])->name('home');
+// Route::get('/', [UserController::class, 'loginSignUp'])->name('login_sign-up');
+Route::get('/login_sign-up', [UserController::class, 'loginSignUp'])->name('login_sign-up');
 Route::post('/register', [UserController::class, 'register'])->name('register');
 Route::post('/login', [UserController::class, 'login'])->name('login');
 Route::get('/logout', [UserController::class, 'logout'])->name('logout');
@@ -85,3 +86,7 @@ Route::get('check-out-info', function () {
 Route::get('test-modal', function () {
     return view('test');
 })->name('test');
+
+Route::get('t', function () {
+    return view('or');
+})->name('or');

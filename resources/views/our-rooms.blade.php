@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html lang="en-US"  data-menu="leftalign">
 <head>
-
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://hotellerv6-5.themegoods.com/ski/xmlrpc.php" />
 
  
 

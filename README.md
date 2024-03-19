@@ -1,8 +1,23 @@
 # Trang web quản lý đặt phòng khách sạn
-## Thành viên nhóm: 
-+ Bùi Văn Công
-+ Hồ Quỳnh Công
-+ Phan Đăng Khánh
-+ Trương Đức Thắng
-+ Hà Xuân Tùng
+![Text](./public/assets/img/booking-confirm/logo-black2.png)
+## Giới thiệu
+
+Chào mừng bạn đến với trang web quản lý đặt phòng khách sạn! Trang web này được phát triển để cung cấp một nền tảng thuận tiện và linh hoạt cho việc đặt phòng khách sạn trực tuyến. Với giao diện thân thiện và tính năng đa dạng, chúng tôi hy vọng sẽ mang lại trải nghiệm đặt phòng tốt nhất cho khách hàng của chúng tôi.
+
+## Framework sử dụng
+
+Trang web được xây dựng trên nền tảng Laravel - một framework phổ biến cho phát triển ứng dụng web. Laravel cung cấp một cơ sở mã nguồn mạnh mẽ và linh hoạt, giúp chúng tôi phát triển và duy trì trang web một cách hiệu quả.
+
+## Thành viên nhóm
+
+Nhóm chúng tôi gồm những thành viên:
+
+- **[Bùi Văn Công](https://github.com/CNG03)**
+- **[Hồ Quỳnh Công](https://github.com/hoquynhcong)**
+- **[Phan Đăng Khánh](https://github.com/BanKhanhHocITNgu)**
+- **[Trương Đức Thắng](https://github.com/tdthang03)**
+- **[Hà Xuân Tùng](https://github.com/hatung01)**
+
+Chúng tôi đã cùng nhau làm việc chăm chỉ để tạo ra một trang web đáng tin cậy và tiện ích cho cộng đồng người dùng.
+
 
