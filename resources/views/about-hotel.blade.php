@@ -63,24 +63,24 @@ img.emoji {
 	                }
                 
 </style>
-<link data-minify="1" rel='stylesheet' id='modulobox-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/modulobox.css?ver=1696939201' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='hoteller-leftalignmenu-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/menus/leftalignmenu.css?ver=1696939201' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='fontawesome-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/font-awesome.min.css?ver=1696939201' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='themify-icons-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/themify-icons.css?ver=1696939201' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='tooltipster-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/tooltipster.css?ver=1696939201' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='hoteller-demo-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/core/demo.css?ver=1696939201' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='elementor-icons-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1696939201' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='modulobox-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/modulobox.css?ver=1710751887' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='hoteller-leftalignmenu-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/menus/leftalignmenu.css?ver=1710751887' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='fontawesome-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/font-awesome.min.css?ver=1710751887' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='themify-icons-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/themify-icons.css?ver=1710751887' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tooltipster-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/tooltipster.css?ver=1710751887' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='hoteller-demo-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/core/demo.css?ver=1710751887' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1710751887' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.4' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='swiper-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=1696939201' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='swiper-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=1710751887' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-3-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/elementor/css/post-3.css?ver=1695371899' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='animatedheadline-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/animatedheadline.css?ver=1696939201' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='justifiedGallery-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/justifiedGallery.css?ver=1696939201' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='flickity-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/flickity.css?ver=1696939201' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='animatedheadline-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/animatedheadline.css?ver=1710751887' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='justifiedGallery-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/justifiedGallery.css?ver=1710751887' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='flickity-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/flickity.css?ver=1710751887' type='text/css' media='all' />
 <link rel='stylesheet' id='owl-carousel-theme-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/plugins/hoteller-elementor/assets/css/owl.theme.default.min.css?ver=6.3.3' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='hoteller-elementor-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/hoteller-elementor.css?ver=1696939201' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='hoteller-elementor-responsive-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/hoteller-elementor-responsive.css?ver=1696939201' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='hoteller-elementor-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/hoteller-elementor.css?ver=1710751887' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='hoteller-elementor-responsive-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/plugins/hoteller-elementor/assets/css/hoteller-elementor-responsive.css?ver=1710751887' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-645-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/uploads/sites/4/elementor/css/post-645.css?ver=1695555741' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='hoteller-script-responsive-css-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/core/responsive.css?ver=1696939201' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='hoteller-script-responsive-css-css' href='https://hotellerv6-5.b-cdn.net/ski/wp-content/cache/min/4/ski/wp-content/themes/hoteller/css/core/responsive.css?ver=1710751887' type='text/css' media='all' />
 <style id='hoteller-script-responsive-css-inline-css' type='text/css'>
 
 		@keyframes fadeInUp {
