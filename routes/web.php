@@ -82,11 +82,3 @@ Route::get('check-out', function () {
 Route::get('check-out-info', function () {
     return view('check-out-info');
 })->name('co');
-
-Route::get('test-modal', function () {
-    return view('test');
-})->name('test');
-
-Route::get('t', function () {
-    return view('or');
-})->name('or');
