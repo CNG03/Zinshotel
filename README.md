@@ -12,12 +12,15 @@ Trang web được xây dựng trên nền tảng Laravel - một framework ph�
 
 Nhóm chúng tôi gồm những thành viên:
 
+- **[Giảng viên hướng dẫn: TS. Mai Thuý Nga](mailto:nga.maithuy@phenikaa-uni.edu.vn?subject=Subject%20here&body=Body%20here)**
 - **[Bùi Văn Công](https://github.com/CNG03)**
 - **[Hồ Quỳnh Công](https://github.com/hoquynhcong)**
 - **[Phan Đăng Khánh](https://github.com/BanKhanhHocITNgu)**
 - **[Trương Đức Thắng](https://github.com/tdthang03)**
 - **[Hà Xuân Tùng](https://github.com/hatung01)**
 
-Chúng tôi đã cùng nhau làm việc chăm chỉ để tạo ra một trang web đáng tin cậy và tiện ích cho cộng đồng người dùng.
+Mặc dù đạt nhiều kết quả tốt trong quá trình xây dựng và phát triển website, tuy
+nhiên do thời gian thực hiện đề tài có hạn nên nhóm không thể tránh được một số sai
+sót, em rất mong nhận được các ý kiến, đóng góp của cô và các bạn.
 
 
